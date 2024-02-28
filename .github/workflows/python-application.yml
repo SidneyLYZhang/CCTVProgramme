@@ -5,14 +5,13 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 21 * * 6,7'
+    - cron:  '0 2 * * 1,5'
 
 jobs:
   using-python:
     runs-on: ubuntu-latest
 
     steps:
-      - name: checkout actions
       - uses: actions/checkout@v4
 
       - name: set up python
