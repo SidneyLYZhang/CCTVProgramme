@@ -1,5 +1,5 @@
 
-
+## 必要package
 import requests as rq
 import json
 import time
@@ -8,13 +8,14 @@ import random
 import pendulum as pdm
 from typing import List
 
+## 频道代码列表
 CHANNELS = [
-    "cctv1","cctv2","cctv3","cctv4","cctv5","cctv6","cctv7","cctv8","cctv9",
+    "cctv1","cctv2","cctv3","cctv4","cctv5","cctv6","cctv7","cctv8",
     "cctv10","cctv11","cctv12","cctv13","cctv15","cctv16","cctv17",
-    "cctv5plus","cctvchild","cctveurope","cctvamerica"
+    "cctvjilu","cctv5plus","cctvchild","cctveurope","cctvamerica"
 ]
 
-
+## 核心爬取函数
 def getURL(url:str):
     '''爬取CCTV.com的api数据'''
     header = {
@@ -34,7 +35,7 @@ def getURL(url:str):
     }
     text = rq.get(url=url,headers=header).text
     text = json.loads(text[9:-2])
-    st = random.randint(5,16)
+    st = random.randint(5,9)
     print("please waiting {} seconds ...".format(st))
     time.sleep(st)
     return text['data']
@@ -61,6 +62,7 @@ def gettingData(thedate:str, thechannels:List[str]):
         return res
     
 if __name__ == "__main__":
+    ### 爬取数据并保存
     for dx in getTheDays():
         data = gettingData(dx, CHANNELS)
         if isinstance(data, dict):
