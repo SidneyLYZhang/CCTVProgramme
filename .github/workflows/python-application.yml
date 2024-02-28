@@ -26,8 +26,8 @@ jobs:
 
       - name: git commit
         run: |
-          git config -- global user.email zly@lyzhang.me
-          git config -- global user.name sz[bot]
+          git config --global user.email zly@lyzhang.me
+          git config --global user.name sz[bot]
           git add -A
           git commit -a -m "update data"
       
