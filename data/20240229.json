@@ -1,7 +1,6 @@
 {
   "cctv1": {
     "channelName": "CCTV-1 综合",
-    "isLive": "烟火人家第4集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/jrsf/videoset/",
@@ -448,13 +447,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1709169690,
     "lvUrl": "https://tv.cctv.com/live/cctv1",
     "vip_flag": 0
   },
   "cctv10": {
     "channelName": "CCTV-10 科教",
-    "isLive": "健康之路-2024-59",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/bjjt/index.shtml",
@@ -949,13 +946,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1709170590,
     "lvUrl": "https://tv.cctv.com/live/cctv10",
     "vip_flag": 0
   },
   "cctv11": {
     "channelName": "CCTV-11 戏曲",
-    "isLive": "九州大戏台-2022-14评剧《革命家庭》",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/dc/index.shtml",
@@ -1138,13 +1133,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1709169410,
     "lvUrl": "https://tv.cctv.com/live/cctv11",
     "vip_flag": 0
   },
   "cctv12": {
     "channelName": "CCTV-12 社会与法",
-    "isLive": "方圆剧阵2023-149",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/yixian/index.shtml",
@@ -1555,13 +1548,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1709169000,
     "lvUrl": "https://tv.cctv.com/live/cctv12",
     "vip_flag": 0
   },
   "cctv13": {
     "channelName": "CCTV-13 新闻",
-    "isLive": "新闻直播间",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/wyxw/index.shtml",
@@ -1972,13 +1963,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1709168400,
     "lvUrl": "https://tv.cctv.com/live/cctv13",
     "vip_flag": 0
   },
   "cctv15": {
     "channelName": "CCTV-15 音乐",
-    "isLive": "民歌·中国-2024-47歌儿唱给家乡听3纯享版",
     "list": [
       {
         "columnBackvideourl": "",
@@ -2209,13 +2198,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1709168220,
     "lvUrl": "https://tv.cctv.com/live/cctv15",
     "vip_flag": 0
   },
   "cctv16": {
     "channelName": "CCTV-16奥林匹克",
-    "isLive": "实况录像（奥林匹克）-世乒联男子总决赛 4",
     "list": [
       {
         "columnBackvideourl": "",
@@ -2530,13 +2517,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1709168400,
     "lvUrl": "https://tv.cctv.com/live/cctv16/index.shtml",
     "vip_flag": 0
   },
   "cctv17": {
     "channelName": "CCTV-17农业农村",
-    "isLive": "共富经-2024-37",
     "list": [
       {
         "columnBackvideourl": "",
@@ -2959,13 +2944,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1709170500,
     "lvUrl": "https://tv.cctv.com/live/cctv17",
     "vip_flag": 0
   },
   "cctv2": {
     "channelName": "CCTV-2 财经",
-    "isLive": "正点财经",
     "list": [
       {
         "columnBackvideourl": "",
@@ -3436,13 +3419,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1709168400,
     "lvUrl": "https://tv.cctv.com/live/cctv2",
     "vip_flag": 0
   },
   "cctv3": {
     "channelName": "CCTV-3 综艺",
-    "isLive": "我爱满堂彩-2024-4满堂喝彩",
     "list": [
       {
         "columnBackvideourl": "",
@@ -3745,13 +3726,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1709168575,
     "lvUrl": "https://tv.cctv.com/live/cctv3",
     "vip_flag": 0
   },
   "cctv4": {
     "channelName": "CCTV-4 (亚洲)",
-    "isLive": "中国文艺-2024-43",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4258,13 +4237,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1709170230,
     "lvUrl": "https://tv.cctv.com/live/cctv4",
     "vip_flag": 0
   },
   "cctv5": {
     "channelName": "CCTV-5 体育",
-    "isLive": "实况录像-第十四届全国冬季运动会 花样滑冰公开组 2",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4531,13 +4508,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1709168400,
     "lvUrl": "https://tv.cctv.com/live/cctv5/index.shtml",
     "vip_flag": 0
   },
   "cctv5plus": {
     "channelName": "CCTV-5+ 体育赛事",
-    "isLive": "实况录像-2024年世界泳联世锦赛 跳水 女子三米板决赛",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4780,13 +4755,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1709170200,
     "lvUrl": "https://tv.cctv.com/live/cctv5plus/index.shtml",
     "vip_flag": 0
   },
   "cctv6": {
     "channelName": "CCTV-6 电影",
-    "isLive": "哈尔滨往事之不归之路",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5017,13 +4990,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1709171014,
     "lvUrl": "https://tv.cctv.com/live/cctv6",
     "vip_flag": 0
   },
   "cctv7": {
     "channelName": "CCTV-7 国防军事",
-    "isLive": "军事纪实-2024-43",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/bqmmg/index.shtml",
@@ -5470,13 +5441,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1709170440,
     "lvUrl": "https://tv.cctv.com/live/cctv7",
     "vip_flag": 0
   },
   "cctv8": {
     "channelName": "CCTV-8 电视剧",
-    "isLive": "春天里的人们第24集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5883,7 +5852,7 @@
         "length": 200,
         "showTime": "19:26",
         "startTime": 1709206000,
-        "title": "本集提要-《一路向前》6/30",
+        "title": "本集提要- 《一路向前》第6集",
         "top": ""
       },
       {
@@ -5907,7 +5876,7 @@
         "length": 285,
         "showTime": "20:25",
         "startTime": 1709209525,
-        "title": "本集提要-《一路向前》7/30",
+        "title": "本集提要- 《一路向前》第7集",
         "top": ""
       },
       {
@@ -5931,7 +5900,7 @@
         "length": 270,
         "showTime": "21:22",
         "startTime": 1709212960,
-        "title": "本集提要-《大唐狄公案》28/30",
+        "title": "本集提要- 《大唐狄公案》第28集",
         "top": ""
       },
       {
@@ -5983,13 +5952,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1709170865,
     "lvUrl": "https://tv.cctv.com/live/cctv8",
     "vip_flag": 0
   },
   "cctvamerica": {
     "channelName": "CCTV-4 (美洲)",
-    "isLive": "什刹海-（四套）-20/37",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/hxla/index.shtml",
@@ -6508,13 +6475,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1709170890,
     "lvUrl": "https://tv.cctv.com/live/cctvamerica",
     "vip_flag": 0
   },
   "cctvchild": {
     "channelName": "CCTV-14 少儿",
-    "isLive": "动画大放映（上午版）-2024-61",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6733,13 +6698,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1709171100,
     "lvUrl": "https://tv.cctv.com/live/cctvchild",
     "vip_flag": 0
   },
   "cctveurope": {
     "channelName": "CCTV-4 (欧洲)",
-    "isLive": "远方的家2024-15(4K)",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/jcyyh/index.shtml",
@@ -7234,13 +7197,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1709169300,
     "lvUrl": "https://tv.cctv.com/live/cctveurope",
     "vip_flag": 0
   },
   "cctvjilu": {
     "channelName": "CCTV-9 纪录",
-    "isLive": "特别呈现2024-59",
     "list": [
       {
         "columnBackvideourl": "",
@@ -7579,7 +7540,6 @@
         "top": ""
       }
     ],
-    "liveSt": 1709168370,
     "lvUrl": "https://tv.cctv.com/live/cctvjilu",
     "vip_flag": 0
   }
