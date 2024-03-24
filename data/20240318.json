@@ -1,7 +1,6 @@
 {
   "cctv1": {
     "channelName": "CCTV-1 综合",
-    "isLive": "大江大河第7集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/jrsf/videoset/",
@@ -532,13 +531,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1710738630,
     "lvUrl": "https://tv.cctv.com/live/cctv1",
     "vip_flag": 0
   },
   "cctv10": {
     "channelName": "CCTV-10 科教",
-    "isLive": "透视新科技-2024-21",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/bjjt/index.shtml",
@@ -987,10 +984,10 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zrcq/index.shtml",
         "column_url": "https://tv.cctv.com/lm/zrcq/index.shtml",
-        "endTime": 1710776970,
+        "endTime": 1710777180,
         "eventId": "",
         "eventType": "",
-        "length": 3600,
+        "length": 3810,
         "showTime": "22:49",
         "startTime": 1710773370,
         "title": "自然传奇-2024-70",
@@ -1002,20 +999,18 @@
         "endTime": 1710777540,
         "eventId": "",
         "eventType": "",
-        "length": 570,
-        "showTime": "23:49",
-        "startTime": 1710776970,
+        "length": 360,
+        "showTime": "23:53",
+        "startTime": 1710777180,
         "title": "地理·中国-2024-78",
         "top": ""
       }
     ],
-    "liveSt": 1710737370,
     "lvUrl": "https://tv.cctv.com/live/cctv10",
     "vip_flag": 0
   },
   "cctv11": {
     "channelName": "CCTV-11 戏曲",
-    "isLive": "装台第24集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/dc/index.shtml",
@@ -1234,13 +1229,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1710738075,
     "lvUrl": "https://tv.cctv.com/live/cctv11",
     "vip_flag": 0
   },
   "cctv12": {
     "channelName": "CCTV-12 社会与法",
-    "isLive": "2024社会与法电视剧精选-有你才有家-18/50",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/fyjz/index.shtml",
@@ -1639,13 +1632,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1710737100,
     "lvUrl": "https://tv.cctv.com/live/cctv12",
     "vip_flag": 0
   },
   "cctv13": {
     "channelName": "CCTV-13 新闻",
-    "isLive": "新闻直播间",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/wyxw/index.shtml",
@@ -2080,13 +2071,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1710738000,
     "lvUrl": "https://tv.cctv.com/live/cctv13",
     "vip_flag": 0
   },
   "cctv15": {
     "channelName": "CCTV-15 音乐",
-    "isLive": "中国音乐电视-乐在旅途1",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/cctvyyt/index.shtml",
@@ -2317,13 +2306,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1710735540,
     "lvUrl": "https://tv.cctv.com/live/cctv15",
     "vip_flag": 0
   },
   "cctv16": {
     "channelName": "CCTV-16奥林匹克",
-    "isLive": "实况录像（奥林匹克）-2024年世界泳联跳水世界杯 加拿大蒙特利尔站 男子3米板决赛",
     "list": [
       {
         "columnBackvideourl": "",
@@ -2650,13 +2637,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1710736500,
     "lvUrl": "https://tv.cctv.com/live/cctv16/index.shtml",
     "vip_flag": 0
   },
   "cctv17": {
     "channelName": "CCTV-17农业农村",
-    "isLive": "田园帮帮团-2024-47",
     "list": [
       {
         "columnBackvideourl": "",
@@ -3079,13 +3064,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1710738000,
     "lvUrl": "https://tv.cctv.com/live/cctv17",
     "vip_flag": 0
   },
   "cctv2": {
     "channelName": "CCTV-2 财经",
-    "isLive": "周末特供-桥的世界2-30分版（上）",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zcjkk/videoset/index.shtml",
@@ -3568,13 +3551,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1710738040,
     "lvUrl": "https://tv.cctv.com/live/cctv2",
     "vip_flag": 0
   },
   "cctv3": {
     "channelName": "CCTV-3 综艺",
-    "isLive": "向幸福出发-2024-9",
     "list": [
       {
         "columnBackvideourl": "",
@@ -3853,13 +3834,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1710739065,
     "lvUrl": "https://tv.cctv.com/live/cctv3",
     "vip_flag": 0
   },
   "cctv4": {
     "channelName": "CCTV-4 (亚洲)",
-    "isLive": "鲁健访谈-2024-11",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4330,13 +4309,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1710738215,
     "lvUrl": "https://tv.cctv.com/live/cctv4",
     "vip_flag": 0
   },
   "cctv5": {
     "channelName": "CCTV-5 体育",
-    "isLive": "2023/2024赛季欧洲篮球联赛-第29轮（巴塞罗那-贝尔格莱德游击队）",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4579,13 +4556,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1710737880,
     "lvUrl": "https://tv.cctv.com/live/cctv5/index.shtml",
     "vip_flag": 0
   },
   "cctv5plus": {
     "channelName": "CCTV-5+ 体育赛事",
-    "isLive": "赛事集锦-2023/2024赛季世界速度滑冰短距离和全能锦标赛1",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4804,13 +4779,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1710738000,
     "lvUrl": "https://tv.cctv.com/live/cctv5plus/index.shtml",
     "vip_flag": 0
   },
   "cctv6": {
     "channelName": "CCTV-6 电影",
-    "isLive": "老捕快",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5053,13 +5026,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1710737293,
     "lvUrl": "https://tv.cctv.com/live/cctv6",
     "vip_flag": 0
   },
   "cctv7": {
     "channelName": "CCTV-7 国防军事",
-    "isLive": "砺剑-2024-11",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/jydwd/index.shtml",
@@ -5506,13 +5477,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1710738630,
     "lvUrl": "https://tv.cctv.com/live/cctv7",
     "vip_flag": 0
   },
   "cctv8": {
     "channelName": "CCTV-8 电视剧",
-    "isLive": "大山的女儿第18集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6055,13 +6024,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1710736720,
     "lvUrl": "https://tv.cctv.com/live/cctv8",
     "vip_flag": 0
   },
   "cctvamerica": {
     "channelName": "CCTV-4 (美洲)",
-    "isLive": "海峡两岸-2024-77",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/hxla/index.shtml",
@@ -6532,13 +6499,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1710738000,
     "lvUrl": "https://tv.cctv.com/live/cctvamerica",
     "vip_flag": 0
   },
   "cctvchild": {
     "channelName": "CCTV-14 少儿",
-    "isLive": "动漫世界-2024-78",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6757,13 +6722,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1710732600,
     "lvUrl": "https://tv.cctv.com/live/cctvchild",
     "vip_flag": 0
   },
   "cctveurope": {
     "channelName": "CCTV-4 (欧洲)",
-    "isLive": "华人故事-2024-11",
     "list": [
       {
         "columnBackvideourl": "",
@@ -7198,13 +7161,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1710738000,
     "lvUrl": "https://tv.cctv.com/live/cctveurope",
     "vip_flag": 0
   },
   "cctvjilu": {
     "channelName": "CCTV-9 纪录",
-    "isLive": "全景自然2024-77",
     "list": [
       {
         "columnBackvideourl": "",
@@ -7531,7 +7492,6 @@
         "top": ""
       }
     ],
-    "liveSt": 1710738210,
     "lvUrl": "https://tv.cctv.com/live/cctvjilu",
     "vip_flag": 0
   }
