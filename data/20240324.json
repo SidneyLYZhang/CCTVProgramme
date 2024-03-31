@@ -5693,7 +5693,6 @@
   },
   "cctvamerica": {
     "channelName": "CCTV-4 (美洲)",
-    "isLive": "今日关注",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/hxla/index.shtml",
@@ -6152,7 +6151,6 @@
         "top": ""
       }
     ],
-    "liveSt": 1711236600,
     "lvUrl": "https://tv.cctv.com/live/cctvamerica",
     "vip_flag": 0
   },
