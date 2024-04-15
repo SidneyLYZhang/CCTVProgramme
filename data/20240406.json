@@ -404,7 +404,6 @@
   },
   "cctv10": {
     "channelName": "CCTV-10 科教",
-    "isLive": "健康之路-2024-97",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/bjjt/index.shtml",
@@ -827,7 +826,6 @@
         "top": ""
       }
     ],
-    "liveSt": 1712397900,
     "lvUrl": "https://tv.cctv.com/live/cctv10",
     "vip_flag": 0
   },

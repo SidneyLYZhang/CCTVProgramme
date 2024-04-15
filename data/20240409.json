@@ -377,10 +377,10 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/jdft/index.shtml",
         "column_url": "https://tv.cctv.com/lm/jdft/index.shtml",
-        "endTime": 1712664060,
+        "endTime": 1712664075,
         "eventId": "",
         "eventType": "",
-        "length": 1300,
+        "length": 1315,
         "showTime": "19:39",
         "startTime": 1712662760,
         "title": "焦点访谈",
@@ -392,46 +392,46 @@
         "endTime": 1712664360,
         "eventId": "",
         "eventType": "",
-        "length": 300,
+        "length": 285,
         "showTime": "20:01",
-        "startTime": 1712664060,
-        "title": "前情提要-《城中之城》1/40",
+        "startTime": 1712664075,
+        "title": "前情提要- 《城中之城》第1集",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1712667365,
+        "endTime": 1712667330,
         "eventId": "",
         "eventType": "",
-        "length": 3005,
+        "length": 2970,
         "showTime": "20:06",
         "startTime": 1712664360,
-        "title": "城中之城-（一套版）-1/40",
+        "title": "城中之城-（一套版）-第1集",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1712667525,
+        "endTime": 1712667545,
         "eventId": "",
         "eventType": "",
-        "length": 160,
-        "showTime": "20:56",
-        "startTime": 1712667365,
-        "title": "前情提要-《城中之城》2/40",
+        "length": 215,
+        "showTime": "20:55",
+        "startTime": 1712667330,
+        "title": "前情提要- 《城中之城》第2集",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1712670450,
+        "endTime": 1712670440,
         "eventId": "",
         "eventType": "",
-        "length": 2925,
-        "showTime": "20:58",
-        "startTime": 1712667525,
-        "title": "城中之城-（一套版）-2/40",
+        "length": 2895,
+        "showTime": "20:59",
+        "startTime": 1712667545,
+        "title": "城中之城-（一套版）-第2集",
         "top": ""
       },
       {
@@ -440,9 +440,9 @@
         "endTime": 1712671200,
         "eventId": "",
         "eventType": "",
-        "length": 750,
+        "length": 760,
         "showTime": "21:47",
-        "startTime": 1712670450,
+        "startTime": 1712670440,
         "title": "精彩一刻-2024-169国宝四胤禛耕织图册",
         "top": ""
       },
@@ -2078,15 +2078,15 @@
         "top": ""
       },
       {
-        "columnBackvideourl": "https://tv.cctv.com/lm/mgzg/index.shtml",
-        "column_url": "https://tv.cctv.com/lm/mgzg/index.shtml",
+        "columnBackvideourl": "https://tv.cctv.com/lm/yslsj/index.shtml",
+        "column_url": "https://tv.cctv.com/lm/yslsj/index.shtml",
         "endTime": 1712637600,
         "eventId": "",
         "eventType": "",
         "length": 4440,
         "showTime": "11:26",
         "startTime": 1712633160,
-        "title": "民歌·中国-2024-73这里是我家——黑龙江·肇源（纯享版）",
+        "title": "影视留声机-2024-12",
         "top": ""
       },
       {
@@ -2170,7 +2170,7 @@
         "length": 4500,
         "showTime": "19:30",
         "startTime": 1712662200,
-        "title": "民歌·中国-2024-59乡情乡音４",
+        "title": "民歌·中国-2024-74非遗里的民歌",
         "top": ""
       },
       {
@@ -2186,26 +2186,14 @@
         "top": ""
       },
       {
-        "columnBackvideourl": "https://tv.cctv.com/lm/jcyyh/index.shtml",
-        "column_url": "https://tv.cctv.com/lm/jcyyh/index.shtml",
-        "endTime": 1712674440,
-        "eventId": "",
-        "eventType": "",
-        "length": 4500,
-        "showTime": "21:39",
-        "startTime": 1712669940,
-        "title": "精彩音乐汇-2024-83",
-        "top": ""
-      },
-      {
         "columnBackvideourl": "https://tv.cctv.com/lm/cctvyyt/index.shtml",
         "column_url": "https://tv.cctv.com/lm/cctvyyt/index.shtml",
-        "endTime": 1712677260,
+        "endTime": 1712673480,
         "eventId": "",
         "eventType": "",
-        "length": 2820,
-        "showTime": "22:54",
-        "startTime": 1712674440,
+        "length": 3540,
+        "showTime": "21:39",
+        "startTime": 1712669940,
         "title": "CCTV音乐厅-2024-75-名家名曲（15）",
         "top": ""
       },
@@ -2215,9 +2203,9 @@
         "endTime": 1712678340,
         "eventId": "",
         "eventType": "",
-        "length": 1080,
-        "showTime": "23:41",
-        "startTime": 1712677260,
+        "length": 4860,
+        "showTime": "22:38",
+        "startTime": 1712673480,
         "title": "四季交响“春之声”系列经典音乐会（纯享版）-2",
         "top": ""
       }
@@ -4480,6 +4468,18 @@
         "length": 1500,
         "showTime": "17:30",
         "startTime": 1712655000,
+        "title": "实况录像-2024年国际篮联三人篮球亚洲杯  2",
+        "top": ""
+      },
+      {
+        "columnBackvideourl": "",
+        "column_url": "",
+        "endTime": 1712658900,
+        "eventId": "",
+        "eventType": "",
+        "length": 2400,
+        "showTime": "17:55",
+        "startTime": 1712656500,
         "title": "体育新闻",
         "top": ""
       },
@@ -4489,10 +4489,10 @@
         "endTime": 1712664000,
         "eventId": "",
         "eventType": "",
-        "length": 7500,
-        "showTime": "17:55",
-        "startTime": 1712656500,
-        "title": "2024年中国足协超级联赛-第5轮（南通支云—上海海港）",
+        "length": 5100,
+        "showTime": "18:35",
+        "startTime": 1712658900,
+        "title": "实况录像-2023/2024中国男子篮球职业联赛常规赛 第51轮  深圳马可波罗-上海久事",
         "top": ""
       },
       {
@@ -4504,7 +4504,7 @@
         "length": 7200,
         "showTime": "20:00",
         "startTime": 1712664000,
-        "title": "2024年举重世界杯-女子87公斤级决赛",
+        "title": "2024年中国足协超级联赛-第5轮（上海申花—武汉三镇）",
         "top": ""
       },
       {
@@ -5876,7 +5876,7 @@
         "length": 120,
         "showTime": "19:28",
         "startTime": 1712662080,
-        "title": "本集提要-《承欢记》1/37",
+        "title": "本集提要- 《承欢记》第1集",
         "top": ""
       },
       {
@@ -5888,7 +5888,7 @@
         "length": 3375,
         "showTime": "19:30",
         "startTime": 1712662200,
-        "title": "承欢记1/37",
+        "title": "承欢记第1集",
         "top": ""
       },
       {
@@ -5900,7 +5900,7 @@
         "length": 235,
         "showTime": "20:26",
         "startTime": 1712665575,
-        "title": "本集提要-《承欢记》2/37",
+        "title": "本集提要- 《承欢记》第2集",
         "top": ""
       },
       {
@@ -5912,7 +5912,7 @@
         "length": 3190,
         "showTime": "20:30",
         "startTime": 1712665810,
-        "title": "承欢记2/37",
+        "title": "承欢记第2集",
         "top": ""
       },
       {
@@ -5924,7 +5924,7 @@
         "length": 210,
         "showTime": "21:23",
         "startTime": 1712669000,
-        "title": "本集提要-《我们的队伍向太阳》11/33",
+        "title": "本集提要- 《我们的队伍向太阳》第11集",
         "top": ""
       },
       {
@@ -5936,7 +5936,7 @@
         "length": 2945,
         "showTime": "21:26",
         "startTime": 1712669210,
-        "title": "我们的队伍向太阳11/33",
+        "title": "我们的队伍向太阳第11集",
         "top": ""
       },
       {
@@ -5948,7 +5948,7 @@
         "length": 75,
         "showTime": "22:15",
         "startTime": 1712672155,
-        "title": "本集提要-《我们的队伍向太阳》12/33",
+        "title": "本集提要- 《我们的队伍向太阳》第12集",
         "top": ""
       },
       {
@@ -5960,7 +5960,7 @@
         "length": 2910,
         "showTime": "22:17",
         "startTime": 1712672230,
-        "title": "我们的队伍向太阳12/33",
+        "title": "我们的队伍向太阳第12集",
         "top": ""
       },
       {
