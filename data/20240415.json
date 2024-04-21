@@ -1,7 +1,6 @@
 {
   "cctv1": {
     "channelName": "CCTV-1 综合",
-    "isLive": "冰雪尖刀连第24集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/jrsf/videoset/",
@@ -436,13 +435,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1713157800,
     "lvUrl": "https://tv.cctv.com/live/cctv1",
     "vip_flag": 0
   },
   "cctv10": {
     "channelName": "CCTV-10 科教",
-    "isLive": "科幻地带-2024-15",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/rwgs/index.shtml",
@@ -889,13 +886,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1713156570,
     "lvUrl": "https://tv.cctv.com/live/cctv10",
     "vip_flag": 0
   },
   "cctv11": {
     "channelName": "CCTV-11 戏曲",
-    "isLive": "好事成双第8集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/dc/index.shtml",
@@ -1090,13 +1085,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1713157655,
     "lvUrl": "https://tv.cctv.com/live/cctv11",
     "vip_flag": 0
   },
   "cctv12": {
     "channelName": "CCTV-12 社会与法",
-    "isLive": "2024社会与法电视剧精选-爱拼会赢-14/35",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/cxks/videoset/index.shtml",
@@ -1507,13 +1500,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1713156300,
     "lvUrl": "https://tv.cctv.com/live/cctv12",
     "vip_flag": 0
   },
   "cctv13": {
     "channelName": "CCTV-13 新闻",
-    "isLive": "新闻直播间",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/wyxw/index.shtml",
@@ -1626,34 +1617,22 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/xwzbj/index.shtml",
         "column_url": "https://tv.cctv.com/lm/xwzbj/index.shtml",
-        "endTime": 1713125700,
+        "endTime": 1713128400,
         "eventId": "",
         "eventType": "",
-        "length": 900,
+        "length": 3600,
         "showTime": "04:00",
         "startTime": 1713124800,
         "title": "新闻直播间",
         "top": ""
       },
       {
-        "columnBackvideourl": "https://tv.cctv.com/lm/sjzk/index.shtml",
-        "column_url": "https://tv.cctv.com/lm/sjzk/index.shtml",
-        "endTime": 1713128400,
-        "eventId": "",
-        "eventType": "",
-        "length": 2700,
-        "showTime": "04:15",
-        "startTime": 1713125700,
-        "title": "世界周刊",
-        "top": ""
-      },
-      {
         "columnBackvideourl": "https://tv.cctv.com/lm/xwzbj/index.shtml",
         "column_url": "https://tv.cctv.com/lm/xwzbj/index.shtml",
-        "endTime": 1713129120,
+        "endTime": 1713130560,
         "eventId": "",
         "eventType": "",
-        "length": 720,
+        "length": 2160,
         "showTime": "05:00",
         "startTime": 1713128400,
         "title": "新闻直播间",
@@ -1665,9 +1644,9 @@
         "endTime": 1713132000,
         "eventId": "",
         "eventType": "",
-        "length": 2880,
-        "showTime": "05:12",
-        "startTime": 1713129120,
+        "length": 1440,
+        "showTime": "05:36",
+        "startTime": 1713130560,
         "title": "面对面",
         "top": ""
       },
@@ -1686,25 +1665,13 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/xwzbj/index.shtml",
         "column_url": "https://tv.cctv.com/lm/xwzbj/index.shtml",
-        "endTime": 1713143520,
-        "eventId": "",
-        "eventType": "",
-        "length": 720,
-        "showTime": "09:00",
-        "startTime": 1713142800,
-        "title": "新闻直播间",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "https://tv.cctv.com/lm/sjzk/index.shtml",
-        "column_url": "https://tv.cctv.com/lm/sjzk/index.shtml",
         "endTime": 1713146400,
         "eventId": "",
         "eventType": "",
-        "length": 2880,
-        "showTime": "09:12",
-        "startTime": 1713143520,
-        "title": "世界周刊",
+        "length": 3600,
+        "showTime": "09:00",
+        "startTime": 1713142800,
+        "title": "新闻直播间",
         "top": ""
       },
       {
@@ -1770,25 +1737,13 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/xwzbj/index.shtml",
         "column_url": "https://tv.cctv.com/lm/xwzbj/index.shtml",
-        "endTime": 1713161520,
-        "eventId": "",
-        "eventType": "",
-        "length": 720,
-        "showTime": "14:00",
-        "startTime": 1713160800,
-        "title": "新闻直播间",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "https://tv.cctv.com/lm/mdm/index.shtml",
-        "column_url": "https://tv.cctv.com/lm/mdm/index.shtml",
         "endTime": 1713164400,
         "eventId": "",
         "eventType": "",
-        "length": 2880,
-        "showTime": "14:12",
-        "startTime": 1713161520,
-        "title": "面对面",
+        "length": 3600,
+        "showTime": "14:00",
+        "startTime": 1713160800,
+        "title": "新闻直播间",
         "top": ""
       },
       {
@@ -1948,13 +1903,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1713157200,
     "lvUrl": "https://tv.cctv.com/live/cctv13",
     "vip_flag": 0
   },
   "cctv15": {
     "channelName": "CCTV-15 音乐",
-    "isLive": "一起音乐吧-2024-30",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/yslsj/index.shtml",
@@ -2197,13 +2150,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1713156690,
     "lvUrl": "https://tv.cctv.com/live/cctv15",
     "vip_flag": 0
   },
   "cctv16": {
     "channelName": "CCTV-16奥林匹克",
-    "isLive": "实况录像（奥林匹克）-2023/2024赛季中国男子篮球职业联赛 季后赛 12进8 第三场",
     "list": [
       {
         "columnBackvideourl": "",
@@ -2530,13 +2481,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1713155700,
     "lvUrl": "https://tv.cctv.com/live/cctv16/index.shtml",
     "vip_flag": 0
   },
   "cctv17": {
     "channelName": "CCTV-17农业农村",
-    "isLive": "田园帮帮团-2024-66",
     "list": [
       {
         "columnBackvideourl": "",
@@ -2947,13 +2896,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1713157080,
     "lvUrl": "https://tv.cctv.com/live/cctv17",
     "vip_flag": 0
   },
   "cctv2": {
     "channelName": "CCTV-2 财经",
-    "isLive": "财经调查",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zgjjdjt/videoset/",
@@ -3412,13 +3359,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1713157200,
     "lvUrl": "https://tv.cctv.com/live/cctv2",
     "vip_flag": 0
   },
   "cctv3": {
     "channelName": "CCTV-3 综艺",
-    "isLive": "开门大吉-2024-15",
     "list": [
       {
         "columnBackvideourl": "",
@@ -3697,13 +3642,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1713153250,
     "lvUrl": "https://tv.cctv.com/live/cctv3",
     "vip_flag": 0
   },
   "cctv4": {
     "channelName": "CCTV-4 (亚洲)",
-    "isLive": "中国新闻",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4092,25 +4035,13 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/jrgz/index.shtml",
         "column_url": "https://tv.cctv.com/lm/jrgz/index.shtml",
-        "endTime": 1713189600,
-        "eventId": "",
-        "eventType": "",
-        "length": 1800,
-        "showTime": "21:30",
-        "startTime": 1713187800,
-        "title": "今日关注",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "https://tv.cctv.com/lm/zbzg/index.shtml",
-        "column_url": "https://tv.cctv.com/lm/zbzg/index.shtml",
         "endTime": 1713191400,
         "eventId": "",
         "eventType": "",
-        "length": 1800,
-        "showTime": "22:00",
-        "startTime": 1713189600,
-        "title": "走遍中国-2024-61",
+        "length": 3600,
+        "showTime": "21:30",
+        "startTime": 1713187800,
+        "title": "今日关注",
         "top": ""
       },
       {
@@ -4150,13 +4081,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1713153600,
     "lvUrl": "https://tv.cctv.com/live/cctv4",
     "vip_flag": 0
   },
   "cctv5": {
     "channelName": "CCTV-5 体育",
-    "isLive": "2024年国际乒联单打世界杯-小组赛第1轮1",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4387,13 +4316,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1713156900,
     "lvUrl": "https://tv.cctv.com/live/cctv5/index.shtml",
     "vip_flag": 0
   },
   "cctv5plus": {
     "channelName": "CCTV-5+ 体育赛事",
-    "isLive": "国际足球赛场-23-24赛季德甲联赛第29轮 拜仁慕尼黑—科隆",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4560,7 +4487,7 @@
         "length": 8400,
         "showTime": "19:30",
         "startTime": 1713180600,
-        "title": "2023/2024赛季中国男子篮球职业联赛-12进8 第三场1",
+        "title": "2023/2024赛季中国男子篮球职业联赛-12进8 第三场 深圳马可波罗VS北京控股",
         "top": ""
       },
       {
@@ -4588,13 +4515,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1713153600,
     "lvUrl": "https://tv.cctv.com/live/cctv5plus/index.shtml",
     "vip_flag": 0
   },
   "cctv6": {
     "channelName": "CCTV-6 电影",
-    "isLive": "猛虫过江",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4813,13 +4738,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1713156447,
     "lvUrl": "https://tv.cctv.com/live/cctv6",
     "vip_flag": 0
   },
   "cctv7": {
     "channelName": "CCTV-7 国防军事",
-    "isLive": "防务新观察-2024-76",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5242,13 +5165,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1713157410,
     "lvUrl": "https://tv.cctv.com/live/cctv7",
     "vip_flag": 0
   },
   "cctv8": {
     "channelName": "CCTV-8 电视剧",
-    "isLive": "完美伴侣第22集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/xtj/index.shtml",
@@ -5779,13 +5700,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1713156075,
     "lvUrl": "https://tv.cctv.com/live/cctv8",
     "vip_flag": 0
   },
   "cctvamerica": {
     "channelName": "CCTV-4 (美洲)",
-    "isLive": "中国新闻",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/hxla/index.shtml",
@@ -6162,25 +6081,25 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/jrgz/index.shtml",
         "column_url": "https://tv.cctv.com/lm/jrgz/index.shtml",
-        "endTime": 1713189600,
+        "endTime": 1713191700,
         "eventId": "",
         "eventType": "",
-        "length": 1800,
+        "length": 3900,
         "showTime": "21:30",
         "startTime": 1713187800,
         "title": "今日关注",
         "top": ""
       },
       {
-        "columnBackvideourl": "https://tv.cctv.com/lm/jcyyh/index.shtml",
-        "column_url": "https://tv.cctv.com/lm/jcyyh/index.shtml",
+        "columnBackvideourl": "",
+        "column_url": "",
         "endTime": 1713192300,
         "eventId": "",
         "eventType": "",
-        "length": 2700,
-        "showTime": "22:00",
-        "startTime": 1713189600,
-        "title": "精彩音乐汇（海外版）-2024-97",
+        "length": 600,
+        "showTime": "22:35",
+        "startTime": 1713191700,
+        "title": "记住乡愁2018片段展播-18",
         "top": ""
       },
       {
@@ -6220,13 +6139,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1713153600,
     "lvUrl": "https://tv.cctv.com/live/cctvamerica",
     "vip_flag": 0
   },
   "cctvchild": {
     "channelName": "CCTV-14 少儿",
-    "isLive": "动漫世界-2024-106",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6445,13 +6362,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1713151800,
     "lvUrl": "https://tv.cctv.com/live/cctvchild",
     "vip_flag": 0
   },
   "cctveurope": {
     "channelName": "CCTV-4 (欧洲)",
-    "isLive": "中国新闻",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/jcyyh/index.shtml",
@@ -6750,7 +6665,7 @@
         "length": 1680,
         "showTime": "18:00",
         "startTime": 1713175200,
-        "title": "中国缘-2024-14",
+        "title": "中国缘-2024-15",
         "top": ""
       },
       {
@@ -6828,10 +6743,10 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/jrgz/index.shtml",
         "column_url": "https://tv.cctv.com/lm/jrgz/index.shtml",
-        "endTime": 1713189600,
+        "endTime": 1713191400,
         "eventId": "",
         "eventType": "",
-        "length": 1800,
+        "length": 3600,
         "showTime": "21:30",
         "startTime": 1713187800,
         "title": "今日关注",
@@ -6840,47 +6755,33 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1713192360,
+        "endTime": 1713194100,
         "eventId": "",
         "eventType": "",
-        "length": 2760,
-        "showTime": "22:00",
-        "startTime": 1713189600,
+        "length": 2700,
+        "showTime": "22:30",
+        "startTime": 1713191400,
         "title": "温州三家人第4集",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1713195120,
-        "eventId": "",
-        "eventType": "",
-        "length": 2760,
-        "showTime": "22:46",
-        "startTime": 1713192360,
-        "title": "温州三家人第5集",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "https://tv.cctv.com/lm/zgy/videoset/",
-        "column_url": "https://tv.cctv.com/lm/zgy/index.shtml",
         "endTime": 1713196740,
         "eventId": "",
         "eventType": "",
-        "length": 1620,
-        "showTime": "23:32",
-        "startTime": 1713195120,
-        "title": "中国缘-2024-15",
+        "length": 2640,
+        "showTime": "23:15",
+        "startTime": 1713194100,
+        "title": "温州三家人第5集",
         "top": ""
       }
     ],
-    "liveSt": 1713153600,
     "lvUrl": "https://tv.cctv.com/live/cctveurope",
     "vip_flag": 0
   },
   "cctvjilu": {
     "channelName": "CCTV-9 纪录",
-    "isLive": "全景自然2024-105",
     "list": [
       {
         "columnBackvideourl": "",
@@ -7207,7 +7108,6 @@
         "top": ""
       }
     ],
-    "liveSt": 1713157410,
     "lvUrl": "https://tv.cctv.com/live/cctvjilu",
     "vip_flag": 0
   }
