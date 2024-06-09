@@ -1,7 +1,6 @@
 {
   "cctv1": {
     "channelName": "CCTV-1 综合",
-    "isLive": "大江大河之岁月如歌第15集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/kjl/videoset/",
@@ -472,13 +471,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1717391455,
     "lvUrl": "https://tv.cctv.com/live/cctv1",
     "vip_flag": 0
   },
   "cctv10": {
     "channelName": "CCTV-10 科教",
-    "isLive": "百家说故事-2024-154",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/tsfx/videoset/",
@@ -925,13 +922,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1717391550,
     "lvUrl": "https://tv.cctv.com/live/cctv10",
     "vip_flag": 0
   },
   "cctv11": {
     "channelName": "CCTV-11 戏曲",
-    "isLive": "小满生活第30集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/dc/index.shtml",
@@ -1138,13 +1133,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1717389385,
     "lvUrl": "https://tv.cctv.com/live/cctv11",
     "vip_flag": 0
   },
   "cctv12": {
     "channelName": "CCTV-12 社会与法",
-    "isLive": "2024社会与法电视剧精选-扫黑风暴-11/28",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/cxks/videoset/index.shtml",
@@ -1531,13 +1524,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1717391340,
     "lvUrl": "https://tv.cctv.com/live/cctv12",
     "vip_flag": 0
   },
   "cctv13": {
     "channelName": "CCTV-13 新闻",
-    "isLive": "新闻直播间",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/wyxw/index.shtml",
@@ -1972,13 +1963,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1717390800,
     "lvUrl": "https://tv.cctv.com/live/cctv13",
     "vip_flag": 0
   },
   "cctv15": {
     "channelName": "CCTV-15 音乐",
-    "isLive": "一起音乐吧-2024-51",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zgjp/index.shtml",
@@ -2193,7 +2182,7 @@
         "length": 3540,
         "showTime": "22:00",
         "startTime": 1717423230,
-        "title": "CCTV音乐厅-2024-109-名家名曲（39）",
+        "title": "CCTV音乐厅-2024-53-古典交响作品系列音乐会（4）",
         "top": ""
       },
       {
@@ -2209,13 +2198,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1717391040,
     "lvUrl": "https://tv.cctv.com/live/cctv15",
     "vip_flag": 0
   },
   "cctv16": {
     "channelName": "CCTV-16奥林匹克",
-    "isLive": "实况录像（奥林匹克）-2024年国际冰联男子冰球世界锦标赛 顶级组 半决赛",
     "list": [
       {
         "columnBackvideourl": "",
@@ -2530,13 +2517,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1717389300,
     "lvUrl": "https://tv.cctv.com/live/cctv16/index.shtml",
     "vip_flag": 0
   },
   "cctv17": {
     "channelName": "CCTV-17农业农村",
-    "isLive": "田园帮帮团-2024-101",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/xlxq/index.shtml",
@@ -2959,13 +2944,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1717390680,
     "lvUrl": "https://tv.cctv.com/live/cctv17",
     "vip_flag": 0
   },
   "cctv2": {
     "channelName": "CCTV-2 财经",
-    "isLive": "财经调查",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zgjjdjt/videoset/",
@@ -3390,59 +3373,45 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1717425500,
+        "endTime": 1717426400,
         "eventId": "",
         "eventType": "",
-        "length": 2420,
+        "length": 3320,
         "showTime": "21:58",
         "startTime": 1717423080,
-        "title": "2023精品财经纪录-大泰山-5",
+        "title": "2022精品财经纪录-青海我们的国家公园-1",
         "top": ""
       },
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/duihua/videoset/",
         "column_url": "https://tv.cctv.com/lm/duihua/index.shtml",
-        "endTime": 1717428320,
+        "endTime": 1717429220,
         "eventId": "",
         "eventType": "",
         "length": 2820,
-        "showTime": "22:38",
-        "startTime": 1717425500,
+        "showTime": "22:53",
+        "startTime": 1717426400,
         "title": "对话-2024-21",
         "top": ""
       },
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/jjbxs/videoset/",
         "column_url": "https://tv.cctv.com/lm/jjbxs/index.shtml",
-        "endTime": 1717430310,
-        "eventId": "",
-        "eventType": "",
-        "length": 1990,
-        "showTime": "23:25",
-        "startTime": 1717428320,
-        "title": "经济半小时",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "https://tv.cctv.com/lm/zgjjdjt/videoset/",
-        "column_url": "https://tv.cctv.com/lm/zgjjdjt/index.shtml",
         "endTime": 1717430340,
         "eventId": "",
         "eventType": "",
-        "length": 30,
-        "showTime": "23:58",
-        "startTime": 1717430310,
-        "title": "中国经济大讲堂-2024-21",
+        "length": 1120,
+        "showTime": "23:40",
+        "startTime": 1717429220,
+        "title": "经济半小时",
         "top": ""
       }
     ],
-    "liveSt": 1717390800,
     "lvUrl": "https://tv.cctv.com/live/cctv2",
     "vip_flag": 0
   },
   "cctv3": {
     "channelName": "CCTV-3 综艺",
-    "isLive": "综艺喜乐汇-2024-564",
     "list": [
       {
         "columnBackvideourl": "",
@@ -3757,13 +3726,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1717390720,
     "lvUrl": "https://tv.cctv.com/live/cctv3",
     "vip_flag": 0
   },
   "cctv4": {
     "channelName": "CCTV-4 (亚洲)",
-    "isLive": "我怕来不及第50集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4294,13 +4261,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1717391220,
     "lvUrl": "https://tv.cctv.com/live/cctv4",
     "vip_flag": 0
   },
   "cctv5": {
     "channelName": "CCTV-5 体育",
-    "isLive": "实况录像-2024年世界女排联赛 美国站 美国队—土耳其队 （录播）",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4497,37 +4462,37 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1717418100,
+        "endTime": 1717422300,
         "eventId": "",
         "eventType": "",
-        "length": 7500,
+        "length": 11700,
         "showTime": "18:30",
         "startTime": 1717410600,
         "title": "2024年世乒联冠军赛（重庆站）-女单、男单决赛",
         "top": ""
       },
       {
-        "columnBackvideourl": "https://tv.cctv.com/lm/txzq/index.shtml",
-        "column_url": "https://tv.cctv.com/lm/txzq/index.shtml",
-        "endTime": 1717421400,
+        "columnBackvideourl": "https://tv.cctv.com/lm/tysj/videoset/",
+        "column_url": "https://tv.cctv.com/lm/tysj/index.shtml",
+        "endTime": 1717424700,
         "eventId": "",
         "eventType": "",
-        "length": 3300,
-        "showTime": "20:35",
-        "startTime": 1717418100,
-        "title": "天下足球",
+        "length": 2400,
+        "showTime": "21:45",
+        "startTime": 1717422300,
+        "title": "体育世界",
         "top": ""
       },
       {
-        "columnBackvideourl": "https://tv.cctv.com/lm/tysj/videoset/",
-        "column_url": "https://tv.cctv.com/lm/tysj/index.shtml",
-        "endTime": 1717423500,
+        "columnBackvideourl": "https://tv.cctv.com/lm/txzq/index.shtml",
+        "column_url": "https://tv.cctv.com/lm/txzq/index.shtml",
+        "endTime": 1717428600,
         "eventId": "",
         "eventType": "",
-        "length": 2100,
-        "showTime": "21:30",
-        "startTime": 1717421400,
-        "title": "体育世界",
+        "length": 3900,
+        "showTime": "22:25",
+        "startTime": 1717424700,
+        "title": "天下足球",
         "top": ""
       },
       {
@@ -4536,20 +4501,18 @@
         "endTime": 1717430340,
         "eventId": "",
         "eventType": "",
-        "length": 6840,
-        "showTime": "22:05",
-        "startTime": 1717423500,
+        "length": 1740,
+        "showTime": "23:30",
+        "startTime": 1717428600,
         "title": "2024年法国网球公开赛-第4轮2",
         "top": ""
       }
     ],
-    "liveSt": 1717390680,
     "lvUrl": "https://tv.cctv.com/live/cctv5/index.shtml",
     "vip_flag": 0
   },
   "cctv5plus": {
     "channelName": "CCTV-5+ 体育赛事",
-    "isLive": "2023/2024赛季欧洲篮球联赛-半决赛1",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4756,13 +4719,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1717387200,
     "lvUrl": "https://tv.cctv.com/live/cctv5plus/index.shtml",
     "vip_flag": 0
   },
   "cctv6": {
     "channelName": "CCTV-6 电影",
-    "isLive": "响尾伏魔棒",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5005,13 +4966,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1717388489,
     "lvUrl": "https://tv.cctv.com/live/cctv6",
     "vip_flag": 0
   },
   "cctv7": {
     "channelName": "CCTV-7 国防军事",
-    "isLive": "砺剑-2024-22",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5446,13 +5405,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1717391430,
     "lvUrl": "https://tv.cctv.com/live/cctv7",
     "vip_flag": 0
   },
   "cctv8": {
     "channelName": "CCTV-8 电视剧",
-    "isLive": "追光的日子第13集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5971,13 +5928,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1717389590,
     "lvUrl": "https://tv.cctv.com/live/cctv8",
     "vip_flag": 0
   },
   "cctvamerica": {
     "channelName": "CCTV-4 (美洲)",
-    "isLive": "海峡两岸-2024-154",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/hxla/index.shtml",
@@ -6436,13 +6391,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1717390800,
     "lvUrl": "https://tv.cctv.com/live/cctvamerica",
     "vip_flag": 0
   },
   "cctvchild": {
     "channelName": "CCTV-14 少儿",
-    "isLive": "动漫世界-2024-155",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6649,13 +6602,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1717385400,
     "lvUrl": "https://tv.cctv.com/live/cctvchild",
     "vip_flag": 0
   },
   "cctveurope": {
     "channelName": "CCTV-4 (欧洲)",
-    "isLive": "华人故事-2024-22",
     "list": [
       {
         "columnBackvideourl": "",
@@ -7102,13 +7053,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1717390800,
     "lvUrl": "https://tv.cctv.com/live/cctveurope",
     "vip_flag": 0
   },
   "cctvjilu": {
     "channelName": "CCTV-9 纪录",
-    "isLive": "全景自然2024-154",
     "list": [
       {
         "columnBackvideourl": "",
@@ -7435,7 +7384,6 @@
         "top": ""
       }
     ],
-    "liveSt": 1717391010,
     "lvUrl": "https://tv.cctv.com/live/cctvjilu",
     "vip_flag": 0
   }
