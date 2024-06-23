@@ -179,7 +179,7 @@
         "length": 3165,
         "showTime": "09:24",
         "startTime": 1718846640,
-        "title": "玫瑰的故事1/38",
+        "title": "玫瑰的故事第1集",
         "top": ""
       },
       {
@@ -191,7 +191,7 @@
         "length": 2820,
         "showTime": "10:16",
         "startTime": 1718849805,
-        "title": "玫瑰的故事2/38",
+        "title": "玫瑰的故事第2集",
         "top": ""
       },
       {
@@ -203,7 +203,7 @@
         "length": 2880,
         "showTime": "11:03",
         "startTime": 1718852625,
-        "title": "玫瑰的故事3/38",
+        "title": "玫瑰的故事第3集",
         "top": ""
       },
       {
@@ -263,7 +263,7 @@
         "length": 2805,
         "showTime": "13:11",
         "startTime": 1718860305,
-        "title": "珠江人家33/35",
+        "title": "珠江人家第33集",
         "top": ""
       },
       {
@@ -275,7 +275,7 @@
         "length": 3080,
         "showTime": "13:58",
         "startTime": 1718863110,
-        "title": "珠江人家34/35",
+        "title": "珠江人家第34集",
         "top": ""
       },
       {
@@ -287,7 +287,7 @@
         "length": 2800,
         "showTime": "14:49",
         "startTime": 1718866190,
-        "title": "珠江人家35/35",
+        "title": "珠江人家第35集",
         "top": ""
       },
       {
@@ -299,7 +299,7 @@
         "length": 2850,
         "showTime": "15:36",
         "startTime": 1718868990,
-        "title": "潜行者1/37",
+        "title": "潜行者第1集",
         "top": ""
       },
       {
@@ -311,7 +311,7 @@
         "length": 3030,
         "showTime": "16:24",
         "startTime": 1718871840,
-        "title": "潜行者2/37",
+        "title": "潜行者第2集",
         "top": ""
       },
       {
@@ -365,10 +365,10 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/xwlb/index.shtml",
         "column_url": "https://tv.cctv.com/lm/xwlb/index.shtml",
-        "endTime": 1718883545,
+        "endTime": 1718884145,
         "eventId": "",
         "eventType": "",
-        "length": 2345,
+        "length": 2945,
         "showTime": "19:00",
         "startTime": 1718881200,
         "title": "新闻联播",
@@ -377,49 +377,49 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/jdft/index.shtml",
         "column_url": "https://tv.cctv.com/lm/jdft/index.shtml",
-        "endTime": 1718884845,
+        "endTime": 1718885280,
         "eventId": "",
         "eventType": "",
-        "length": 1300,
-        "showTime": "19:39",
-        "startTime": 1718883545,
+        "length": 1135,
+        "showTime": "19:49",
+        "startTime": 1718884145,
         "title": "焦点访谈",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1718885160,
+        "endTime": 1718885580,
         "eventId": "",
         "eventType": "",
-        "length": 315,
-        "showTime": "20:00",
-        "startTime": 1718884845,
-        "title": "前情提要-《海天雄鹰》14/35",
+        "length": 300,
+        "showTime": "20:08",
+        "startTime": 1718885280,
+        "title": "前情提要- 《海天雄鹰》第14集",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1718888235,
+        "endTime": 1718888580,
         "eventId": "",
         "eventType": "",
-        "length": 3075,
-        "showTime": "20:06",
-        "startTime": 1718885160,
-        "title": "海天雄鹰14/35",
+        "length": 3000,
+        "showTime": "20:13",
+        "startTime": 1718885580,
+        "title": "海天雄鹰第14集",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1718888385,
+        "endTime": 1718888825,
         "eventId": "",
         "eventType": "",
-        "length": 150,
-        "showTime": "20:57",
-        "startTime": 1718888235,
-        "title": "前情提要-《海天雄鹰》15/35",
+        "length": 245,
+        "showTime": "21:03",
+        "startTime": 1718888580,
+        "title": "前情提要- 《海天雄鹰》第15集",
         "top": ""
       },
       {
@@ -428,10 +428,10 @@
         "endTime": 1718892000,
         "eventId": "",
         "eventType": "",
-        "length": 3615,
-        "showTime": "20:59",
-        "startTime": 1718888385,
-        "title": "海天雄鹰15/35",
+        "length": 3175,
+        "showTime": "21:07",
+        "startTime": 1718888825,
+        "title": "海天雄鹰第15集",
         "top": ""
       },
       {
@@ -504,13 +504,25 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/bjjt/index.shtml",
         "column_url": "https://tv.cctv.com/lm/bjjt/index.shtml",
-        "endTime": 1718834400,
+        "endTime": 1718823780,
         "eventId": "",
         "eventType": "",
-        "length": 13020,
+        "length": 2400,
         "showTime": "02:23",
         "startTime": 1718821380,
         "title": "百家讲坛-2024-171",
+        "top": ""
+      },
+      {
+        "columnBackvideourl": "",
+        "column_url": "",
+        "endTime": 1718834400,
+        "eventId": "",
+        "eventType": "",
+        "length": 10620,
+        "showTime": "03:03",
+        "startTime": 1718823780,
+        "title": "再见",
         "top": ""
       },
       {
@@ -762,31 +774,19 @@
         "length": 3570,
         "showTime": "15:40",
         "startTime": 1718869200,
-        "title": "自然传奇-2024-159",
+        "title": "自然传奇-2024-200",
         "top": ""
       },
       {
-        "columnBackvideourl": "https://tv.cctv.com/lm/cxjxs/index.shtml",
-        "column_url": "https://tv.cctv.com/lm/cxjxs/index.shtml",
-        "endTime": 1718874090,
-        "eventId": "",
-        "eventType": "",
-        "length": 1320,
-        "showTime": "16:39",
-        "startTime": 1718872770,
-        "title": "创新进行时-2024-126",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "https://tv.cctv.com/lm/gzsbqlx/index.shtml",
-        "column_url": "https://tv.cctv.com/lm/gzsbqlx/index.shtml",
+        "columnBackvideourl": "",
+        "column_url": "",
         "endTime": 1718875650,
         "eventId": "",
         "eventType": "",
-        "length": 1560,
-        "showTime": "17:01",
-        "startTime": 1718874090,
-        "title": "跟着书本去旅行-2024-124",
+        "length": 2880,
+        "showTime": "16:39",
+        "startTime": 1718872770,
+        "title": "时代楷模发布厅-2024-3(4K)",
         "top": ""
       },
       {
@@ -919,13 +919,25 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/dc/index.shtml",
         "column_url": "https://tv.cctv.com/lm/dc/index.shtml",
-        "endTime": 1718834790,
+        "endTime": 1718816750,
         "eventId": "",
         "eventType": "",
-        "length": 19900,
+        "length": 1860,
         "showTime": "00:34",
         "startTime": 1718814890,
         "title": "典藏-2024-72",
+        "top": ""
+      },
+      {
+        "columnBackvideourl": "",
+        "column_url": "",
+        "endTime": 1718834790,
+        "eventId": "",
+        "eventType": "",
+        "length": 18040,
+        "showTime": "01:05",
+        "startTime": 1718816750,
+        "title": "再见",
         "top": ""
       },
       {
@@ -997,7 +1009,7 @@
         "length": 3030,
         "showTime": "11:19",
         "startTime": 1718853580,
-        "title": "情满九道弯25/40",
+        "title": "情满九道弯第25集",
         "top": ""
       },
       {
@@ -1009,7 +1021,7 @@
         "length": 3030,
         "showTime": "12:10",
         "startTime": 1718856610,
-        "title": "情满九道弯26/40",
+        "title": "情满九道弯第26集",
         "top": ""
       },
       {
@@ -1045,7 +1057,7 @@
         "length": 3030,
         "showTime": "17:13",
         "startTime": 1718874780,
-        "title": "一代匠师32/32",
+        "title": "一代匠师第32集",
         "top": ""
       },
       {
@@ -1057,7 +1069,7 @@
         "length": 3390,
         "showTime": "18:03",
         "startTime": 1718877810,
-        "title": "天龙八部1/50",
+        "title": "天龙八部第1集",
         "top": ""
       },
       {
@@ -1093,7 +1105,7 @@
         "length": 3030,
         "showTime": "22:28",
         "startTime": 1718893700,
-        "title": "武当一剑10/39",
+        "title": "武当一剑第10集",
         "top": ""
       },
       {
@@ -1105,7 +1117,7 @@
         "length": 2410,
         "showTime": "23:18",
         "startTime": 1718896730,
-        "title": "武当一剑11/39",
+        "title": "武当一剑第11集",
         "top": ""
       }
     ],
@@ -1142,13 +1154,25 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/fljtshb/videoset/",
         "column_url": "https://tv.cctv.com/lm/fljtshb/index.shtml",
-        "endTime": 1718834580,
+        "endTime": 1718821500,
         "eventId": "",
         "eventType": "",
-        "length": 14940,
+        "length": 1860,
         "showTime": "01:54",
         "startTime": 1718819640,
         "title": "法律讲堂-2024-171",
+        "top": ""
+      },
+      {
+        "columnBackvideourl": "",
+        "column_url": "",
+        "endTime": 1718834580,
+        "eventId": "",
+        "eventType": "",
+        "length": 13080,
+        "showTime": "02:25",
+        "startTime": 1718821500,
+        "title": "再见",
         "top": ""
       },
       {
@@ -1845,10 +1869,10 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/xwlb/index.shtml",
         "column_url": "https://tv.cctv.com/lm/xwlb/index.shtml",
-        "endTime": 1718890200,
+        "endTime": 1718890800,
         "eventId": "",
         "eventType": "",
-        "length": 1800,
+        "length": 2400,
         "showTime": "21:00",
         "startTime": 1718888400,
         "title": "新闻联播",
@@ -1857,12 +1881,12 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/xinwen1j1/index.shtml",
         "column_url": "https://tv.cctv.com/lm/xinwen1j1/index.shtml",
-        "endTime": 1718892000,
+        "endTime": 1718892600,
         "eventId": "",
         "eventType": "",
         "length": 1800,
-        "showTime": "21:30",
-        "startTime": 1718890200,
+        "showTime": "21:40",
+        "startTime": 1718890800,
         "title": "新闻1+1",
         "top": ""
       },
@@ -1872,9 +1896,9 @@
         "endTime": 1718893800,
         "eventId": "",
         "eventType": "",
-        "length": 1800,
-        "showTime": "22:00",
-        "startTime": 1718892000,
+        "length": 1200,
+        "showTime": "22:10",
+        "startTime": 1718892600,
         "title": "国际时讯",
         "top": ""
       },
@@ -1912,13 +1936,25 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/cctvyyt/index.shtml",
         "column_url": "https://tv.cctv.com/lm/cctvyyt/index.shtml",
-        "endTime": 1718834400,
+        "endTime": 1718817840,
         "eventId": "",
         "eventType": "",
-        "length": 19380,
+        "length": 2820,
         "showTime": "00:37",
         "startTime": 1718815020,
         "title": "CCTV音乐厅-2024-118-名家名曲（48）",
+        "top": ""
+      },
+      {
+        "columnBackvideourl": "",
+        "column_url": "",
+        "endTime": 1718834400,
+        "eventId": "",
+        "eventType": "",
+        "length": 16560,
+        "showTime": "01:24",
+        "startTime": 1718817840,
+        "title": "再见",
         "top": ""
       },
       {
@@ -2454,6 +2490,18 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
+        "endTime": 1718834100,
+        "eventId": "",
+        "eventType": "",
+        "length": 20025,
+        "showTime": "00:21",
+        "startTime": 1718814075,
+        "title": "再见",
+        "top": ""
+      },
+      {
+        "columnBackvideourl": "",
+        "column_url": "",
         "endTime": 1718834700,
         "eventId": "",
         "eventType": "",
@@ -2580,7 +2628,7 @@
         "length": 3060,
         "showTime": "10:20",
         "startTime": 1718850000,
-        "title": "人世间27/58",
+        "title": "人世间第27集",
         "top": ""
       },
       {
@@ -2592,7 +2640,7 @@
         "length": 2940,
         "showTime": "11:11",
         "startTime": 1718853060,
-        "title": "人世间28/58",
+        "title": "人世间第28集",
         "top": ""
       },
       {
@@ -2652,7 +2700,7 @@
         "length": 3030,
         "showTime": "13:36",
         "startTime": 1718861760,
-        "title": "越活越来劲33/47",
+        "title": "越活越来劲第33集",
         "top": ""
       },
       {
@@ -2664,7 +2712,7 @@
         "length": 3090,
         "showTime": "14:26",
         "startTime": 1718864790,
-        "title": "越活越来劲34/47",
+        "title": "越活越来劲第34集",
         "top": ""
       },
       {
@@ -2676,7 +2724,7 @@
         "length": 3090,
         "showTime": "15:18",
         "startTime": 1718867880,
-        "title": "越活越来劲35/47",
+        "title": "越活越来劲第35集",
         "top": ""
       },
       {
@@ -2688,7 +2736,7 @@
         "length": 2970,
         "showTime": "16:09",
         "startTime": 1718870970,
-        "title": "越活越来劲36/47",
+        "title": "越活越来劲第36集",
         "top": ""
       },
       {
@@ -2736,7 +2784,7 @@
         "length": 3240,
         "showTime": "18:35",
         "startTime": 1718879700,
-        "title": "人世间29/58",
+        "title": "人世间第29集",
         "top": ""
       },
       {
@@ -2748,7 +2796,7 @@
         "length": 2940,
         "showTime": "19:29",
         "startTime": 1718882940,
-        "title": "人世间30/58",
+        "title": "人世间第30集",
         "top": ""
       },
       {
@@ -3414,15 +3462,15 @@
         "top": ""
       },
       {
-        "columnBackvideourl": "https://tv.cctv.com/lm/xxfcf/index.shtml",
-        "column_url": "https://tv.cctv.com/lm/xxfcf/index.shtml",
+        "columnBackvideourl": "https://tv.cctv.com/lm/yzyy/videoset/",
+        "column_url": "https://tv.cctv.com/lm/yzyy/index.shtml",
         "endTime": 1718837230,
         "eventId": "",
         "eventType": "",
         "length": 4630,
         "showTime": "05:30",
         "startTime": 1718832600,
-        "title": "向幸福出发-2024-22",
+        "title": "越战越勇-2024-16",
         "top": ""
       },
       {
@@ -3474,15 +3522,15 @@
         "top": ""
       },
       {
-        "columnBackvideourl": "https://tv.cctv.com/lm/yzyy/videoset/",
-        "column_url": "https://tv.cctv.com/lm/yzyy/index.shtml",
+        "columnBackvideourl": "https://tv.cctv.com/lm/xxfcf/index.shtml",
+        "column_url": "https://tv.cctv.com/lm/xxfcf/index.shtml",
         "endTime": 1718854200,
         "eventId": "",
         "eventType": "",
         "length": 5080,
         "showTime": "10:05",
         "startTime": 1718849120,
-        "title": "越战越勇-2024-25",
+        "title": "向幸福出发-2024-25",
         "top": ""
       },
       {
@@ -3506,7 +3554,7 @@
         "length": 5180,
         "showTime": "11:52",
         "startTime": 1718855550,
-        "title": "开门大吉-2024-23",
+        "title": "开门大吉-2024-25",
         "top": ""
       },
       {
@@ -3669,7 +3717,7 @@
         "length": 2820,
         "showTime": "00:36",
         "startTime": 1718814990,
-        "title": "高山清渠2/28",
+        "title": "高山清渠第2集",
         "top": ""
       },
       {
@@ -3957,19 +4005,19 @@
         "length": 2760,
         "showTime": "13:33",
         "startTime": 1718861615,
-        "title": "跨过鸭绿江38/40",
+        "title": "跨过鸭绿江第36集",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1718867135,
+        "endTime": 1718867155,
         "eventId": "",
         "eventType": "",
-        "length": 2760,
+        "length": 2780,
         "showTime": "14:19",
         "startTime": 1718864375,
-        "title": "跨过鸭绿江39/40",
+        "title": "跨过鸭绿江第37集",
         "top": ""
       },
       {
@@ -3978,46 +4026,34 @@
         "endTime": 1718869915,
         "eventId": "",
         "eventType": "",
-        "length": 2780,
+        "length": 2760,
         "showTime": "15:05",
-        "startTime": 1718867135,
-        "title": "跨过鸭绿江40/40",
+        "startTime": 1718867155,
+        "title": "跨过鸭绿江第38集",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1718872420,
+        "endTime": 1718872690,
         "eventId": "",
         "eventType": "",
-        "length": 2505,
+        "length": 2775,
         "showTime": "15:51",
         "startTime": 1718869915,
-        "title": "破晓东方-（四套）-1/37",
+        "title": "跨过鸭绿江第39集",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1718872900,
+        "endTime": 1718873170,
         "eventId": "",
         "eventType": "",
         "length": 480,
-        "showTime": "16:33",
-        "startTime": 1718872420,
+        "showTime": "16:38",
+        "startTime": 1718872690,
         "title": "国家公园精彩片段-13",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "",
-        "column_url": "",
-        "endTime": 1718873080,
-        "eventId": "",
-        "eventType": "",
-        "length": 180,
-        "showTime": "16:41",
-        "startTime": 1718872900,
-        "title": "国家公园精彩片段-2",
         "top": ""
       },
       {
@@ -4026,9 +4062,9 @@
         "endTime": 1718874900,
         "eventId": "",
         "eventType": "",
-        "length": 1820,
-        "showTime": "16:44",
-        "startTime": 1718873080,
+        "length": 1730,
+        "showTime": "16:46",
+        "startTime": 1718873170,
         "title": "中国文艺-2024-123",
         "top": ""
       },
@@ -4155,10 +4191,10 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/xwlb/index.shtml",
         "column_url": "https://tv.cctv.com/lm/xwlb/index.shtml",
-        "endTime": 1718895870,
+        "endTime": 1718896470,
         "eventId": "",
         "eventType": "",
-        "length": 2070,
+        "length": 2670,
         "showTime": "22:30",
         "startTime": 1718893800,
         "title": "新闻联播",
@@ -4167,25 +4203,13 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1718898630,
-        "eventId": "",
-        "eventType": "",
-        "length": 2760,
-        "showTime": "23:04",
-        "startTime": 1718895870,
-        "title": "高山清渠3/28",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "",
-        "column_url": "",
         "endTime": 1718899140,
         "eventId": "",
         "eventType": "",
-        "length": 510,
-        "showTime": "23:50",
-        "startTime": 1718898630,
-        "title": "高山清渠4/28",
+        "length": 2670,
+        "showTime": "23:14",
+        "startTime": 1718896470,
+        "title": "高山清渠第3集",
         "top": ""
       }
     ],
@@ -4288,7 +4312,7 @@
         "length": 4800,
         "showTime": "10:40",
         "startTime": 1718851200,
-        "title": "实况录像-2024年世界女排联赛 中国香港站  保加利亚队—中国队",
+        "title": "实况录像-2024全国青少年U系列攀岩联赛（眉山站）",
         "top": ""
       },
       {
@@ -4559,7 +4583,7 @@
         "length": 7500,
         "showTime": "18:00",
         "startTime": 1718877600,
-        "title": "2024年世界女排联赛总决赛-1/4决赛1",
+        "title": "2024年世界女排联赛总决赛-1/4决赛（中国 VS 日本）",
         "top": ""
       },
       {
@@ -4583,7 +4607,7 @@
         "length": 7500,
         "showTime": "21:30",
         "startTime": 1718890200,
-        "title": "2024年世界女排联赛总决赛-1/4决赛2",
+        "title": "2024年世界女排联赛总决赛-1/4决赛（泰国 VS 巴西）",
         "top": ""
       },
       {
@@ -4620,10 +4644,10 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1718834943,
+        "endTime": 1718829125,
         "eventId": "",
         "eventType": "",
-        "length": 11345,
+        "length": 5527,
         "showTime": "02:59",
         "startTime": 1718823598,
         "title": "红茶镇",
@@ -4632,108 +4656,120 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1718840803,
+        "endTime": 1718835090,
         "eventId": "",
         "eventType": "",
-        "length": 5860,
-        "showTime": "06:09",
-        "startTime": 1718834943,
+        "length": 5965,
+        "showTime": "04:32",
+        "startTime": 1718829125,
+        "title": "龙威父子",
+        "top": ""
+      },
+      {
+        "columnBackvideourl": "",
+        "column_url": "",
+        "endTime": 1718840985,
+        "eventId": "",
+        "eventType": "",
+        "length": 5895,
+        "showTime": "06:11",
+        "startTime": 1718835090,
         "title": "牛王",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1718847543,
+        "endTime": 1718847843,
         "eventId": "",
         "eventType": "",
-        "length": 6740,
-        "showTime": "07:46",
-        "startTime": 1718840803,
+        "length": 6858,
+        "showTime": "07:49",
+        "startTime": 1718840985,
         "title": "卖油郎",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1718854043,
+        "endTime": 1718854463,
         "eventId": "",
         "eventType": "",
-        "length": 6500,
-        "showTime": "09:39",
-        "startTime": 1718847543,
+        "length": 6620,
+        "showTime": "09:44",
+        "startTime": 1718847843,
         "title": "一枝梅",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1718854418,
+        "endTime": 1718854948,
         "eventId": "",
         "eventType": "",
-        "length": 375,
-        "showTime": "11:27",
-        "startTime": 1718854043,
+        "length": 485,
+        "showTime": "11:34",
+        "startTime": 1718854463,
         "title": "音乐电影欣赏",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1718861251,
+        "endTime": 1718861816,
         "eventId": "",
         "eventType": "",
-        "length": 6833,
-        "showTime": "11:33",
-        "startTime": 1718854418,
+        "length": 6868,
+        "showTime": "11:42",
+        "startTime": 1718854948,
         "title": "断金",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1718867892,
+        "endTime": 1718868387,
         "eventId": "",
         "eventType": "",
-        "length": 6641,
-        "showTime": "13:27",
-        "startTime": 1718861251,
+        "length": 6571,
+        "showTime": "13:36",
+        "startTime": 1718861816,
         "title": "夏日的么么茶",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1718875887,
+        "endTime": 1718876877,
         "eventId": "",
         "eventType": "",
-        "length": 7995,
-        "showTime": "15:18",
-        "startTime": 1718867892,
+        "length": 8490,
+        "showTime": "15:26",
+        "startTime": 1718868387,
         "title": "风暴",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1718883212,
+        "endTime": 1718883882,
         "eventId": "",
         "eventType": "",
-        "length": 7325,
-        "showTime": "17:31",
-        "startTime": 1718875887,
+        "length": 7005,
+        "showTime": "17:47",
+        "startTime": 1718876877,
         "title": "深爱",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1718883932,
+        "endTime": 1718884482,
         "eventId": "",
         "eventType": "",
-        "length": 720,
-        "showTime": "19:33",
-        "startTime": 1718883212,
+        "length": 600,
+        "showTime": "19:44",
+        "startTime": 1718883882,
         "title": "今日影评2024-172",
         "top": ""
       },
@@ -4743,19 +4779,19 @@
         "endTime": 1718892000,
         "eventId": "",
         "eventType": "",
-        "length": 8068,
-        "showTime": "19:45",
-        "startTime": 1718883932,
+        "length": 7518,
+        "showTime": "19:54",
+        "startTime": 1718884482,
         "title": "十二生肖",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1718893320,
+        "endTime": 1718893365,
         "eventId": "",
         "eventType": "",
-        "length": 1320,
+        "length": 1365,
         "showTime": "22:00",
         "startTime": 1718892000,
         "title": "中国电影报道2024-172",
@@ -4764,13 +4800,37 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
+        "endTime": 1718895616,
+        "eventId": "",
+        "eventType": "",
+        "length": 2251,
+        "showTime": "22:22",
+        "startTime": 1718893365,
+        "title": "喋血战士（上）",
+        "top": ""
+      },
+      {
+        "columnBackvideourl": "",
+        "column_url": "",
+        "endTime": 1718895736,
+        "eventId": "",
+        "eventType": "",
+        "length": 120,
+        "showTime": "23:00",
+        "startTime": 1718895616,
+        "title": "中国体育彩票阳光开奖2024-06-20",
+        "top": ""
+      },
+      {
+        "columnBackvideourl": "",
+        "column_url": "",
         "endTime": 1718899140,
         "eventId": "",
         "eventType": "",
-        "length": 5820,
-        "showTime": "22:22",
-        "startTime": 1718893320,
-        "title": "喋血战士",
+        "length": 3404,
+        "showTime": "23:02",
+        "startTime": 1718895736,
+        "title": "喋血战士（下）",
         "top": ""
       }
     ],
@@ -4783,13 +4843,25 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/bqmmg/index.shtml",
         "column_url": "https://tv.cctv.com/lm/bqmmg/index.shtml",
-        "endTime": 1718834580,
+        "endTime": 1718815440,
         "eventId": "",
         "eventType": "",
-        "length": 21420,
+        "length": 2280,
         "showTime": "00:06",
         "startTime": 1718813160,
         "title": "兵器面面观-2024-123",
+        "top": ""
+      },
+      {
+        "columnBackvideourl": "",
+        "column_url": "",
+        "endTime": 1718834580,
+        "eventId": "",
+        "eventType": "",
+        "length": 19140,
+        "showTime": "00:44",
+        "startTime": 1718815440,
+        "title": "再见",
         "top": ""
       },
       {
@@ -4933,7 +5005,7 @@
         "length": 1500,
         "showTime": "11:28",
         "startTime": 1718854080,
-        "title": "军事纪录-2024-118",
+        "title": "军事纪录-2024-4",
         "top": ""
       },
       {
@@ -5005,7 +5077,7 @@
         "length": 1980,
         "showTime": "14:07",
         "startTime": 1718863650,
-        "title": "军事纪录-2024-118",
+        "title": "军事纪录-2024-4",
         "top": ""
       },
       {
@@ -5065,7 +5137,7 @@
         "length": 1500,
         "showTime": "17:27",
         "startTime": 1718875650,
-        "title": "军事纪录-2024-119",
+        "title": "军事纪录-2024-5",
         "top": ""
       },
       {
@@ -5107,10 +5179,10 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/xwlb/index.shtml",
         "column_url": "https://tv.cctv.com/lm/xwlb/index.shtml",
-        "endTime": 1718883180,
+        "endTime": 1718883780,
         "eventId": "",
         "eventType": "",
-        "length": 1980,
+        "length": 2580,
         "showTime": "19:00",
         "startTime": 1718881200,
         "title": "新闻联播",
@@ -5119,84 +5191,84 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/jsbd/index.shtml",
         "column_url": "https://tv.cctv.com/lm/jsbd/index.shtml",
-        "endTime": 1718884980,
+        "endTime": 1718885580,
         "eventId": "",
         "eventType": "",
         "length": 1800,
-        "showTime": "19:33",
-        "startTime": 1718883180,
+        "showTime": "19:43",
+        "startTime": 1718883780,
         "title": "军事报道",
         "top": ""
       },
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/jgll/index.shtml",
         "column_url": "https://tv.cctv.com/lm/jgll/index.shtml",
-        "endTime": 1718885370,
+        "endTime": 1718885970,
         "eventId": "",
         "eventType": "",
         "length": 390,
-        "showTime": "20:03",
-        "startTime": 1718884980,
+        "showTime": "20:13",
+        "startTime": 1718885580,
         "title": "国防微视频-军歌嘹亮-多想接过你的钢枪",
         "top": ""
       },
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/fwxgc/index.shtml",
         "column_url": "https://tv.cctv.com/lm/fwxgc/index.shtml",
-        "endTime": 1718887530,
+        "endTime": 1718888130,
         "eventId": "",
         "eventType": "",
         "length": 2160,
-        "showTime": "20:09",
-        "startTime": 1718885370,
+        "showTime": "20:19",
+        "startTime": 1718885970,
         "title": "防务新观察-2024-143",
         "top": ""
       },
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/jsjs/index.shtml",
         "column_url": "https://tv.cctv.com/lm/jsjs/index.shtml",
-        "endTime": 1718889570,
+        "endTime": 1718890170,
         "eventId": "",
         "eventType": "",
         "length": 2040,
-        "showTime": "20:45",
-        "startTime": 1718887530,
+        "showTime": "20:55",
+        "startTime": 1718888130,
         "title": "军事纪实-2024-124",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1718891730,
+        "endTime": 1718892330,
         "eventId": "",
         "eventType": "",
         "length": 2160,
-        "showTime": "21:19",
-        "startTime": 1718889570,
+        "showTime": "21:29",
+        "startTime": 1718890170,
         "title": "砺剑-2024-25",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1718894580,
+        "endTime": 1718895180,
         "eventId": "",
         "eventType": "",
         "length": 2850,
-        "showTime": "21:55",
-        "startTime": 1718891730,
+        "showTime": "22:05",
+        "startTime": 1718892330,
         "title": "虎胆巍城24/36",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1718897520,
+        "endTime": 1718898120,
         "eventId": "",
         "eventType": "",
         "length": 2940,
-        "showTime": "22:43",
-        "startTime": 1718894580,
+        "showTime": "22:53",
+        "startTime": 1718895180,
         "title": "虎胆巍城25/36",
         "top": ""
       },
@@ -5206,9 +5278,9 @@
         "endTime": 1718899140,
         "eventId": "",
         "eventType": "",
-        "length": 1620,
-        "showTime": "23:32",
-        "startTime": 1718897520,
+        "length": 1020,
+        "showTime": "23:42",
+        "startTime": 1718898120,
         "title": "军事纪实-2024-124",
         "top": ""
       }
@@ -5228,7 +5300,7 @@
         "length": 2760,
         "showTime": "00:01",
         "startTime": 1718812910,
-        "title": "有你才有家7/50",
+        "title": "有你才有家第7集",
         "top": ""
       },
       {
@@ -5252,7 +5324,7 @@
         "length": 2760,
         "showTime": "00:52",
         "startTime": 1718815950,
-        "title": "有你才有家8/50",
+        "title": "有你才有家第8集",
         "top": ""
       },
       {
@@ -5264,7 +5336,7 @@
         "length": 2760,
         "showTime": "01:38",
         "startTime": 1718818710,
-        "title": "有你才有家9/50",
+        "title": "有你才有家第9集",
         "top": ""
       },
       {
@@ -5276,7 +5348,7 @@
         "length": 2760,
         "showTime": "02:24",
         "startTime": 1718821470,
-        "title": "有你才有家10/50",
+        "title": "有你才有家第10集",
         "top": ""
       },
       {
@@ -5300,7 +5372,7 @@
         "length": 2760,
         "showTime": "03:17",
         "startTime": 1718824620,
-        "title": "有你才有家11/50",
+        "title": "有你才有家第11集",
         "top": ""
       },
       {
@@ -5336,7 +5408,7 @@
         "length": 2760,
         "showTime": "04:29",
         "startTime": 1718828980,
-        "title": "娘亲舅大20/51",
+        "title": "娘亲舅大第20集",
         "top": ""
       },
       {
@@ -5348,7 +5420,7 @@
         "length": 2760,
         "showTime": "05:15",
         "startTime": 1718831740,
-        "title": "娘亲舅大21/51",
+        "title": "娘亲舅大第21集",
         "top": ""
       },
       {
@@ -5360,7 +5432,7 @@
         "length": 3005,
         "showTime": "06:01",
         "startTime": 1718834500,
-        "title": "娘亲舅大22/51",
+        "title": "娘亲舅大第22集",
         "top": ""
       },
       {
@@ -5372,7 +5444,7 @@
         "length": 2760,
         "showTime": "06:51",
         "startTime": 1718837505,
-        "title": "娘亲舅大23/51",
+        "title": "娘亲舅大第23集",
         "top": ""
       },
       {
@@ -5396,7 +5468,7 @@
         "length": 3270,
         "showTime": "07:46",
         "startTime": 1718840785,
-        "title": "狂飙27/39",
+        "title": "狂飙第27集",
         "top": ""
       },
       {
@@ -5408,7 +5480,7 @@
         "length": 3005,
         "showTime": "08:40",
         "startTime": 1718844055,
-        "title": "狂飙28/39",
+        "title": "狂飙第28集",
         "top": ""
       },
       {
@@ -5432,7 +5504,7 @@
         "length": 3030,
         "showTime": "09:41",
         "startTime": 1718847675,
-        "title": "狂飙29/39",
+        "title": "狂飙第29集",
         "top": ""
       },
       {
@@ -5456,7 +5528,7 @@
         "length": 3025,
         "showTime": "10:40",
         "startTime": 1718851210,
-        "title": "狂飙30/39",
+        "title": "狂飙第30集",
         "top": ""
       },
       {
@@ -5480,7 +5552,7 @@
         "length": 2760,
         "showTime": "11:38",
         "startTime": 1718854705,
-        "title": "狂飙31/39",
+        "title": "狂飙第31集",
         "top": ""
       },
       {
@@ -5504,7 +5576,7 @@
         "length": 3370,
         "showTime": "12:38",
         "startTime": 1718858330,
-        "title": "大侠霍元甲21/45",
+        "title": "大侠霍元甲第21集",
         "top": ""
       },
       {
@@ -5516,7 +5588,7 @@
         "length": 3280,
         "showTime": "13:35",
         "startTime": 1718861700,
-        "title": "大侠霍元甲22/45",
+        "title": "大侠霍元甲第22集",
         "top": ""
       },
       {
@@ -5528,7 +5600,7 @@
         "length": 3390,
         "showTime": "14:29",
         "startTime": 1718864980,
-        "title": "大侠霍元甲23/45",
+        "title": "大侠霍元甲第23集",
         "top": ""
       },
       {
@@ -5540,7 +5612,7 @@
         "length": 2760,
         "showTime": "15:26",
         "startTime": 1718868370,
-        "title": "大侠霍元甲24/45",
+        "title": "大侠霍元甲第24集",
         "top": ""
       },
       {
@@ -5576,7 +5648,7 @@
         "length": 3700,
         "showTime": "16:30",
         "startTime": 1718872210,
-        "title": "高兴的酸甜苦辣37/40",
+        "title": "高兴的酸甜苦辣第37集",
         "top": ""
       },
       {
@@ -5588,7 +5660,7 @@
         "length": 3225,
         "showTime": "17:31",
         "startTime": 1718875910,
-        "title": "高兴的酸甜苦辣38/40",
+        "title": "高兴的酸甜苦辣第38集",
         "top": ""
       },
       {
@@ -5612,7 +5684,7 @@
         "length": 2930,
         "showTime": "18:32",
         "startTime": 1718879525,
-        "title": "高兴的酸甜苦辣39/40",
+        "title": "高兴的酸甜苦辣第39集",
         "top": ""
       },
       {
@@ -5636,7 +5708,7 @@
         "length": 220,
         "showTime": "19:26",
         "startTime": 1718882780,
-        "title": "本集提要-《玫瑰的故事》25/38",
+        "title": "本集提要- 《玫瑰的故事》第25集",
         "top": ""
       },
       {
@@ -5648,7 +5720,7 @@
         "length": 3345,
         "showTime": "19:30",
         "startTime": 1718883000,
-        "title": "玫瑰的故事25/38",
+        "title": "玫瑰的故事第25集",
         "top": ""
       },
       {
@@ -5660,7 +5732,7 @@
         "length": 295,
         "showTime": "20:25",
         "startTime": 1718886345,
-        "title": "本集提要-《玫瑰的故事》26/38",
+        "title": "本集提要- 《玫瑰的故事》第26集",
         "top": ""
       },
       {
@@ -5672,7 +5744,7 @@
         "length": 3085,
         "showTime": "20:30",
         "startTime": 1718886640,
-        "title": "玫瑰的故事26/38",
+        "title": "玫瑰的故事第26集",
         "top": ""
       },
       {
@@ -5684,7 +5756,7 @@
         "length": 270,
         "showTime": "21:22",
         "startTime": 1718889725,
-        "title": "本集提要-《南来北往》18/39",
+        "title": "本集提要- 《南来北往》第18集",
         "top": ""
       },
       {
@@ -5696,7 +5768,7 @@
         "length": 2975,
         "showTime": "21:26",
         "startTime": 1718889995,
-        "title": "南来北往18/39",
+        "title": "南来北往第18集",
         "top": ""
       },
       {
@@ -5708,7 +5780,7 @@
         "length": 105,
         "showTime": "22:16",
         "startTime": 1718892970,
-        "title": "本集提要-《南来北往》19/39",
+        "title": "本集提要- 《南来北往》第19集",
         "top": ""
       },
       {
@@ -5720,7 +5792,7 @@
         "length": 2925,
         "showTime": "22:17",
         "startTime": 1718893075,
-        "title": "南来北往19/39",
+        "title": "南来北往第19集",
         "top": ""
       },
       {
@@ -5732,7 +5804,7 @@
         "length": 2760,
         "showTime": "23:06",
         "startTime": 1718896000,
-        "title": "有你才有家12/50",
+        "title": "有你才有家第12集",
         "top": ""
       },
       {
@@ -5823,7 +5895,7 @@
         "length": 2760,
         "showTime": "02:28",
         "startTime": 1718821680,
-        "title": "许你万家灯火2/32",
+        "title": "许你万家灯火第2集",
         "top": ""
       },
       {
@@ -5835,7 +5907,7 @@
         "length": 2760,
         "showTime": "03:14",
         "startTime": 1718824440,
-        "title": "许你万家灯火3/32",
+        "title": "许你万家灯火第3集",
         "top": ""
       },
       {
@@ -5955,7 +6027,7 @@
         "length": 2760,
         "showTime": "09:00",
         "startTime": 1718845200,
-        "title": "乡村篮球队4/35",
+        "title": "乡村篮球队第4集",
         "top": ""
       },
       {
@@ -5967,7 +6039,7 @@
         "length": 2760,
         "showTime": "09:46",
         "startTime": 1718847960,
-        "title": "乡村篮球队5/35",
+        "title": "乡村篮球队第5集",
         "top": ""
       },
       {
@@ -6051,7 +6123,7 @@
         "length": 2760,
         "showTime": "13:58",
         "startTime": 1718863080,
-        "title": "许你万家灯火2/32",
+        "title": "许你万家灯火第2集",
         "top": ""
       },
       {
@@ -6063,7 +6135,7 @@
         "length": 2760,
         "showTime": "14:44",
         "startTime": 1718865840,
-        "title": "许你万家灯火3/32",
+        "title": "许你万家灯火第3集",
         "top": ""
       },
       {
@@ -6099,7 +6171,7 @@
         "length": 2760,
         "showTime": "16:23",
         "startTime": 1718871780,
-        "title": "乡村篮球队4/35",
+        "title": "乡村篮球队第4集",
         "top": ""
       },
       {
@@ -6111,7 +6183,7 @@
         "length": 3060,
         "showTime": "17:09",
         "startTime": 1718874540,
-        "title": "乡村篮球队5/35",
+        "title": "乡村篮球队第5集",
         "top": ""
       },
       {
@@ -6253,6 +6325,18 @@
   "cctvchild": {
     "channelName": "CCTV-14 少儿",
     "list": [
+      {
+        "columnBackvideourl": "",
+        "column_url": "",
+        "endTime": 1718834400,
+        "eventId": "",
+        "eventType": "",
+        "length": 20520,
+        "showTime": "00:18",
+        "startTime": 1718813880,
+        "title": "再见",
+        "top": ""
+      },
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/xxzhs/videoset/",
         "column_url": "https://tv.cctv.com/lm/xxzhs/index.shtml",
@@ -6689,7 +6773,7 @@
         "length": 2760,
         "showTime": "10:28",
         "startTime": 1718850480,
-        "title": "风雨送春归14/40",
+        "title": "风雨送春归第14集",
         "top": ""
       },
       {
@@ -6701,7 +6785,7 @@
         "length": 2760,
         "showTime": "11:14",
         "startTime": 1718853240,
-        "title": "风雨送春归15/40",
+        "title": "风雨送春归第15集",
         "top": ""
       },
       {
@@ -6737,7 +6821,7 @@
         "length": 2760,
         "showTime": "13:28",
         "startTime": 1718861280,
-        "title": "让我听懂你的语言9/36",
+        "title": "让我听懂你的语言第9集",
         "top": ""
       },
       {
@@ -6749,7 +6833,7 @@
         "length": 2760,
         "showTime": "14:14",
         "startTime": 1718864040,
-        "title": "让我听懂你的语言10/36",
+        "title": "让我听懂你的语言第10集",
         "top": ""
       },
       {
@@ -6797,7 +6881,7 @@
         "length": 2700,
         "showTime": "16:30",
         "startTime": 1718872200,
-        "title": "风雨送春归16/40",
+        "title": "风雨送春归第16集",
         "top": ""
       },
       {
@@ -6809,7 +6893,7 @@
         "length": 2700,
         "showTime": "17:15",
         "startTime": 1718874900,
-        "title": "风雨送春归17/40",
+        "title": "风雨送春归第17集",
         "top": ""
       },
       {
@@ -6929,7 +7013,7 @@
         "length": 2700,
         "showTime": "22:00",
         "startTime": 1718892000,
-        "title": "让我听懂你的语言11/36",
+        "title": "让我听懂你的语言第11集",
         "top": ""
       },
       {
@@ -6941,7 +7025,7 @@
         "length": 2730,
         "showTime": "22:45",
         "startTime": 1718894700,
-        "title": "让我听懂你的语言12/36",
+        "title": "让我听懂你的语言第12集",
         "top": ""
       },
       {
