@@ -1,7 +1,6 @@
 {
   "cctv1": {
     "channelName": "CCTV-1 综合",
-    "isLive": "三餐四季（第二季）-3",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/wjxw/index.shtml",
@@ -352,13 +351,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1738557650,
     "lvUrl": "https://tv.cctv.com/live/cctv1",
     "vip_flag": 0
   },
   "cctv10": {
     "channelName": "CCTV-10 科教",
-    "isLive": "跟着书本去旅行-2025-24",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/dlzg/index.shtml",
@@ -805,13 +802,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1738559490,
     "lvUrl": "https://tv.cctv.com/live/cctv10",
     "vip_flag": 0
   },
   "cctv11": {
     "channelName": "CCTV-11 戏曲",
-    "isLive": "我们的日子第8集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/mjsc/index.shtml",
@@ -1066,13 +1061,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1738559010,
     "lvUrl": "https://tv.cctv.com/live/cctv11",
     "vip_flag": 0
   },
   "cctv12": {
     "channelName": "CCTV-12 社会与法",
-    "isLive": "2024社会与法电视剧精选-最美的青春-6/36",
     "list": [
       {
         "columnBackvideourl": "",
@@ -1459,13 +1452,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1738559340,
     "lvUrl": "https://tv.cctv.com/live/cctv12",
     "vip_flag": 0
   },
   "cctv13": {
     "channelName": "CCTV-13 新闻",
-    "isLive": "新闻直播间",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/wyxw/index.shtml",
@@ -1864,13 +1855,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1738558800,
     "lvUrl": "https://tv.cctv.com/live/cctv13",
     "vip_flag": 0
   },
   "cctv15": {
     "channelName": "CCTV-15 音乐",
-    "isLive": "全球中文音乐榜上榜-2025-9-围炉话新春5",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/cctvyyt/index.shtml",
@@ -2065,13 +2054,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1738559340,
     "lvUrl": "https://tv.cctv.com/live/cctv15",
     "vip_flag": 0
   },
   "cctv16": {
     "channelName": "CCTV-16奥林匹克",
-    "isLive": "实况录像（奥林匹克）-2024/2025赛季国际雪联U型场地世界杯 单板滑雪决赛",
     "list": [
       {
         "columnBackvideourl": "",
@@ -2386,13 +2373,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1738557300,
     "lvUrl": "https://tv.cctv.com/live/cctv16/index.shtml",
     "vip_flag": 0
   },
   "cctv17": {
     "channelName": "CCTV-17农业农村",
-    "isLive": "超级农人秀-2025-24",
     "list": [
       {
         "columnBackvideourl": "",
@@ -2779,13 +2764,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1738560120,
     "lvUrl": "https://tv.cctv.com/live/cctv17",
     "vip_flag": 0
   },
   "cctv2": {
     "channelName": "CCTV-2 财经",
-    "isLive": "2023精品财经纪录-川味第四季-6",
     "list": [
       {
         "columnBackvideourl": "",
@@ -3196,13 +3179,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1738559840,
     "lvUrl": "https://tv.cctv.com/live/cctv2",
     "vip_flag": 0
   },
   "cctv3": {
     "channelName": "CCTV-3 综艺",
-    "isLive": "开门大吉-2025-4",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/xgdd/videoset/",
@@ -3505,13 +3486,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1738556595,
     "lvUrl": "https://tv.cctv.com/live/cctv3",
     "vip_flag": 0
   },
   "cctv4": {
     "channelName": "CCTV-4 (亚洲)",
-    "isLive": "深度国际-大东北7",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zgy/videoset/",
@@ -3982,13 +3961,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1738558925,
     "lvUrl": "https://tv.cctv.com/live/cctv4",
     "vip_flag": 0
   },
   "cctv5": {
     "channelName": "CCTV-5 体育",
-    "isLive": "艺术里的奥林匹克",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4267,13 +4244,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1738559100,
     "lvUrl": "https://tv.cctv.com/live/cctv5/index.shtml",
     "vip_flag": 0
   },
   "cctv5plus": {
     "channelName": "CCTV-5+ 体育赛事",
-    "isLive": "实况录像-2024/2025赛季速度滑冰世界杯 加拿大站 25分钟版",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4480,13 +4455,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1738558800,
     "lvUrl": "https://tv.cctv.com/live/cctv5plus/index.shtml",
     "vip_flag": 0
   },
   "cctv6": {
     "channelName": "CCTV-6 电影",
-    "isLive": "武状元苏乞儿",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4669,13 +4642,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1738554708,
     "lvUrl": "https://tv.cctv.com/live/cctv6",
     "vip_flag": 0
   },
   "cctv7": {
     "channelName": "CCTV-7 国防军事",
-    "isLive": "2025年军营过大年-5",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/jydwd/index.shtml",
@@ -5014,13 +4985,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1738559310,
     "lvUrl": "https://tv.cctv.com/live/cctv7",
     "vip_flag": 0
   },
   "cctv8": {
     "channelName": "CCTV-8 电视剧",
-    "isLive": "好团圆第13集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/xtj/index.shtml",
@@ -5527,13 +5496,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1738557535,
     "lvUrl": "https://tv.cctv.com/live/cctv8",
     "vip_flag": 0
   },
   "cctvamerica": {
     "channelName": "CCTV-4 (美洲)",
-    "isLive": "中国中医药大会（第二季）-1",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/xgdd/videoset/",
@@ -5968,13 +5935,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1738558800,
     "lvUrl": "https://tv.cctv.com/live/cctvamerica",
     "vip_flag": 0
   },
   "cctvchild": {
     "channelName": "CCTV-14 少儿",
-    "isLive": "动漫世界-2025-34",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6205,13 +6170,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1738553400,
     "lvUrl": "https://tv.cctv.com/live/cctvchild",
     "vip_flag": 0
   },
   "cctveurope": {
     "channelName": "CCTV-4 (欧洲)",
-    "isLive": "华人故事-2025-5",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6670,13 +6633,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1738558800,
     "lvUrl": "https://tv.cctv.com/live/cctveurope",
     "vip_flag": 0
   },
   "cctvjilu": {
     "channelName": "CCTV-9 纪录",
-    "isLive": "全景自然2024-360",
     "list": [
       {
         "columnBackvideourl": "",
@@ -7015,7 +6976,6 @@
         "top": ""
       }
     ],
-    "liveSt": 1738556820,
     "lvUrl": "https://tv.cctv.com/live/cctvjilu",
     "vip_flag": 0
   }
