@@ -1,7 +1,6 @@
 {
   "cctv1": {
     "channelName": "CCTV-1 综合",
-    "isLive": "暗夜与黎明第3集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/kjl/videoset/",
@@ -460,13 +459,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1745212250,
     "lvUrl": "https://tv.cctv.com/live/cctv1",
     "vip_flag": 0
   },
   "cctv10": {
     "channelName": "CCTV-10 科教",
-    "isLive": "跟着书本去旅行-2025-79",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/tsfx/videoset/",
@@ -925,13 +922,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1745212290,
     "lvUrl": "https://tv.cctv.com/live/cctv10",
     "vip_flag": 0
   },
   "cctv11": {
     "channelName": "CCTV-11 戏曲",
-    "isLive": "亲爱的自己第36集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -1150,13 +1145,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1745210940,
     "lvUrl": "https://tv.cctv.com/live/cctv11",
     "vip_flag": 0
   },
   "cctv12": {
     "channelName": "CCTV-12 社会与法",
-    "isLive": "2025社会与法电视剧精选-远方的山楂树-45/48",
     "list": [
       {
         "columnBackvideourl": "",
@@ -1543,13 +1536,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1745212140,
     "lvUrl": "https://tv.cctv.com/live/cctv12",
     "vip_flag": 0
   },
   "cctv13": {
     "channelName": "CCTV-13 新闻",
-    "isLive": "新闻直播间",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/wyxw/index.shtml",
@@ -1972,13 +1963,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1745211600,
     "lvUrl": "https://tv.cctv.com/live/cctv13",
     "vip_flag": 0
   },
   "cctv15": {
     "channelName": "CCTV-15 音乐",
-    "isLive": "影视留声机-2024-111-经典音乐电影欣赏《红色娘子军》",
     "list": [
       {
         "columnBackvideourl": "",
@@ -2185,13 +2174,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1745212380,
     "lvUrl": "https://tv.cctv.com/live/cctv15",
     "vip_flag": 0
   },
   "cctv16": {
     "channelName": "CCTV-16奥林匹克",
-    "isLive": "2024/2025德国足球甲级联赛-第30轮（海登海姆-拜仁慕尼黑）",
     "list": [
       {
         "columnBackvideourl": "",
@@ -2518,13 +2505,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1745210100,
     "lvUrl": "https://tv.cctv.com/live/cctv16/index.shtml",
     "vip_flag": 0
   },
   "cctv17": {
     "channelName": "CCTV-17农业农村",
-    "isLive": "田园帮帮团-2024-102",
     "list": [
       {
         "columnBackvideourl": "",
@@ -2599,8 +2584,8 @@
         "top": ""
       },
       {
-        "columnBackvideourl": "https://tv.cctv.com/lm/sncds/index.shtml",
-        "column_url": "https://tv.cctv.com/lm/sncds/index.shtml",
+        "columnBackvideourl": "https://tv.cctv.com/lm/zgsnbd/index.shtml",
+        "column_url": "https://tv.cctv.com/lm/zgsnbd/index.shtml",
         "endTime": 1745195055,
         "eventId": "",
         "eventType": "",
@@ -2683,8 +2668,8 @@
         "top": ""
       },
       {
-        "columnBackvideourl": "https://tv.cctv.com/lm/sncds/index.shtml",
-        "column_url": "https://tv.cctv.com/lm/sncds/index.shtml",
+        "columnBackvideourl": "https://tv.cctv.com/lm/zgsnbd/index.shtml",
+        "column_url": "https://tv.cctv.com/lm/zgsnbd/index.shtml",
         "endTime": 1745209860,
         "eventId": "",
         "eventType": "",
@@ -2803,8 +2788,8 @@
         "top": ""
       },
       {
-        "columnBackvideourl": "https://tv.cctv.com/lm/sncds/index.shtml",
-        "column_url": "https://tv.cctv.com/lm/sncds/index.shtml",
+        "columnBackvideourl": "https://tv.cctv.com/lm/zgsnbd/index.shtml",
+        "column_url": "https://tv.cctv.com/lm/zgsnbd/index.shtml",
         "endTime": 1745231745,
         "eventId": "",
         "eventType": "",
@@ -2935,13 +2920,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1745211510,
     "lvUrl": "https://tv.cctv.com/live/cctv17",
     "vip_flag": 0
   },
   "cctv2": {
     "channelName": "CCTV-2 财经",
-    "isLive": "财经调查",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/ycdy/videoset/",
@@ -3388,13 +3371,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1745211600,
     "lvUrl": "https://tv.cctv.com/live/cctv2",
     "vip_flag": 0
   },
   "cctv3": {
     "channelName": "CCTV-3 综艺",
-    "isLive": "综艺喜乐汇-2024-580",
     "list": [
       {
         "columnBackvideourl": "",
@@ -3685,13 +3666,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1745212105,
     "lvUrl": "https://tv.cctv.com/live/cctv3",
     "vip_flag": 0
   },
   "cctv4": {
     "channelName": "CCTV-4 (亚洲)",
-    "isLive": "记住乡愁2025-3",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4222,13 +4201,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1745211740,
     "lvUrl": "https://tv.cctv.com/live/cctv4",
     "vip_flag": 0
   },
   "cctv5": {
     "channelName": "CCTV-5 体育",
-    "isLive": "艺术里的奥林匹克(4K)",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4471,13 +4448,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1745211900,
     "lvUrl": "https://tv.cctv.com/live/cctv5/index.shtml",
     "vip_flag": 0
   },
   "cctv5plus": {
     "channelName": "CCTV-5+ 体育赛事",
-    "isLive": "实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 1/4决赛 7",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4672,13 +4647,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1745208000,
     "lvUrl": "https://tv.cctv.com/live/cctv5plus/index.shtml",
     "vip_flag": 0
   },
   "cctv6": {
     "channelName": "CCTV-6 电影",
-    "isLive": "渡江侦察记",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4869,7 +4842,7 @@
         "length": 320,
         "showTime": "22:18",
         "startTime": 1745245080,
-        "title": "中国福利彩票公益开奖2025-04-21",
+        "title": "中国福利彩票阳光开奖2025-04-21",
         "top": ""
       },
       {
@@ -4909,13 +4882,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1745209437,
     "lvUrl": "https://tv.cctv.com/live/cctv6",
     "vip_flag": 0
   },
   "cctv7": {
     "channelName": "CCTV-7 国防军事",
-    "isLive": "砺剑-2025-16",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5350,13 +5321,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1745212350,
     "lvUrl": "https://tv.cctv.com/live/cctv7",
     "vip_flag": 0
   },
   "cctv8": {
     "channelName": "CCTV-8 电视剧",
-    "isLive": "人世间第51集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/xtj/index.shtml",
@@ -5863,13 +5832,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1745210395,
     "lvUrl": "https://tv.cctv.com/live/cctv8",
     "vip_flag": 0
   },
   "cctvamerica": {
     "channelName": "CCTV-4 (美洲)",
-    "isLive": "海峡两岸-2025-110",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/xgdd/videoset/",
@@ -6328,13 +6295,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1745211600,
     "lvUrl": "https://tv.cctv.com/live/cctvamerica",
     "vip_flag": 0
   },
   "cctvchild": {
     "channelName": "CCTV-14 少儿",
-    "isLive": "动漫世界-2025-111",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6541,13 +6506,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1745206200,
     "lvUrl": "https://tv.cctv.com/live/cctvchild",
     "vip_flag": 0
   },
   "cctveurope": {
     "channelName": "CCTV-4 (欧洲)",
-    "isLive": "华人故事-2025-17",
     "list": [
       {
         "columnBackvideourl": "",
@@ -7006,13 +6969,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1745211600,
     "lvUrl": "https://tv.cctv.com/live/cctveurope",
     "vip_flag": 0
   },
   "cctvjilu": {
     "channelName": "CCTV-9 纪录",
-    "isLive": "特别呈现2025-103",
     "list": [
       {
         "columnBackvideourl": "",
@@ -7351,7 +7312,6 @@
         "top": ""
       }
     ],
-    "liveSt": 1745209620,
     "lvUrl": "https://tv.cctv.com/live/cctvjilu",
     "vip_flag": 0
   }
