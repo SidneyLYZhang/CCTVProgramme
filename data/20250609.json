@@ -1,7 +1,6 @@
 {
   "cctv1": {
     "channelName": "CCTV-1 综合",
-    "isLive": "绝密较量第4集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/wjxw/index.shtml",
@@ -378,10 +377,10 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1749477040,
+        "endTime": 1749477070,
         "eventId": "",
         "eventType": "",
-        "length": 3150,
+        "length": 3180,
         "showTime": "20:58",
         "startTime": 1749473890,
         "title": "护宝寻踪第26集",
@@ -393,10 +392,10 @@
         "endTime": 1749477600,
         "eventId": "",
         "eventType": "",
-        "length": 560,
-        "showTime": "21:50",
-        "startTime": 1749477040,
-        "title": "翠云廊（精品展播）-第1集",
+        "length": 530,
+        "showTime": "21:51",
+        "startTime": 1749477070,
+        "title": "山水间的家-主题曲",
         "top": ""
       },
       {
@@ -424,13 +423,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1749445820,
     "lvUrl": "https://tv.cctv.com/live/cctv1",
     "vip_flag": 0
   },
   "cctv10": {
     "channelName": "CCTV-10 科教",
-    "isLive": "跟着书本去旅行-2025-114",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/dlzg/index.shtml",
@@ -877,13 +874,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1749445890,
     "lvUrl": "https://tv.cctv.com/live/cctv10",
     "vip_flag": 0
   },
   "cctv11": {
     "channelName": "CCTV-11 戏曲",
-    "isLive": "姥姥的饺子馆第15集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/dc/index.shtml",
@@ -1102,13 +1097,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1749444495,
     "lvUrl": "https://tv.cctv.com/live/cctv11",
     "vip_flag": 0
   },
   "cctv12": {
     "channelName": "CCTV-12 社会与法",
-    "isLive": "2025社会与法电视剧精选-我哥我嫂-7/50",
     "list": [
       {
         "columnBackvideourl": "",
@@ -1495,13 +1488,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1749445740,
     "lvUrl": "https://tv.cctv.com/live/cctv12",
     "vip_flag": 0
   },
   "cctv13": {
     "channelName": "CCTV-13 新闻",
-    "isLive": "新闻直播间",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/wyxw/index.shtml",
@@ -1936,13 +1927,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1749445200,
     "lvUrl": "https://tv.cctv.com/live/cctv13",
     "vip_flag": 0
   },
   "cctv15": {
     "channelName": "CCTV-15 音乐",
-    "isLive": "影视留声机-2024-107-经典音乐电影欣赏《冰山上的来客》",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/cctvyyt/index.shtml",
@@ -2149,13 +2138,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1749446520,
     "lvUrl": "https://tv.cctv.com/live/cctv15",
     "vip_flag": 0
   },
   "cctv16": {
     "channelName": "CCTV-16奥林匹克",
-    "isLive": "实况录像（奥林匹克）-2024年巴黎奥运会 举重女子49公斤级决赛",
     "list": [
       {
         "columnBackvideourl": "",
@@ -2470,13 +2457,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1749445500,
     "lvUrl": "https://tv.cctv.com/live/cctv16/index.shtml",
     "vip_flag": 0
   },
   "cctv17": {
     "channelName": "CCTV-17农业农村",
-    "isLive": "田园帮帮团-2025-98",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/snqyh/index.shtml",
@@ -2875,13 +2860,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1749445500,
     "lvUrl": "https://tv.cctv.com/live/cctv17",
     "vip_flag": 0
   },
   "cctv2": {
     "channelName": "CCTV-2 财经",
-    "isLive": "财经调查",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/ycdy/videoset/",
@@ -3328,13 +3311,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1749445200,
     "lvUrl": "https://tv.cctv.com/live/cctv2",
     "vip_flag": 0
   },
   "cctv3": {
     "channelName": "CCTV-3 综艺",
-    "isLive": "奋楫家国  沈水欢歌颂端阳-完整版(4K)",
     "list": [
       {
         "columnBackvideourl": "",
@@ -3589,13 +3570,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1749446835,
     "lvUrl": "https://tv.cctv.com/live/cctv3",
     "vip_flag": 0
   },
   "cctv4": {
     "channelName": "CCTV-4 (亚洲)",
-    "isLive": "破晓东方-（四套）-12/37",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4138,48 +4117,22 @@
         "top": ""
       }
     ],
-    "liveSt": 1749445380,
     "lvUrl": "https://tv.cctv.com/live/cctv4",
     "vip_flag": 0
   },
   "cctv5": {
     "channelName": "CCTV-5 体育",
-    "isLive": "艺术里的奥林匹克(4K)",
     "list": [
-      {
-        "columnBackvideourl": "",
-        "column_url": "",
-        "endTime": 1749402300,
-        "eventId": "",
-        "eventType": "",
-        "length": 1800,
-        "showTime": "00:35",
-        "startTime": 1749400500,
-        "title": "实况录像-2025年世界泳联花样游泳世界杯 埃及站  1",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "",
-        "column_url": "",
-        "endTime": 1749407760,
-        "eventId": "",
-        "eventType": "",
-        "length": 5460,
-        "showTime": "01:05",
-        "startTime": 1749402300,
-        "title": "实况录像-2025年世界田联钻石联赛  拉巴特站",
-        "top": ""
-      },
       {
         "columnBackvideourl": "",
         "column_url": "",
         "endTime": 1749412800,
         "eventId": "",
         "eventType": "",
-        "length": 5040,
-        "showTime": "02:36",
-        "startTime": 1749407760,
-        "title": "实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 4",
+        "length": 1800,
+        "showTime": "03:30",
+        "startTime": 1749411000,
+        "title": "实况录像-2025年世界泳联花样游泳世界杯 埃及站",
         "top": ""
       },
       {
@@ -4387,13 +4340,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1749445500,
     "lvUrl": "https://tv.cctv.com/live/cctv5/index.shtml",
     "vip_flag": 0
   },
   "cctv5plus": {
     "channelName": "CCTV-5+ 体育赛事",
-    "isLive": "实况录像-2024/2025赛季欧洲篮球联赛 半决赛 费内巴切—帕纳辛纳科斯",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4588,13 +4539,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1749441600,
     "lvUrl": "https://tv.cctv.com/live/cctv5plus/index.shtml",
     "vip_flag": 0
   },
   "cctv6": {
     "channelName": "CCTV-6 电影",
-    "isLive": "白毛女（长影）",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4623,10 +4572,10 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1749423299,
+        "endTime": 1749419035,
         "eventId": "",
         "eventType": "",
-        "length": 11231,
+        "length": 6967,
         "showTime": "03:47",
         "startTime": 1749412068,
         "title": "关于我妈的一切",
@@ -4635,108 +4584,132 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1749430086,
+        "endTime": 1749423359,
         "eventId": "",
         "eventType": "",
-        "length": 6787,
-        "showTime": "06:54",
-        "startTime": 1749423299,
+        "length": 4324,
+        "showTime": "05:43",
+        "startTime": 1749419035,
+        "title": "马背上的巡线员",
+        "top": ""
+      },
+      {
+        "columnBackvideourl": "",
+        "column_url": "",
+        "endTime": 1749430006,
+        "eventId": "",
+        "eventType": "",
+        "length": 6647,
+        "showTime": "06:55",
+        "startTime": 1749423359,
         "title": "摇啊摇,摇到外婆桥",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1749437924,
+        "endTime": 1749437759,
         "eventId": "",
         "eventType": "",
-        "length": 7838,
-        "showTime": "08:48",
-        "startTime": 1749430086,
+        "length": 7753,
+        "showTime": "08:46",
+        "startTime": 1749430006,
         "title": "情定红海滩",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1749443780,
+        "endTime": 1749443908,
         "eventId": "",
         "eventType": "",
-        "length": 5856,
-        "showTime": "10:58",
-        "startTime": 1749437924,
+        "length": 6149,
+        "showTime": "10:55",
+        "startTime": 1749437759,
         "title": "无敌铁砂掌",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1749444155,
+        "endTime": 1749444258,
         "eventId": "",
         "eventType": "",
-        "length": 375,
-        "showTime": "12:36",
-        "startTime": 1749443780,
+        "length": 350,
+        "showTime": "12:38",
+        "startTime": 1749443908,
         "title": "音乐电影欣赏",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1749451382,
+        "endTime": 1749451370,
         "eventId": "",
         "eventType": "",
-        "length": 7227,
-        "showTime": "12:42",
-        "startTime": 1749444155,
+        "length": 7112,
+        "showTime": "12:44",
+        "startTime": 1749444258,
         "title": "白毛女（长影）",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1749457823,
+        "endTime": 1749453455,
         "eventId": "",
         "eventType": "",
-        "length": 6441,
-        "showTime": "14:43",
-        "startTime": 1749451382,
-        "title": "死无对证",
+        "length": 2085,
+        "showTime": "14:42",
+        "startTime": 1749451370,
+        "title": "死无对证（上）",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1749463959,
+        "endTime": 1749457630,
         "eventId": "",
         "eventType": "",
-        "length": 6136,
-        "showTime": "16:30",
-        "startTime": 1749457823,
+        "length": 4175,
+        "showTime": "15:17",
+        "startTime": 1749453455,
+        "title": "死无对证（下）",
+        "top": ""
+      },
+      {
+        "columnBackvideourl": "",
+        "column_url": "",
+        "endTime": 1749464161,
+        "eventId": "",
+        "eventType": "",
+        "length": 6531,
+        "showTime": "16:27",
+        "startTime": 1749457630,
         "title": "密战追踪之南都遗案",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1749464604,
+        "endTime": 1749464766,
         "eventId": "",
         "eventType": "",
-        "length": 645,
-        "showTime": "18:12",
-        "startTime": 1749463959,
+        "length": 605,
+        "showTime": "18:16",
+        "startTime": 1749464161,
         "title": "今日影评2025-114",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1749470604,
+        "endTime": 1749470594,
         "eventId": "",
         "eventType": "",
-        "length": 6000,
-        "showTime": "18:23",
-        "startTime": 1749464604,
+        "length": 5828,
+        "showTime": "18:26",
+        "startTime": 1749464766,
         "title": "执剑人",
         "top": ""
       },
@@ -4746,9 +4719,9 @@
         "endTime": 1749477600,
         "eventId": "",
         "eventType": "",
-        "length": 6996,
+        "length": 7006,
         "showTime": "20:03",
-        "startTime": 1749470604,
+        "startTime": 1749470594,
         "title": "我是证人",
         "top": ""
       },
@@ -4767,10 +4740,10 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1749478940,
+        "endTime": 1749479000,
         "eventId": "",
         "eventType": "",
-        "length": 260,
+        "length": 320,
         "showTime": "22:18",
         "startTime": 1749478680,
         "title": "中国福利彩票阳光开奖2025-06-09",
@@ -4779,24 +4752,24 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1749481238,
+        "endTime": 1749481204,
         "eventId": "",
         "eventType": "",
-        "length": 2298,
-        "showTime": "22:22",
-        "startTime": 1749478940,
-        "title": "天使陷落（上）",
+        "length": 2204,
+        "showTime": "22:23",
+        "startTime": 1749479000,
+        "title": "100样东西（上）",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1749481328,
+        "endTime": 1749481264,
         "eventId": "",
         "eventType": "",
-        "length": 90,
+        "length": 60,
         "showTime": "23:00",
-        "startTime": 1749481238,
+        "startTime": 1749481204,
         "title": "中国体育彩票阳光开奖2025-06-09",
         "top": ""
       },
@@ -4806,20 +4779,18 @@
         "endTime": 1749484740,
         "eventId": "",
         "eventType": "",
-        "length": 3412,
-        "showTime": "23:02",
-        "startTime": 1749481328,
-        "title": "天使陷落（下）",
+        "length": 3476,
+        "showTime": "23:01",
+        "startTime": 1749481264,
+        "title": "100样东西（下）",
         "top": ""
       }
     ],
-    "liveSt": 1749444155,
     "lvUrl": "https://tv.cctv.com/live/cctv6",
     "vip_flag": 0
   },
   "cctv7": {
     "channelName": "CCTV-7 国防军事",
-    "isLive": "砺剑-2025-23",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5254,13 +5225,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1749446010,
     "lvUrl": "https://tv.cctv.com/live/cctv7",
     "vip_flag": 0
   },
   "cctv8": {
     "channelName": "CCTV-8 电视剧",
-    "isLive": "完美伴侣第40集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5643,7 +5612,7 @@
         "length": 3280,
         "showTime": "19:30",
         "startTime": 1749468600,
-        "title": "长安的荔枝5/35",
+        "title": "长安的荔枝第5集",
         "top": ""
       },
       {
@@ -5667,7 +5636,7 @@
         "length": 3075,
         "showTime": "20:29",
         "startTime": 1749472180,
-        "title": "长安的荔枝6/35",
+        "title": "长安的荔枝第6集",
         "top": ""
       },
       {
@@ -5743,13 +5712,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1749444345,
     "lvUrl": "https://tv.cctv.com/live/cctv8",
     "vip_flag": 0
   },
   "cctvamerica": {
     "channelName": "CCTV-4 (美洲)",
-    "isLive": "海峡两岸-2025-159",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/xgdd/videoset/",
@@ -6208,13 +6175,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1749445200,
     "lvUrl": "https://tv.cctv.com/live/cctvamerica",
     "vip_flag": 0
   },
   "cctvchild": {
     "channelName": "CCTV-14 少儿",
-    "isLive": "动漫世界-2025-160",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6421,13 +6386,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1749439800,
     "lvUrl": "https://tv.cctv.com/live/cctvchild",
     "vip_flag": 0
   },
   "cctveurope": {
     "channelName": "CCTV-4 (欧洲)",
-    "isLive": "华人故事-2025-24",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6910,13 +6873,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1749445200,
     "lvUrl": "https://tv.cctv.com/live/cctveurope",
     "vip_flag": 0
   },
   "cctvjilu": {
     "channelName": "CCTV-9 纪录",
-    "isLive": "全景自然2025-159",
     "list": [
       {
         "columnBackvideourl": "",
@@ -7243,7 +7204,6 @@
         "top": ""
       }
     ],
-    "liveSt": 1749445410,
     "lvUrl": "https://tv.cctv.com/live/cctvjilu",
     "vip_flag": 0
   }
