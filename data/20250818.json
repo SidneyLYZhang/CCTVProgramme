@@ -1,7 +1,6 @@
 {
   "cctv1": {
     "channelName": "CCTV-1 综合",
-    "isLive": "淬火年代第8集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -324,7 +323,7 @@
         "length": 3300,
         "showTime": "20:05",
         "startTime": 1755518700,
-        "title": "我们的河山3/36",
+        "title": "我们的河山第3集",
         "top": ""
       },
       {
@@ -400,13 +399,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1755493840,
     "lvUrl": "https://tv.cctv.com/live/cctv1",
     "vip_flag": 0
   },
   "cctv10": {
     "channelName": "CCTV-10 科教",
-    "isLive": "剧说历史（第一季）-19",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/tsfx/videoset/",
@@ -817,13 +814,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1755492570,
     "lvUrl": "https://tv.cctv.com/live/cctv10",
     "vip_flag": 0
   },
   "cctv11": {
     "channelName": "CCTV-11 戏曲",
-    "isLive": "人世间第38集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/ysjc/index.shtml",
@@ -1030,13 +1025,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1755491860,
     "lvUrl": "https://tv.cctv.com/live/cctv11",
     "vip_flag": 0
   },
   "cctv12": {
     "channelName": "CCTV-12 社会与法",
-    "isLive": "2025社会与法电视剧精选-南来北往-14/39",
     "list": [
       {
         "columnBackvideourl": "",
@@ -1423,13 +1416,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1755493740,
     "lvUrl": "https://tv.cctv.com/live/cctv12",
     "vip_flag": 0
   },
   "cctv13": {
     "channelName": "CCTV-13 新闻",
-    "isLive": "新闻直播间",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/wyxw/index.shtml",
@@ -1672,14 +1663,26 @@
         "top": ""
       },
       {
+        "columnBackvideourl": "",
+        "column_url": "",
+        "endTime": 1755495230,
+        "eventId": "",
+        "eventType": "",
+        "length": 2030,
+        "showTime": "13:00",
+        "startTime": 1755493200,
+        "title": "辉煌60载 魅力新西藏·格桑花开新时代",
+        "top": ""
+      },
+      {
         "columnBackvideourl": "https://tv.cctv.com/lm/xwzbj/index.shtml",
         "column_url": "https://tv.cctv.com/lm/xwzbj/index.shtml",
         "endTime": 1755496800,
         "eventId": "",
         "eventType": "",
-        "length": 3600,
-        "showTime": "13:00",
-        "startTime": 1755493200,
+        "length": 1570,
+        "showTime": "13:33",
+        "startTime": 1755495230,
         "title": "新闻直播间",
         "top": ""
       },
@@ -1864,13 +1867,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1755493200,
     "lvUrl": "https://tv.cctv.com/live/cctv13",
     "vip_flag": 0
   },
   "cctv15": {
     "channelName": "CCTV-15 音乐",
-    "isLive": "合唱先锋-2025-17-炙热的青春（1）",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/jcyyh/index.shtml",
@@ -2113,13 +2114,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1755492390,
     "lvUrl": "https://tv.cctv.com/live/cctv15",
     "vip_flag": 0
   },
   "cctv16": {
     "channelName": "CCTV-16奥林匹克",
-    "isLive": "国际足球赛场-25-26赛季英超联赛第1轮 托特纳姆—伯恩利",
     "list": [
       {
         "columnBackvideourl": "",
@@ -2398,13 +2397,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1755491700,
     "lvUrl": "https://tv.cctv.com/live/cctv16/index.shtml",
     "vip_flag": 0
   },
   "cctv17": {
     "channelName": "CCTV-17农业农村",
-    "isLive": "密查第27集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/snqyh/index.shtml",
@@ -2827,13 +2824,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1755494770,
     "lvUrl": "https://tv.cctv.com/live/cctv17",
     "vip_flag": 0
   },
   "cctv2": {
     "channelName": "CCTV-2 财经",
-    "isLive": "财经调查",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zcjkk/videoset/index.shtml",
@@ -3316,13 +3311,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1755493200,
     "lvUrl": "https://tv.cctv.com/live/cctv2",
     "vip_flag": 0
   },
   "cctv3": {
     "channelName": "CCTV-3 综艺",
-    "isLive": "乐在旅途第三季-1",
     "list": [
       {
         "columnBackvideourl": "",
@@ -3577,13 +3570,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1755494615,
     "lvUrl": "https://tv.cctv.com/live/cctv3",
     "vip_flag": 0
   },
   "cctv4": {
     "channelName": "CCTV-4 (亚洲)",
-    "isLive": "跨过鸭绿江-（四套）-29/40",
     "list": [
       {
         "columnBackvideourl": "",
@@ -3996,37 +3987,37 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zgxw/index.shtml",
         "column_url": "https://tv.cctv.com/lm/zgxw/index.shtml",
-        "endTime": 1755516600,
+        "endTime": 1755516420,
         "eventId": "",
         "eventType": "",
-        "length": 1800,
+        "length": 1620,
         "showTime": "19:00",
         "startTime": 1755514800,
         "title": "中国新闻",
         "top": ""
       },
       {
-        "columnBackvideourl": "https://tv.cctv.com/lm/jryz/index.shtml",
-        "column_url": "https://tv.cctv.com/lm/jryz/index.shtml",
+        "columnBackvideourl": "",
+        "column_url": "",
         "endTime": 1755518400,
         "eventId": "",
         "eventType": "",
-        "length": 1800,
-        "showTime": "19:30",
-        "startTime": 1755516600,
-        "title": "今日亚洲",
+        "length": 1980,
+        "showTime": "19:27",
+        "startTime": 1755516420,
+        "title": "辉煌六十年：高原诗篇-3",
         "top": ""
       },
       {
-        "columnBackvideourl": "https://tv.cctv.com/lm/gjjy/videoset/",
-        "column_url": "https://tv.cctv.com/lm/gjjy/index.shtml",
+        "columnBackvideourl": "",
+        "column_url": "",
         "endTime": 1755520200,
         "eventId": "",
         "eventType": "",
         "length": 1800,
         "showTime": "20:00",
         "startTime": 1755518400,
-        "title": "国家记忆-2025-101",
+        "title": "辉煌六十年：高原诗篇-4",
         "top": ""
       },
       {
@@ -4114,13 +4105,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1755495030,
     "lvUrl": "https://tv.cctv.com/live/cctv4",
     "vip_flag": 0
   },
   "cctv5": {
     "channelName": "CCTV-5 体育",
-    "isLive": "艺术里的奥林匹克(4K)",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4305,10 +4294,10 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1755522000,
+        "endTime": 1755523800,
         "eventId": "",
         "eventType": "",
-        "length": 7200,
+        "length": 9000,
         "showTime": "19:00",
         "startTime": 1755514800,
         "title": "2025年全国排球锦标赛-女排决赛",
@@ -4317,12 +4306,12 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/txzq/index.shtml",
         "column_url": "https://tv.cctv.com/lm/txzq/index.shtml",
-        "endTime": 1755525600,
+        "endTime": 1755527400,
         "eventId": "",
         "eventType": "",
         "length": 3600,
-        "showTime": "21:00",
-        "startTime": 1755522000,
+        "showTime": "21:30",
+        "startTime": 1755523800,
         "title": "天下足球",
         "top": ""
       },
@@ -4332,9 +4321,9 @@
         "endTime": 1755529500,
         "eventId": "",
         "eventType": "",
-        "length": 3900,
-        "showTime": "22:00",
-        "startTime": 1755525600,
+        "length": 2100,
+        "showTime": "22:30",
+        "startTime": 1755527400,
         "title": "体育世界",
         "top": ""
       },
@@ -4351,13 +4340,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1755493500,
     "lvUrl": "https://tv.cctv.com/live/cctv5/index.shtml",
     "vip_flag": 0
   },
   "cctv5plus": {
     "channelName": "CCTV-5+ 体育赛事",
-    "isLive": "实况录像-2025年世界泳联世锦赛 跳水 女子双人3米板决赛",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4552,13 +4539,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1755493200,
     "lvUrl": "https://tv.cctv.com/live/cctv5plus/index.shtml",
     "vip_flag": 0
   },
   "cctv6": {
     "channelName": "CCTV-6 电影",
-    "isLive": "红高粱",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4813,13 +4798,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1755493578,
     "lvUrl": "https://tv.cctv.com/live/cctv6",
     "vip_flag": 0
   },
   "cctv7": {
     "channelName": "CCTV-7 国防军事",
-    "isLive": "砺剑-2025-33",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/bqmmg/index.shtml",
@@ -5266,13 +5249,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1755493710,
     "lvUrl": "https://tv.cctv.com/live/cctv7",
     "vip_flag": 0
   },
   "cctv8": {
     "channelName": "CCTV-8 电视剧",
-    "isLive": "我是刑警第5集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5755,13 +5736,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1755492440,
     "lvUrl": "https://tv.cctv.com/live/cctv8",
     "vip_flag": 0
   },
   "cctvamerica": {
     "channelName": "CCTV-4 (美洲)",
-    "isLive": "中国舆论场-2025-33",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/xgdd/videoset/",
@@ -6150,37 +6129,61 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zgxw/index.shtml",
         "column_url": "https://tv.cctv.com/lm/zgxw/index.shtml",
-        "endTime": 1755516600,
+        "endTime": 1755516180,
         "eventId": "",
         "eventType": "",
-        "length": 1800,
+        "length": 1380,
         "showTime": "19:00",
         "startTime": 1755514800,
         "title": "中国新闻",
         "top": ""
       },
       {
-        "columnBackvideourl": "https://tv.cctv.com/lm/jryz/index.shtml",
-        "column_url": "https://tv.cctv.com/lm/jryz/index.shtml",
+        "columnBackvideourl": "",
+        "column_url": "",
+        "endTime": 1755516600,
+        "eventId": "",
+        "eventType": "",
+        "length": 420,
+        "showTime": "19:23",
+        "startTime": 1755516180,
+        "title": "国家公园精彩片段-6",
+        "top": ""
+      },
+      {
+        "columnBackvideourl": "",
+        "column_url": "",
         "endTime": 1755518400,
         "eventId": "",
         "eventType": "",
         "length": 1800,
         "showTime": "19:30",
         "startTime": 1755516600,
-        "title": "今日亚洲",
+        "title": "辉煌六十年：高原诗篇-3",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
+        "endTime": 1755520320,
+        "eventId": "",
+        "eventType": "",
+        "length": 1920,
+        "showTime": "20:00",
+        "startTime": 1755518400,
+        "title": "辉煌六十年：高原诗篇-4",
+        "top": ""
+      },
+      {
+        "columnBackvideourl": "https://tv.cctv.com/lm/zgy/videoset/",
+        "column_url": "https://tv.cctv.com/lm/zgy/index.shtml",
         "endTime": 1755522000,
         "eventId": "",
         "eventType": "",
-        "length": 3600,
-        "showTime": "20:00",
-        "startTime": 1755518400,
-        "title": "环球综艺秀-2025-33",
+        "length": 1680,
+        "showTime": "20:32",
+        "startTime": 1755520320,
+        "title": "中国缘-2025-33",
         "top": ""
       },
       {
@@ -6244,13 +6247,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1755495000,
     "lvUrl": "https://tv.cctv.com/live/cctvamerica",
     "vip_flag": 0
   },
   "cctvchild": {
     "channelName": "CCTV-14 少儿",
-    "isLive": "动漫世界-2025-230",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6481,13 +6482,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1755489600,
     "lvUrl": "https://tv.cctv.com/live/cctvchild",
     "vip_flag": 0
   },
   "cctveurope": {
     "channelName": "CCTV-4 (欧洲)",
-    "isLive": "大浦东第27集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6816,73 +6815,61 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zgxw/index.shtml",
         "column_url": "https://tv.cctv.com/lm/zgxw/index.shtml",
-        "endTime": 1755516600,
+        "endTime": 1755516180,
         "eventId": "",
         "eventType": "",
-        "length": 1800,
+        "length": 1380,
         "showTime": "19:00",
         "startTime": 1755514800,
         "title": "中国新闻",
         "top": ""
       },
       {
-        "columnBackvideourl": "https://tv.cctv.com/lm/jryz/index.shtml",
-        "column_url": "https://tv.cctv.com/lm/jryz/index.shtml",
-        "endTime": 1755518400,
-        "eventId": "",
-        "eventType": "",
-        "length": 1800,
-        "showTime": "19:30",
-        "startTime": 1755516600,
-        "title": "今日亚洲",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "https://tv.cctv.com/lm/kjl/videoset/",
-        "column_url": "https://tv.cctv.com/lm/kjl/index.shtml",
-        "endTime": 1755521100,
-        "eventId": "",
-        "eventType": "",
-        "length": 2700,
-        "showTime": "20:00",
-        "startTime": 1755518400,
-        "title": "开讲啦（海外版）-2025-33",
-        "top": ""
-      },
-      {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1755521340,
+        "endTime": 1755516600,
         "eventId": "",
         "eventType": "",
-        "length": 240,
-        "showTime": "20:45",
-        "startTime": 1755521100,
-        "title": "记住乡愁-片段展播-2024-5",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "",
-        "column_url": "",
-        "endTime": 1755521520,
-        "eventId": "",
-        "eventType": "",
-        "length": 180,
-        "showTime": "20:49",
-        "startTime": 1755521340,
+        "length": 420,
+        "showTime": "19:23",
+        "startTime": 1755516180,
         "title": "记住乡愁-片段展播-2024-39",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
+        "endTime": 1755518400,
+        "eventId": "",
+        "eventType": "",
+        "length": 1800,
+        "showTime": "19:30",
+        "startTime": 1755516600,
+        "title": "辉煌六十年：高原诗篇-3",
+        "top": ""
+      },
+      {
+        "columnBackvideourl": "",
+        "column_url": "",
+        "endTime": 1755520320,
+        "eventId": "",
+        "eventType": "",
+        "length": 1920,
+        "showTime": "20:00",
+        "startTime": 1755518400,
+        "title": "辉煌六十年：高原诗篇-4",
+        "top": ""
+      },
+      {
+        "columnBackvideourl": "https://tv.cctv.com/lm/zgy/videoset/",
+        "column_url": "https://tv.cctv.com/lm/zgy/index.shtml",
         "endTime": 1755522000,
         "eventId": "",
         "eventType": "",
-        "length": 480,
-        "showTime": "20:52",
-        "startTime": 1755521520,
-        "title": "记住乡愁-片段展播-2024-40",
+        "length": 1680,
+        "showTime": "20:32",
+        "startTime": 1755520320,
+        "title": "中国缘-2025-33",
         "top": ""
       },
       {
@@ -6946,13 +6933,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1755494910,
     "lvUrl": "https://tv.cctv.com/live/cctveurope",
     "vip_flag": 0
   },
   "cctvjilu": {
     "channelName": "CCTV-9 纪录",
-    "isLive": "全景自然2025-182",
     "list": [
       {
         "columnBackvideourl": "",
@@ -7279,7 +7264,6 @@
         "top": ""
       }
     ],
-    "liveSt": 1755493410,
     "lvUrl": "https://tv.cctv.com/live/cctvjilu",
     "vip_flag": 0
   }
