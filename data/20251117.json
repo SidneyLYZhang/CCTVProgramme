@@ -1,7 +1,6 @@
 {
   "cctv1": {
     "channelName": "CCTV-1 综合",
-    "isLive": "人生之路第10集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/shq/index.shtml",
@@ -484,13 +483,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1763356380,
     "lvUrl": "https://tv.cctv.com/live/cctv1",
     "vip_flag": 0
   },
   "cctv10": {
     "channelName": "CCTV-10 科教",
-    "isLive": "2025大千世界-136",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/sskjx/index.shtml",
@@ -937,13 +934,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1763354970,
     "lvUrl": "https://tv.cctv.com/live/cctv10",
     "vip_flag": 0
   },
   "cctv11": {
     "channelName": "CCTV-11 戏曲",
-    "isLive": "小娘惹－第3集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/dc/index.shtml",
@@ -1138,13 +1133,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1763354930,
     "lvUrl": "https://tv.cctv.com/live/cctv11",
     "vip_flag": 0
   },
   "cctv12": {
     "channelName": "CCTV-12 社会与法",
-    "isLive": "2025社会与法电视剧精选-我怕来不及-7/52",
     "list": [
       {
         "columnBackvideourl": "",
@@ -1519,13 +1512,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1763356140,
     "lvUrl": "https://tv.cctv.com/live/cctv12",
     "vip_flag": 0
   },
   "cctv13": {
     "channelName": "CCTV-13 新闻",
-    "isLive": "新闻直播间",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/wyxw/index.shtml",
@@ -1960,13 +1951,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1763355600,
     "lvUrl": "https://tv.cctv.com/live/cctv13",
     "vip_flag": 0
   },
   "cctv15": {
     "channelName": "CCTV-15 音乐",
-    "isLive": "影视留声机-2024-112-经典音乐电影欣赏《五朵金花》",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/fhgy/videoset/",
@@ -2233,13 +2222,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1763356710,
     "lvUrl": "https://tv.cctv.com/live/cctv15",
     "vip_flag": 0
   },
   "cctv16": {
     "channelName": "CCTV-16奥林匹克",
-    "isLive": "实况录像 第十五届全国运动会-乒乓球男单、女单决赛",
     "list": [
       {
         "columnBackvideourl": "",
@@ -2446,13 +2433,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1763352000,
     "lvUrl": "https://tv.cctv.com/live/cctv16/index.shtml",
     "vip_flag": 0
   },
   "cctv17": {
     "channelName": "CCTV-17农业农村",
-    "isLive": "乡理乡亲-2023-35",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/snqyh/index.shtml",
@@ -2887,13 +2872,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1763357100,
     "lvUrl": "https://tv.cctv.com/live/cctv17",
     "vip_flag": 0
   },
   "cctv2": {
     "channelName": "CCTV-2 财经",
-    "isLive": "财经调查",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zcjkk/videoset/index.shtml",
@@ -3352,13 +3335,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1763355600,
     "lvUrl": "https://tv.cctv.com/live/cctv2",
     "vip_flag": 0
   },
   "cctv3": {
     "channelName": "CCTV-3 综艺",
-    "isLive": "国家宝藏-周游季-55",
     "list": [
       {
         "columnBackvideourl": "",
@@ -3625,13 +3606,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1763356830,
     "lvUrl": "https://tv.cctv.com/live/cctv3",
     "vip_flag": 0
   },
   "cctv4": {
     "channelName": "CCTV-4 (亚洲)",
-    "isLive": "黄河在咆哮第9集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4150,13 +4129,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1763355695,
     "lvUrl": "https://tv.cctv.com/live/cctv4",
     "vip_flag": 0
   },
   "cctv5": {
     "channelName": "CCTV-5 体育",
-    "isLive": "第十五届全国运动会-女排1/4决赛（河南VS上海）",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4399,13 +4376,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1763355600,
     "lvUrl": "https://tv.cctv.com/live/cctv5/index.shtml",
     "vip_flag": 0
   },
   "cctv5plus": {
     "channelName": "CCTV-5+ 体育赛事",
-    "isLive": "第十五届全国运动会-场地自行车",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4576,13 +4551,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1763352000,
     "lvUrl": "https://tv.cctv.com/live/cctv5plus/index.shtml",
     "vip_flag": 0
   },
   "cctv6": {
     "channelName": "CCTV-6 电影",
-    "isLive": "女神探宝盖丁",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4837,13 +4810,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1763354541,
     "lvUrl": "https://tv.cctv.com/live/cctv6",
     "vip_flag": 0
   },
   "cctv7": {
     "channelName": "CCTV-7 国防军事",
-    "isLive": "砺剑-2025-46",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5278,13 +5249,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1763356350,
     "lvUrl": "https://tv.cctv.com/live/cctv7",
     "vip_flag": 0
   },
   "cctv8": {
     "channelName": "CCTV-8 电视剧",
-    "isLive": "我是刑警第26集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5755,13 +5724,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1763354565,
     "lvUrl": "https://tv.cctv.com/live/cctv8",
     "vip_flag": 0
   },
   "cctvamerica": {
     "channelName": "CCTV-4 (美洲)",
-    "isLive": "海峡两岸-2025-320",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/xgdd/videoset/",
@@ -6292,13 +6259,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1763355600,
     "lvUrl": "https://tv.cctv.com/live/cctvamerica",
     "vip_flag": 0
   },
   "cctvchild": {
     "channelName": "CCTV-14 少儿",
-    "isLive": "动漫世界-2025-321",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6493,13 +6458,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1763352000,
     "lvUrl": "https://tv.cctv.com/live/cctvchild",
     "vip_flag": 0
   },
   "cctveurope": {
     "channelName": "CCTV-4 (欧洲)",
-    "isLive": "华人故事-2025-47",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6982,13 +6945,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1763355600,
     "lvUrl": "https://tv.cctv.com/live/cctveurope",
     "vip_flag": 0
   },
   "cctvjilu": {
     "channelName": "CCTV-9 纪录",
-    "isLive": "特别呈现2025-315",
     "list": [
       {
         "columnBackvideourl": "",
@@ -7327,7 +7288,6 @@
         "top": ""
       }
     ],
-    "liveSt": 1763353620,
     "lvUrl": "https://tv.cctv.com/live/cctvjilu",
     "vip_flag": 0
   }
