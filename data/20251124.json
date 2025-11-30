@@ -1,7 +1,6 @@
 {
   "cctv1": {
     "channelName": "CCTV-1 综合",
-    "isLive": "隐锋第6集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/shq/index.shtml",
@@ -424,13 +423,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1763961195,
     "lvUrl": "https://tv.cctv.com/live/cctv1",
     "vip_flag": 0
   },
   "cctv10": {
     "channelName": "CCTV-10 科教",
-    "isLive": "2025大千世界-139",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/sskjx/index.shtml",
@@ -877,13 +874,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1763959770,
     "lvUrl": "https://tv.cctv.com/live/cctv10",
     "vip_flag": 0
   },
   "cctv11": {
     "channelName": "CCTV-11 戏曲",
-    "isLive": "小娘惹－第17集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/dc/index.shtml",
@@ -1102,13 +1097,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1763958975,
     "lvUrl": "https://tv.cctv.com/live/cctv11",
     "vip_flag": 0
   },
   "cctv12": {
     "channelName": "CCTV-12 社会与法",
-    "isLive": "2025社会与法电视剧精选-我怕来不及-28/52",
     "list": [
       {
         "columnBackvideourl": "",
@@ -1483,13 +1476,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1763960940,
     "lvUrl": "https://tv.cctv.com/live/cctv12",
     "vip_flag": 0
   },
   "cctv13": {
     "channelName": "CCTV-13 新闻",
-    "isLive": "新闻直播间",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/wyxw/index.shtml",
@@ -1924,13 +1915,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1763960400,
     "lvUrl": "https://tv.cctv.com/live/cctv13",
     "vip_flag": 0
   },
   "cctv15": {
     "channelName": "CCTV-15 音乐",
-    "isLive": "金声玉振——中国器乐大会-第七期",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/fhgy/videoset/",
@@ -2185,13 +2174,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1763957190,
     "lvUrl": "https://tv.cctv.com/live/cctv15",
     "vip_flag": 0
   },
   "cctv16": {
     "channelName": "CCTV-16奥林匹克",
-    "isLive": "实况录像（奥林匹克）-第十五届全国运动会 排球女子决赛",
     "list": [
       {
         "columnBackvideourl": "",
@@ -2506,13 +2493,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1763958900,
     "lvUrl": "https://tv.cctv.com/live/cctv16/index.shtml",
     "vip_flag": 0
   },
   "cctv17": {
     "channelName": "CCTV-17农业农村",
-    "isLive": "田园帮帮团-2025-219",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/snqyh/index.shtml",
@@ -2935,13 +2920,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1763960460,
     "lvUrl": "https://tv.cctv.com/live/cctv17",
     "vip_flag": 0
   },
   "cctv2": {
     "channelName": "CCTV-2 财经",
-    "isLive": "财经调查",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zcjkk/videoset/index.shtml",
@@ -3412,13 +3395,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1763960400,
     "lvUrl": "https://tv.cctv.com/live/cctv2",
     "vip_flag": 0
   },
   "cctv3": {
     "channelName": "CCTV-3 综艺",
-    "isLive": "文化十分-2025-240",
     "list": [
       {
         "columnBackvideourl": "",
@@ -3709,13 +3690,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1763960400,
     "lvUrl": "https://tv.cctv.com/live/cctv3",
     "vip_flag": 0
   },
   "cctv4": {
     "channelName": "CCTV-4 (亚洲)",
-    "isLive": "特赦1959第12集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4210,13 +4189,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1763960495,
     "lvUrl": "https://tv.cctv.com/live/cctv4",
     "vip_flag": 0
   },
   "cctv5": {
     "channelName": "CCTV-5 体育",
-    "isLive": "艺术里的奥林匹克(4K)",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4459,13 +4436,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1763960700,
     "lvUrl": "https://tv.cctv.com/live/cctv5/index.shtml",
     "vip_flag": 0
   },
   "cctv5plus": {
     "channelName": "CCTV-5+ 体育赛事",
-    "isLive": "实况录像（奥林匹克）-第十五届全国运动会 体操男子团体决赛（4K）",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4684,13 +4659,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1763960400,
     "lvUrl": "https://tv.cctv.com/live/cctv5plus/index.shtml",
     "vip_flag": 0
   },
   "cctv6": {
     "channelName": "CCTV-6 电影",
-    "isLive": "燃烧的港湾",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4719,10 +4692,10 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1763940816,
+        "endTime": 1763930754,
         "eventId": "",
         "eventType": "",
-        "length": 15529,
+        "length": 5467,
         "showTime": "03:14",
         "startTime": 1763925287,
         "title": "开工大急",
@@ -4731,120 +4704,144 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1763947131,
+        "endTime": 1763936898,
         "eventId": "",
         "eventType": "",
-        "length": 6315,
-        "showTime": "07:33",
-        "startTime": 1763940816,
-        "title": "老少爷们上法场",
+        "length": 6144,
+        "showTime": "04:45",
+        "startTime": 1763930754,
+        "title": "顽主",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1763953469,
+        "endTime": 1763939018,
         "eventId": "",
         "eventType": "",
-        "length": 6338,
-        "showTime": "09:18",
-        "startTime": 1763947131,
+        "length": 2120,
+        "showTime": "06:28",
+        "startTime": 1763936898,
+        "title": "我和我的父辈：诗",
+        "top": ""
+      },
+      {
+        "columnBackvideourl": "",
+        "column_url": "",
+        "endTime": 1763946200,
+        "eventId": "",
+        "eventType": "",
+        "length": 7182,
+        "showTime": "07:03",
+        "startTime": 1763939018,
+        "title": "平原枪声",
+        "top": ""
+      },
+      {
+        "columnBackvideourl": "",
+        "column_url": "",
+        "endTime": 1763952398,
+        "eventId": "",
+        "eventType": "",
+        "length": 6198,
+        "showTime": "09:03",
+        "startTime": 1763946200,
         "title": "寒刀凛",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1763959864,
+        "endTime": 1763959075,
         "eventId": "",
         "eventType": "",
-        "length": 6395,
-        "showTime": "11:04",
-        "startTime": 1763953469,
+        "length": 6677,
+        "showTime": "10:46",
+        "startTime": 1763952398,
         "title": "血战漫川关",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1763960239,
+        "endTime": 1763959425,
         "eventId": "",
         "eventType": "",
-        "length": 375,
-        "showTime": "12:51",
-        "startTime": 1763959864,
+        "length": 350,
+        "showTime": "12:37",
+        "startTime": 1763959075,
         "title": "音乐电影欣赏",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1763966993,
+        "endTime": 1763966564,
         "eventId": "",
         "eventType": "",
-        "length": 6754,
-        "showTime": "12:57",
-        "startTime": 1763960239,
+        "length": 7139,
+        "showTime": "12:43",
+        "startTime": 1763959425,
         "title": "燃烧的港湾",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1763969171,
+        "endTime": 1763968667,
         "eventId": "",
         "eventType": "",
-        "length": 2178,
-        "showTime": "14:49",
-        "startTime": 1763966993,
+        "length": 2103,
+        "showTime": "14:42",
+        "startTime": 1763966564,
         "title": "生生长流（上）",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1763973167,
+        "endTime": 1763972618,
         "eventId": "",
         "eventType": "",
-        "length": 3996,
-        "showTime": "15:26",
-        "startTime": 1763969171,
+        "length": 3951,
+        "showTime": "15:17",
+        "startTime": 1763968667,
         "title": "生生长流（下）",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1763979597,
+        "endTime": 1763979353,
         "eventId": "",
         "eventType": "",
-        "length": 6430,
-        "showTime": "16:32",
-        "startTime": 1763973167,
+        "length": 6735,
+        "showTime": "16:23",
+        "startTime": 1763972618,
         "title": "侠义金枪客",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1763980242,
+        "endTime": 1763979958,
         "eventId": "",
         "eventType": "",
-        "length": 645,
-        "showTime": "18:19",
-        "startTime": 1763979597,
+        "length": 605,
+        "showTime": "18:15",
+        "startTime": 1763979353,
         "title": "今日影评2025-234",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1763986547,
+        "endTime": 1763986487,
         "eventId": "",
         "eventType": "",
-        "length": 6305,
-        "showTime": "18:30",
-        "startTime": 1763980242,
+        "length": 6529,
+        "showTime": "18:25",
+        "startTime": 1763979958,
         "title": "血战落魂桥",
         "top": ""
       },
@@ -4854,9 +4851,9 @@
         "endTime": 1763992800,
         "eventId": "",
         "eventType": "",
-        "length": 6253,
-        "showTime": "20:15",
-        "startTime": 1763986547,
+        "length": 6313,
+        "showTime": "20:14",
+        "startTime": 1763986487,
         "title": "绝地",
         "top": ""
       },
@@ -4899,10 +4896,10 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1763996507,
+        "endTime": 1763996477,
         "eventId": "",
         "eventType": "",
-        "length": 90,
+        "length": 60,
         "showTime": "23:00",
         "startTime": 1763996417,
         "title": "中国体育彩票阳光开奖2025-11-24",
@@ -4914,20 +4911,18 @@
         "endTime": 1763999940,
         "eventId": "",
         "eventType": "",
-        "length": 3433,
+        "length": 3463,
         "showTime": "23:01",
-        "startTime": 1763996507,
+        "startTime": 1763996477,
         "title": "迷失之城（下）",
         "top": ""
       }
     ],
-    "liveSt": 1763960239,
     "lvUrl": "https://tv.cctv.com/live/cctv6",
     "vip_flag": 0
   },
   "cctv7": {
     "channelName": "CCTV-7 国防军事",
-    "isLive": "砺剑-2025-47",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5362,13 +5357,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1763961150,
     "lvUrl": "https://tv.cctv.com/live/cctv7",
     "vip_flag": 0
   },
   "cctv8": {
     "channelName": "CCTV-8 电视剧",
-    "isLive": "狂飙第16集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5839,13 +5832,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1763959445,
     "lvUrl": "https://tv.cctv.com/live/cctv8",
     "vip_flag": 0
   },
   "cctvamerica": {
     "channelName": "CCTV-4 (美洲)",
-    "isLive": "海峡两岸-2025-327",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/xgdd/videoset/",
@@ -6352,13 +6343,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1763960400,
     "lvUrl": "https://tv.cctv.com/live/cctvamerica",
     "vip_flag": 0
   },
   "cctvchild": {
     "channelName": "CCTV-14 少儿",
-    "isLive": "动漫世界-2025-328",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6553,13 +6542,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1763956800,
     "lvUrl": "https://tv.cctv.com/live/cctvchild",
     "vip_flag": 0
   },
   "cctveurope": {
     "channelName": "CCTV-4 (欧洲)",
-    "isLive": "华人故事-2025-48",
     "list": [
       {
         "columnBackvideourl": "",
@@ -7006,13 +6993,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1763960400,
     "lvUrl": "https://tv.cctv.com/live/cctveurope",
     "vip_flag": 0
   },
   "cctvjilu": {
     "channelName": "CCTV-9 纪录",
-    "isLive": "特别呈现2025-322",
     "list": [
       {
         "columnBackvideourl": "",
@@ -7351,7 +7336,6 @@
         "top": ""
       }
     ],
-    "liveSt": 1763958420,
     "lvUrl": "https://tv.cctv.com/live/cctvjilu",
     "vip_flag": 0
   }
