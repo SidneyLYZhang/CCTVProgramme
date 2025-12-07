@@ -1,7 +1,6 @@
 {
   "cctv1": {
     "channelName": "CCTV-1 综合",
-    "isLive": "绝密较量第2集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/shq/index.shtml",
@@ -420,7 +419,7 @@
         "length": 3285,
         "showTime": "22:35",
         "startTime": 1764599715,
-        "title": "专题节目-1",
+        "title": "延安诗会-1",
         "top": ""
       },
       {
@@ -436,13 +435,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1764565840,
     "lvUrl": "https://tv.cctv.com/live/cctv1",
     "vip_flag": 0
   },
   "cctv10": {
     "channelName": "CCTV-10 科教",
-    "isLive": "智绘光谷·CMG世界机器人技能大赛-开幕式",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/cxjxs/index.shtml",
@@ -841,13 +838,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1764564570,
     "lvUrl": "https://tv.cctv.com/live/cctv10",
     "vip_flag": 0
   },
   "cctv11": {
     "channelName": "CCTV-11 戏曲",
-    "isLive": "雏凤新声——中央广播电视总台 首届少儿戏曲大会-2",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/dc/index.shtml",
@@ -1090,13 +1085,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1764566395,
     "lvUrl": "https://tv.cctv.com/live/cctv11",
     "vip_flag": 0
   },
   "cctv12": {
     "channelName": "CCTV-12 社会与法",
-    "isLive": "2025社会与法电视剧精选-我怕来不及-49/52",
     "list": [
       {
         "columnBackvideourl": "",
@@ -1471,13 +1464,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1764565740,
     "lvUrl": "https://tv.cctv.com/live/cctv12",
     "vip_flag": 0
   },
   "cctv13": {
     "channelName": "CCTV-13 新闻",
-    "isLive": "新闻直播间",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/wyxw/index.shtml",
@@ -1912,13 +1903,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1764565200,
     "lvUrl": "https://tv.cctv.com/live/cctv13",
     "vip_flag": 0
   },
   "cctv15": {
     "channelName": "CCTV-15 音乐",
-    "isLive": "中国节拍-品味古典32",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/fhgy/videoset/",
@@ -2185,13 +2174,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1764566760,
     "lvUrl": "https://tv.cctv.com/live/cctv15",
     "vip_flag": 0
   },
   "cctv16": {
     "channelName": "CCTV-16奥林匹克",
-    "isLive": "实况录像（奥林匹克）-第十五届全国运动会 田径比赛1",
     "list": [
       {
         "columnBackvideourl": "",
@@ -2506,13 +2493,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1764563700,
     "lvUrl": "https://tv.cctv.com/live/cctv16/index.shtml",
     "vip_flag": 0
   },
   "cctv17": {
     "channelName": "CCTV-17农业农村",
-    "isLive": "田园帮帮团-2025-224",
     "list": [
       {
         "columnBackvideourl": "",
@@ -2947,13 +2932,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1764565740,
     "lvUrl": "https://tv.cctv.com/live/cctv17",
     "vip_flag": 0
   },
   "cctv2": {
     "channelName": "CCTV-2 财经",
-    "isLive": "回家吃饭-2025-254",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zcjkk/videoset/index.shtml",
@@ -3412,13 +3395,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1764567060,
     "lvUrl": "https://tv.cctv.com/live/cctv2",
     "vip_flag": 0
   },
   "cctv3": {
     "channelName": "CCTV-3 综艺",
-    "isLive": "向幸福出发-2025-14",
     "list": [
       {
         "columnBackvideourl": "",
@@ -3745,13 +3726,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1764567035,
     "lvUrl": "https://tv.cctv.com/live/cctv3",
     "vip_flag": 0
   },
   "cctv4": {
     "channelName": "CCTV-4 (亚洲)",
-    "isLive": "战天狼第7集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4294,13 +4273,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1764565365,
     "lvUrl": "https://tv.cctv.com/live/cctv4",
     "vip_flag": 0
   },
   "cctv5": {
     "channelName": "CCTV-5 体育",
-    "isLive": "2025/2026西班牙足球甲级联赛-第14轮（巴塞罗那-阿拉维斯）",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4567,13 +4544,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1764566880,
     "lvUrl": "https://tv.cctv.com/live/cctv5/index.shtml",
     "vip_flag": 0
   },
   "cctv5plus": {
     "channelName": "CCTV-5+ 体育赛事",
-    "isLive": "实况录像（奥林匹克）-第十五届全国运动会 跳水男子10米台决赛",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4758,13 +4733,25 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1764594000,
+        "endTime": 1764591660,
         "eventId": "",
         "eventType": "",
-        "length": 7200,
+        "length": 4860,
         "showTime": "19:00",
         "startTime": 1764586800,
         "title": "2025年国际乒联混合团体世界杯-第一阶段 第2轮",
+        "top": ""
+      },
+      {
+        "columnBackvideourl": "",
+        "column_url": "",
+        "endTime": 1764594000,
+        "eventId": "",
+        "eventType": "",
+        "length": 2340,
+        "showTime": "20:21",
+        "startTime": 1764591660,
+        "title": "射箭世界杯西班牙站复合弓男子个人决赛",
         "top": ""
       },
       {
@@ -4804,13 +4791,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1764565200,
     "lvUrl": "https://tv.cctv.com/live/cctv5plus/index.shtml",
     "vip_flag": 0
   },
   "cctv6": {
     "channelName": "CCTV-6 电影",
-    "isLive": "龙之战",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5065,13 +5050,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1764561265,
     "lvUrl": "https://tv.cctv.com/live/cctv6",
     "vip_flag": 0
   },
   "cctv7": {
     "channelName": "CCTV-7 国防军事",
-    "isLive": "砺剑-2025-48",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5506,13 +5489,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1764565710,
     "lvUrl": "https://tv.cctv.com/live/cctv7",
     "vip_flag": 0
   },
   "cctv8": {
     "channelName": "CCTV-8 电视剧",
-    "isLive": "扫毒风暴第5集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5871,7 +5852,7 @@
         "length": 3330,
         "showTime": "19:30",
         "startTime": 1764588600,
-        "title": "大生意人13/40",
+        "title": "大生意人第13集",
         "top": ""
       },
       {
@@ -5895,7 +5876,7 @@
         "length": 3115,
         "showTime": "20:30",
         "startTime": 1764592230,
-        "title": "大生意人14/40",
+        "title": "大生意人第14集",
         "top": ""
       },
       {
@@ -5919,7 +5900,7 @@
         "length": 2985,
         "showTime": "21:27",
         "startTime": 1764595645,
-        "title": "即刻上场4/24",
+        "title": "即刻上场第4集",
         "top": ""
       },
       {
@@ -5943,7 +5924,7 @@
         "length": 2985,
         "showTime": "22:19",
         "startTime": 1764598755,
-        "title": "即刻上场5/24",
+        "title": "即刻上场第5集",
         "top": ""
       },
       {
@@ -5971,13 +5952,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1764564100,
     "lvUrl": "https://tv.cctv.com/live/cctv8",
     "vip_flag": 0
   },
   "cctvamerica": {
     "channelName": "CCTV-4 (美洲)",
-    "isLive": "中国舆论场-2025-48",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/gjjy/videoset/",
@@ -6520,13 +6499,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1764566960,
     "lvUrl": "https://tv.cctv.com/live/cctvamerica",
     "vip_flag": 0
   },
   "cctvchild": {
     "channelName": "CCTV-14 少儿",
-    "isLive": "动漫世界-2025-335",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6745,13 +6722,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1764561600,
     "lvUrl": "https://tv.cctv.com/live/cctvchild",
     "vip_flag": 0
   },
   "cctveurope": {
     "channelName": "CCTV-4 (欧洲)",
-    "isLive": "星星的故乡第13集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -7234,13 +7209,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1764566880,
     "lvUrl": "https://tv.cctv.com/live/cctveurope",
     "vip_flag": 0
   },
   "cctvjilu": {
     "channelName": "CCTV-9 纪录",
-    "isLive": "全景自然2025-313",
     "list": [
       {
         "columnBackvideourl": "",
@@ -7579,7 +7552,6 @@
         "top": ""
       }
     ],
-    "liveSt": 1764567060,
     "lvUrl": "https://tv.cctv.com/live/cctvjilu",
     "vip_flag": 0
   }
