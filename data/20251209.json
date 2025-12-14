@@ -359,31 +359,31 @@
         "length": 270,
         "showTime": "20:01",
         "startTime": 1765281690,
-        "title": "前情提要-风与潮-1/31",
+        "title": "前情提要-风与潮-第1集",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1765285030,
+        "endTime": 1765285065,
         "eventId": "",
         "eventType": "",
-        "length": 3070,
+        "length": 3105,
         "showTime": "20:06",
         "startTime": 1765281960,
-        "title": "风与潮1/31",
+        "title": "风与潮第1集",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1765285255,
+        "endTime": 1765285305,
         "eventId": "",
         "eventType": "",
-        "length": 225,
+        "length": 240,
         "showTime": "20:57",
-        "startTime": 1765285030,
-        "title": "前情提要-风与潮-2/31",
+        "startTime": 1765285065,
+        "title": "前情提要-风与潮-第2集",
         "top": ""
       },
       {
@@ -392,10 +392,10 @@
         "endTime": 1765288800,
         "eventId": "",
         "eventType": "",
-        "length": 3545,
-        "showTime": "21:00",
-        "startTime": 1765285255,
-        "title": "风与潮2/31",
+        "length": 3495,
+        "showTime": "21:01",
+        "startTime": 1765285305,
+        "title": "风与潮第2集",
         "top": ""
       },
       {
@@ -3109,10 +3109,10 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zdcj/",
         "column_url": "https://tv.cctv.com/lm/zdcj/",
-        "endTime": 1765251030,
+        "endTime": 1765251040,
         "eventId": "",
         "eventType": "",
-        "length": 1830,
+        "length": 1840,
         "showTime": "11:00",
         "startTime": 1765249200,
         "title": "正点财经",
@@ -3121,12 +3121,12 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1765251870,
+        "endTime": 1765251880,
         "eventId": "",
         "eventType": "",
         "length": 840,
         "showTime": "11:30",
-        "startTime": 1765251030,
+        "startTime": 1765251040,
         "title": "周末特供2025-1051",
         "top": ""
       },
@@ -3136,9 +3136,9 @@
         "endTime": 1765252800,
         "eventId": "",
         "eventType": "",
-        "length": 930,
+        "length": 920,
         "showTime": "11:44",
-        "startTime": 1765251870,
+        "startTime": 1765251880,
         "title": "周末特供2025-1052",
         "top": ""
       },
@@ -3596,24 +3596,36 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1765273915,
+        "endTime": 1765273580,
         "eventId": "",
         "eventType": "",
-        "length": 3920,
+        "length": 3585,
         "showTime": "16:46",
         "startTime": 1765269995,
         "title": "综艺喜乐汇-2025-1107",
         "top": ""
       },
       {
+        "columnBackvideourl": "",
+        "column_url": "",
+        "endTime": 1765273975,
+        "eventId": "",
+        "eventType": "",
+        "length": 395,
+        "showTime": "17:46",
+        "startTime": 1765273580,
+        "title": "精彩艺瞬间-21",
+        "top": ""
+      },
+      {
         "columnBackvideourl": "https://tv.cctv.com/lm/kmdj/videoset/",
         "column_url": "https://tv.cctv.com/lm/kmdj/index.shtml",
-        "endTime": 1765279250,
+        "endTime": 1765279310,
         "eventId": "",
         "eventType": "",
         "length": 5335,
-        "showTime": "17:51",
-        "startTime": 1765273915,
+        "showTime": "17:52",
+        "startTime": 1765273975,
         "title": "开门大吉-2025-41",
         "top": ""
       },
@@ -3623,9 +3635,9 @@
         "endTime": 1765279800,
         "eventId": "",
         "eventType": "",
-        "length": 550,
-        "showTime": "19:20",
-        "startTime": 1765279250,
+        "length": 490,
+        "showTime": "19:21",
+        "startTime": 1765279310,
         "title": "国家宝藏-周游季-79",
         "top": ""
       },
@@ -3642,15 +3654,15 @@
         "top": ""
       },
       {
-        "columnBackvideourl": "https://tv.cctv.com/lm/yzyy/videoset/",
-        "column_url": "https://tv.cctv.com/lm/yzyy/index.shtml",
+        "columnBackvideourl": "https://tv.cctv.com/lm/xgdd/videoset/",
+        "column_url": "https://tv.cctv.com/lm/xgdd/index.shtml",
         "endTime": 1765289365,
         "eventId": "",
         "eventType": "",
         "length": 5155,
         "showTime": "20:43",
         "startTime": 1765284210,
-        "title": "越战越勇-2025-34",
+        "title": "星光大道-2025-51（这一站星光44）",
         "top": ""
       },
       {
@@ -5828,7 +5840,7 @@
         "length": 3325,
         "showTime": "19:30",
         "startTime": 1765279800,
-        "title": "大生意人29/40",
+        "title": "大生意人第29集",
         "top": ""
       },
       {
@@ -5852,7 +5864,7 @@
         "length": 3105,
         "showTime": "20:30",
         "startTime": 1765283425,
-        "title": "大生意人30/40",
+        "title": "大生意人第30集",
         "top": ""
       },
       {
@@ -5864,7 +5876,7 @@
         "length": 300,
         "showTime": "21:22",
         "startTime": 1765286530,
-        "title": "本集提要-即刻上场-19/24",
+        "title": "本集提要-即刻上场-第19集",
         "top": ""
       },
       {
@@ -5876,7 +5888,7 @@
         "length": 2985,
         "showTime": "21:27",
         "startTime": 1765286830,
-        "title": "即刻上场19/24",
+        "title": "即刻上场第19集",
         "top": ""
       },
       {
@@ -5888,7 +5900,7 @@
         "length": 125,
         "showTime": "22:16",
         "startTime": 1765289815,
-        "title": "本集提要-即刻上场-20/24",
+        "title": "本集提要-即刻上场-第20集",
         "top": ""
       },
       {
@@ -5900,7 +5912,7 @@
         "length": 2985,
         "showTime": "22:19",
         "startTime": 1765289940,
-        "title": "即刻上场20/24",
+        "title": "即刻上场第20集",
         "top": ""
       },
       {
