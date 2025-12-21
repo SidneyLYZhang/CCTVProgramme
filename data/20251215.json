@@ -1,7 +1,6 @@
 {
   "cctv1": {
     "channelName": "CCTV-1 综合",
-    "isLive": "大生意人第39集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/shq/index.shtml",
@@ -412,13 +411,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1765775510,
     "lvUrl": "https://tv.cctv.com/live/cctv1",
     "vip_flag": 0
   },
   "cctv10": {
     "channelName": "CCTV-10 科教",
-    "isLive": "剧说历史（第一季）-1",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/sskjx/index.shtml",
@@ -841,13 +838,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1765774170,
     "lvUrl": "https://tv.cctv.com/live/cctv10",
     "vip_flag": 0
   },
   "cctv11": {
     "channelName": "CCTV-11 戏曲",
-    "isLive": "雏凤新声——中央广播电视总台 首届少儿戏曲大会-4",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/dc/index.shtml",
@@ -1054,13 +1049,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1765776665,
     "lvUrl": "https://tv.cctv.com/live/cctv11",
     "vip_flag": 0
   },
   "cctv12": {
     "channelName": "CCTV-12 社会与法",
-    "isLive": "2025社会与法电视剧精选-远方的山楂树-39/48",
     "list": [
       {
         "columnBackvideourl": "",
@@ -1447,13 +1440,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1765775340,
     "lvUrl": "https://tv.cctv.com/live/cctv12",
     "vip_flag": 0
   },
   "cctv13": {
     "channelName": "CCTV-13 新闻",
-    "isLive": "新闻直播间",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/wyxw/index.shtml",
@@ -1888,13 +1879,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1765774800,
     "lvUrl": "https://tv.cctv.com/live/cctv13",
     "vip_flag": 0
   },
   "cctv15": {
     "channelName": "CCTV-15 音乐",
-    "isLive": "中国节拍-品味古典21",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/fhgy/videoset/",
@@ -2125,13 +2114,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1765776600,
     "lvUrl": "https://tv.cctv.com/live/cctv15",
     "vip_flag": 0
   },
   "cctv16": {
     "channelName": "CCTV-16奥林匹克",
-    "isLive": "国际足球赛场-25-26赛季英超联赛第16轮 切尔西—埃弗顿",
     "list": [
       {
         "columnBackvideourl": "",
@@ -2458,13 +2445,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1765775100,
     "lvUrl": "https://tv.cctv.com/live/cctv16/index.shtml",
     "vip_flag": 0
   },
   "cctv17": {
     "channelName": "CCTV-17农业农村",
-    "isLive": "乡理乡亲-2023-31",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/snqyh/index.shtml",
@@ -2899,13 +2884,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1765776495,
     "lvUrl": "https://tv.cctv.com/live/cctv17",
     "vip_flag": 0
   },
   "cctv2": {
     "channelName": "CCTV-2 财经",
-    "isLive": "财经调查",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zcjkk/videoset/index.shtml",
@@ -3400,13 +3383,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1765774800,
     "lvUrl": "https://tv.cctv.com/live/cctv2",
     "vip_flag": 0
   },
   "cctv3": {
     "channelName": "CCTV-3 综艺",
-    "isLive": "信马游疆-3",
     "list": [
       {
         "columnBackvideourl": "",
@@ -3685,13 +3666,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1765776725,
     "lvUrl": "https://tv.cctv.com/live/cctv3",
     "vip_flag": 0
   },
   "cctv4": {
     "channelName": "CCTV-4 (亚洲)",
-    "isLive": "老虎队第33集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4210,13 +4189,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1765774920,
     "lvUrl": "https://tv.cctv.com/live/cctv4",
     "vip_flag": 0
   },
   "cctv5": {
     "channelName": "CCTV-5 体育",
-    "isLive": "实况录像-2025/2026赛季雪车世界杯 挪威利勒哈默尔站 男子钢架雪车",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4483,13 +4460,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1765776420,
     "lvUrl": "https://tv.cctv.com/live/cctv5/index.shtml",
     "vip_flag": 0
   },
   "cctv5plus": {
     "channelName": "CCTV-5+ 体育赛事",
-    "isLive": "实况录像-2025年世界跆拳道锦标赛 1",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4708,13 +4683,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1765776600,
     "lvUrl": "https://tv.cctv.com/live/cctv5plus/index.shtml",
     "vip_flag": 0
   },
   "cctv6": {
     "channelName": "CCTV-6 电影",
-    "isLive": "十八个手印",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4957,13 +4930,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1765774396,
     "lvUrl": "https://tv.cctv.com/live/cctv6",
     "vip_flag": 0
   },
   "cctv7": {
     "channelName": "CCTV-7 国防军事",
-    "isLive": "砺剑-2025-50",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5398,13 +5369,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1765775310,
     "lvUrl": "https://tv.cctv.com/live/cctv7",
     "vip_flag": 0
   },
   "cctv8": {
     "channelName": "CCTV-8 电视剧",
-    "isLive": "沉默的荣耀第28集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5775,7 +5744,7 @@
         "length": 3310,
         "showTime": "19:30",
         "startTime": 1765798200,
-        "title": "老舅1/27",
+        "title": "老舅第1集",
         "top": ""
       },
       {
@@ -5799,7 +5768,7 @@
         "length": 3115,
         "showTime": "20:30",
         "startTime": 1765801810,
-        "title": "老舅2/27",
+        "title": "老舅第2集",
         "top": ""
       },
       {
@@ -5823,7 +5792,7 @@
         "length": 2985,
         "showTime": "21:26",
         "startTime": 1765805210,
-        "title": "长安二十四计7/28",
+        "title": "长安二十四计第7集",
         "top": ""
       },
       {
@@ -5847,7 +5816,7 @@
         "length": 2985,
         "showTime": "22:18",
         "startTime": 1765808320,
-        "title": "长安二十四计8/28",
+        "title": "长安二十四计第8集",
         "top": ""
       },
       {
@@ -5875,13 +5844,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1765773830,
     "lvUrl": "https://tv.cctv.com/live/cctv8",
     "vip_flag": 0
   },
   "cctvamerica": {
     "channelName": "CCTV-4 (美洲)",
-    "isLive": "中国舆论场-2025-50",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6352,13 +6319,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1765776560,
     "lvUrl": "https://tv.cctv.com/live/cctvamerica",
     "vip_flag": 0
   },
   "cctvchild": {
     "channelName": "CCTV-14 少儿",
-    "isLive": "动漫世界-2025-349",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6565,13 +6530,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1765771200,
     "lvUrl": "https://tv.cctv.com/live/cctvchild",
     "vip_flag": 0
   },
   "cctveurope": {
     "channelName": "CCTV-4 (欧洲)",
-    "isLive": "我和我的三个姐姐第17集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -7030,13 +6993,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1765776480,
     "lvUrl": "https://tv.cctv.com/live/cctveurope",
     "vip_flag": 0
   },
   "cctvjilu": {
     "channelName": "CCTV-9 纪录",
-    "isLive": "魅力万象2025-206",
     "list": [
       {
         "columnBackvideourl": "",
@@ -7375,7 +7336,6 @@
         "top": ""
       }
     ],
-    "liveSt": 1765772820,
     "lvUrl": "https://tv.cctv.com/live/cctvjilu",
     "vip_flag": 0
   }
