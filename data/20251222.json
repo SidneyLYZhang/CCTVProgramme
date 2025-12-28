@@ -1,7 +1,6 @@
 {
   "cctv1": {
     "channelName": "CCTV-1 综合",
-    "isLive": "生万物第10集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/shq/index.shtml",
@@ -372,7 +371,7 @@
         "length": 1245,
         "showTime": "20:06",
         "startTime": 1766405160,
-        "title": "奇迹1/24",
+        "title": "奇迹第1集",
         "top": ""
       },
       {
@@ -396,7 +395,7 @@
         "length": 1510,
         "showTime": "20:27",
         "startTime": 1766406460,
-        "title": "奇迹2/24",
+        "title": "奇迹第2集",
         "top": ""
       },
       {
@@ -484,13 +483,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1766380305,
     "lvUrl": "https://tv.cctv.com/live/cctv1",
     "vip_flag": 0
   },
   "cctv10": {
     "channelName": "CCTV-10 科教",
-    "isLive": "剧说历史（第一季）-15",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/sskjx/index.shtml",
@@ -913,13 +910,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1766378970,
     "lvUrl": "https://tv.cctv.com/live/cctv10",
     "vip_flag": 0
   },
   "cctv11": {
     "channelName": "CCTV-11 戏曲",
-    "isLive": "姥姥的饺子馆第28集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/dc/index.shtml",
@@ -1114,13 +1109,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1766378910,
     "lvUrl": "https://tv.cctv.com/live/cctv11",
     "vip_flag": 0
   },
   "cctv12": {
     "channelName": "CCTV-12 社会与法",
-    "isLive": "2025社会与法电视剧精选-巡回检察组-12/43",
     "list": [
       {
         "columnBackvideourl": "",
@@ -1507,13 +1500,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1766380140,
     "lvUrl": "https://tv.cctv.com/live/cctv12",
     "vip_flag": 0
   },
   "cctv13": {
     "channelName": "CCTV-13 新闻",
-    "isLive": "新闻直播间",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/wyxw/index.shtml",
@@ -1936,13 +1927,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1766379600,
     "lvUrl": "https://tv.cctv.com/live/cctv13",
     "vip_flag": 0
   },
   "cctv15": {
     "channelName": "CCTV-15 音乐",
-    "isLive": "金声玉振——中国器乐大会-第十一期",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/cctvyyt/index.shtml",
@@ -2163,24 +2152,24 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zgjp/index.shtml",
         "column_url": "https://tv.cctv.com/lm/zgjp/index.shtml",
-        "endTime": 1766414040,
+        "endTime": 1766413560,
         "eventId": "",
         "eventType": "",
-        "length": 900,
+        "length": 420,
         "showTime": "22:19",
         "startTime": 1766413140,
-        "title": "中国节拍-品味古典38",
+        "title": "中国节拍-品味古典40",
         "top": ""
       },
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/cctvyyt/index.shtml",
         "column_url": "https://tv.cctv.com/lm/cctvyyt/index.shtml",
-        "endTime": 1766417610,
+        "endTime": 1766417130,
         "eventId": "",
         "eventType": "",
         "length": 3570,
-        "showTime": "22:34",
-        "startTime": 1766414040,
+        "showTime": "22:26",
+        "startTime": 1766413560,
         "title": "CCTV音乐厅-2025-181-名家名曲（68）",
         "top": ""
       },
@@ -2190,20 +2179,18 @@
         "endTime": 1766419140,
         "eventId": "",
         "eventType": "",
-        "length": 1530,
-        "showTime": "23:33",
-        "startTime": 1766417610,
+        "length": 2010,
+        "showTime": "23:25",
+        "startTime": 1766417130,
         "title": "风华国乐-2025-370",
         "top": ""
       }
     ],
-    "liveSt": 1766375850,
     "lvUrl": "https://tv.cctv.com/live/cctv15",
     "vip_flag": 0
   },
   "cctv16": {
     "channelName": "CCTV-16奥林匹克",
-    "isLive": "国际足球赛场-25-26赛季英超联赛第17轮 曼城—西汉姆联",
     "list": [
       {
         "columnBackvideourl": "",
@@ -2530,13 +2517,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1766378100,
     "lvUrl": "https://tv.cctv.com/live/cctv16/index.shtml",
     "vip_flag": 0
   },
   "cctv17": {
     "channelName": "CCTV-17农业农村",
-    "isLive": "乡理乡亲-2023-35",
     "list": [
       {
         "columnBackvideourl": "",
@@ -2947,13 +2932,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1766381205,
     "lvUrl": "https://tv.cctv.com/live/cctv17",
     "vip_flag": 0
   },
   "cctv2": {
     "channelName": "CCTV-2 财经",
-    "isLive": "财经调查",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zcjkk/videoset/index.shtml",
@@ -3388,13 +3371,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1766379600,
     "lvUrl": "https://tv.cctv.com/live/cctv2",
     "vip_flag": 0
   },
   "cctv3": {
     "channelName": "CCTV-3 综艺",
-    "isLive": "国家宝藏-周游季-91",
     "list": [
       {
         "columnBackvideourl": "",
@@ -3709,13 +3690,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1766380830,
     "lvUrl": "https://tv.cctv.com/live/cctv3",
     "vip_flag": 0
   },
   "cctv4": {
     "channelName": "CCTV-4 (亚洲)",
-    "isLive": "暗夜与黎明第23集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4246,13 +4225,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1766379720,
     "lvUrl": "https://tv.cctv.com/live/cctv4",
     "vip_flag": 0
   },
   "cctv5": {
     "channelName": "CCTV-5 体育",
-    "isLive": "艺术里的奥林匹克(4K)",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4507,13 +4484,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1766379900,
     "lvUrl": "https://tv.cctv.com/live/cctv5/index.shtml",
     "vip_flag": 0
   },
   "cctv5plus": {
     "channelName": "CCTV-5+ 体育赛事",
-    "isLive": "实况录像-2025年世乒联总决赛 1",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4744,13 +4719,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1766377800,
     "lvUrl": "https://tv.cctv.com/live/cctv5plus/index.shtml",
     "vip_flag": 0
   },
   "cctv6": {
     "channelName": "CCTV-6 电影",
-    "isLive": "我的喜马拉雅",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4779,10 +4752,10 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1766351284,
+        "endTime": 1766351222,
         "eventId": "",
         "eventType": "",
-        "length": 5370,
+        "length": 5308,
         "showTime": "03:38",
         "startTime": 1766345914,
         "title": "三审奇石",
@@ -4791,73 +4764,73 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1766352866,
-        "eventId": "",
-        "eventType": "",
-        "length": 1582,
-        "showTime": "05:08",
-        "startTime": 1766351284,
-        "title": "我和我的家乡：北京好人",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "",
-        "column_url": "",
-        "endTime": 1766359205,
+        "endTime": 1766357561,
         "eventId": "",
         "eventType": "",
         "length": 6339,
-        "showTime": "05:34",
-        "startTime": 1766352866,
+        "showTime": "05:07",
+        "startTime": 1766351222,
         "title": "平津战役 （上）",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1766365973,
+        "endTime": 1766364329,
         "eventId": "",
         "eventType": "",
         "length": 6768,
-        "showTime": "07:20",
-        "startTime": 1766359205,
+        "showTime": "06:52",
+        "startTime": 1766357561,
         "title": "平津战役 （下）",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1766373995,
+        "endTime": 1766372351,
         "eventId": "",
         "eventType": "",
         "length": 8022,
-        "showTime": "09:12",
-        "startTime": 1766365973,
+        "showTime": "08:45",
+        "startTime": 1766364329,
         "title": "忠犬八公",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1766379609,
+        "endTime": 1766377965,
         "eventId": "",
         "eventType": "",
         "length": 5614,
-        "showTime": "11:26",
-        "startTime": 1766373995,
+        "showTime": "10:59",
+        "startTime": 1766372351,
         "title": "麒麟幻镇",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1766379959,
+        "endTime": 1766378315,
         "eventId": "",
         "eventType": "",
         "length": 350,
-        "showTime": "13:00",
-        "startTime": 1766379609,
+        "showTime": "12:32",
+        "startTime": 1766377965,
         "title": "音乐电影欣赏",
+        "top": ""
+      },
+      {
+        "columnBackvideourl": "",
+        "column_url": "",
+        "endTime": 1766384300,
+        "eventId": "",
+        "eventType": "",
+        "length": 5985,
+        "showTime": "12:38",
+        "startTime": 1766378315,
+        "title": "我的喜马拉雅",
         "top": ""
       },
       {
@@ -4866,10 +4839,10 @@
         "endTime": 1766386009,
         "eventId": "",
         "eventType": "",
-        "length": 6050,
-        "showTime": "13:05",
-        "startTime": 1766379959,
-        "title": "我的喜马拉雅",
+        "length": 1709,
+        "showTime": "14:18",
+        "startTime": 1766384300,
+        "title": "我和我的家乡：北京好人",
         "top": ""
       },
       {
@@ -5005,13 +4978,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1766379959,
     "lvUrl": "https://tv.cctv.com/live/cctv6",
     "vip_flag": 0
   },
   "cctv7": {
     "channelName": "CCTV-7 国防军事",
-    "isLive": "砺剑-2025-51",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5446,13 +5417,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1766380110,
     "lvUrl": "https://tv.cctv.com/live/cctv7",
     "vip_flag": 0
   },
   "cctv8": {
     "channelName": "CCTV-8 电视剧",
-    "isLive": "枫桥警事第17集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5859,7 +5828,7 @@
         "length": 3080,
         "showTime": "21:26",
         "startTime": 1766410005,
-        "title": "长安二十四计19/28",
+        "title": "长安二十四计第19集",
         "top": ""
       },
       {
@@ -5899,13 +5868,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1766378530,
     "lvUrl": "https://tv.cctv.com/live/cctv8",
     "vip_flag": 0
   },
   "cctvamerica": {
     "channelName": "CCTV-4 (美洲)",
-    "isLive": "海峡两岸-2025-355",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/gjjy/videoset/",
@@ -6400,13 +6367,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1766379600,
     "lvUrl": "https://tv.cctv.com/live/cctvamerica",
     "vip_flag": 0
   },
   "cctvchild": {
     "channelName": "CCTV-14 少儿",
-    "isLive": "动漫世界-2025-356",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6613,13 +6578,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1766376000,
     "lvUrl": "https://tv.cctv.com/live/cctvchild",
     "vip_flag": 0
   },
   "cctveurope": {
     "channelName": "CCTV-4 (欧洲)",
-    "isLive": "华人故事-2025-52",
     "list": [
       {
         "columnBackvideourl": "",
@@ -7054,13 +7017,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1766379600,
     "lvUrl": "https://tv.cctv.com/live/cctveurope",
     "vip_flag": 0
   },
   "cctvjilu": {
     "channelName": "CCTV-9 纪录",
-    "isLive": "魅力万象2025-344",
     "list": [
       {
         "columnBackvideourl": "",
@@ -7399,7 +7360,6 @@
         "top": ""
       }
     ],
-    "liveSt": 1766377620,
     "lvUrl": "https://tv.cctv.com/live/cctvjilu",
     "vip_flag": 0
   }
