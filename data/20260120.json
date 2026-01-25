@@ -341,10 +341,10 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/jdft/index.shtml",
         "column_url": "https://tv.cctv.com/lm/jdft/index.shtml",
-        "endTime": 1768910700,
+        "endTime": 1768910520,
         "eventId": "",
         "eventType": "",
-        "length": 1535,
+        "length": 1355,
         "showTime": "19:39",
         "startTime": 1768909165,
         "title": "焦点访谈",
@@ -353,13 +353,25 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1768917015,
+        "endTime": 1768916780,
         "eventId": "",
         "eventType": "",
-        "length": 6315,
-        "showTime": "20:05",
-        "startTime": 1768910700,
+        "length": 6260,
+        "showTime": "20:02",
+        "startTime": 1768910520,
         "title": "榜样10-1",
+        "top": ""
+      },
+      {
+        "columnBackvideourl": "",
+        "column_url": "",
+        "endTime": 1768917080,
+        "eventId": "",
+        "eventType": "",
+        "length": 300,
+        "showTime": "21:46",
+        "startTime": 1768916780,
+        "title": "非遗里的中国-MV",
         "top": ""
       },
       {
@@ -368,9 +380,9 @@
         "endTime": 1768917600,
         "eventId": "",
         "eventType": "",
-        "length": 585,
-        "showTime": "21:50",
-        "startTime": 1768917015,
+        "length": 520,
+        "showTime": "21:51",
+        "startTime": 1768917080,
         "title": "三餐四季（第二季）-宣传片",
         "top": ""
       },
@@ -3570,15 +3582,15 @@
         "top": ""
       },
       {
-        "columnBackvideourl": "",
-        "column_url": "",
-        "endTime": 1768917760,
+        "columnBackvideourl": "https://tv.cctv.com/lm/yzyy/videoset/",
+        "column_url": "https://tv.cctv.com/lm/yzyy/index.shtml",
+        "endTime": 1768917880,
         "eventId": "",
         "eventType": "",
-        "length": 4940,
+        "length": 5060,
         "showTime": "20:40",
         "startTime": 1768912820,
-        "title": "2026年开门迎春晚-5",
+        "title": "越战越勇-2026-1",
         "top": ""
       },
       {
@@ -3587,10 +3599,10 @@
         "endTime": 1768923055,
         "eventId": "",
         "eventType": "",
-        "length": 5295,
-        "showTime": "22:02",
-        "startTime": 1768917760,
-        "title": "扬帆远航大湾区——2026新年音乐会-1",
+        "length": 5175,
+        "showTime": "22:04",
+        "startTime": 1768917880,
+        "title": "劲舞开跳吧！-2",
         "top": ""
       },
       {
@@ -4222,10 +4234,10 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1768867380,
+        "endTime": 1768867200,
         "eventId": "",
         "eventType": "",
-        "length": 3780,
+        "length": 3600,
         "showTime": "07:00",
         "startTime": 1768863600,
         "title": "体坛晨报",
@@ -4234,24 +4246,12 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1768869000,
-        "eventId": "",
-        "eventType": "",
-        "length": 1620,
-        "showTime": "08:03",
-        "startTime": 1768867380,
-        "title": "2025/2026赛季雪车世界杯 德国阿腾堡站-男子钢架雪车决赛",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "",
-        "column_url": "",
         "endTime": 1768881600,
         "eventId": "",
         "eventType": "",
-        "length": 12600,
-        "showTime": "08:30",
-        "startTime": 1768869000,
+        "length": 14400,
+        "showTime": "08:00",
+        "startTime": 1768867200,
         "title": "2026年澳大利亚网球公开赛-第1轮3",
         "top": ""
       },
@@ -4390,13 +4390,13 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1768923300,
+        "endTime": 1768921200,
         "eventId": "",
         "eventType": "",
-        "length": 3600,
+        "length": 1500,
         "showTime": "22:35",
         "startTime": 1768919700,
-        "title": "实况录像-2026年世乒联冠军赛 多哈站 1",
+        "title": "实况录像-精品赛事记录 2025/2026赛季速度滑冰世界杯 中国队比赛",
         "top": ""
       },
       {
@@ -4405,10 +4405,10 @@
         "endTime": 1768924740,
         "eventId": "",
         "eventType": "",
-        "length": 1440,
-        "showTime": "23:35",
-        "startTime": 1768923300,
-        "title": "实况录像-精品赛事记录 2025/2026赛季速度滑冰世界杯 中国队比赛",
+        "length": 3540,
+        "showTime": "23:00",
+        "startTime": 1768921200,
+        "title": "2026亚足联U23亚洲杯-半决赛（越南-中国）",
         "top": ""
       }
     ],
@@ -5792,7 +5792,7 @@
         "length": 3235,
         "showTime": "19:30",
         "startTime": 1768908600,
-        "title": "小城大事21/40",
+        "title": "小城大事第21集",
         "top": ""
       },
       {
@@ -5804,7 +5804,7 @@
         "length": 300,
         "showTime": "20:23",
         "startTime": 1768911835,
-        "title": "本集提要-小城大事-22/40",
+        "title": "本集提要-小城大事-第22集",
         "top": ""
       },
       {
@@ -5816,7 +5816,7 @@
         "length": 3095,
         "showTime": "20:28",
         "startTime": 1768912135,
-        "title": "小城大事22/40",
+        "title": "小城大事第22集",
         "top": ""
       },
       {
@@ -5840,7 +5840,7 @@
         "length": 2985,
         "showTime": "21:25",
         "startTime": 1768915530,
-        "title": "人民的选择19/26",
+        "title": "人民的选择第19集",
         "top": ""
       },
       {
@@ -5852,7 +5852,7 @@
         "length": 105,
         "showTime": "22:15",
         "startTime": 1768918515,
-        "title": "本集提要-人民的选择-20/26",
+        "title": "本集提要-人民的选择-第20集",
         "top": ""
       },
       {
@@ -5864,7 +5864,7 @@
         "length": 3000,
         "showTime": "22:17",
         "startTime": 1768918620,
-        "title": "人民的选择20/26",
+        "title": "人民的选择第20集",
         "top": ""
       },
       {
@@ -6111,7 +6111,7 @@
         "length": 2760,
         "showTime": "09:00",
         "startTime": 1768870800,
-        "title": "暖暖的幸福第16集",
+        "title": "暖暖的幸福第15集",
         "top": ""
       },
       {
@@ -6123,7 +6123,7 @@
         "length": 2760,
         "showTime": "09:46",
         "startTime": 1768873560,
-        "title": "暖暖的幸福第17集",
+        "title": "暖暖的幸福第16集",
         "top": ""
       },
       {
@@ -6267,7 +6267,7 @@
         "length": 2760,
         "showTime": "16:28",
         "startTime": 1768897680,
-        "title": "暖暖的幸福第16集",
+        "title": "暖暖的幸福第15集",
         "top": ""
       },
       {
@@ -6279,7 +6279,7 @@
         "length": 2760,
         "showTime": "17:14",
         "startTime": 1768900440,
-        "title": "暖暖的幸福第17集",
+        "title": "暖暖的幸福第16集",
         "top": ""
       },
       {
