@@ -365,10 +365,10 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/jdft/index.shtml",
         "column_url": "https://tv.cctv.com/lm/jdft/index.shtml",
-        "endTime": 1770120055,
+        "endTime": 1770120040,
         "eventId": "",
         "eventType": "",
-        "length": 1260,
+        "length": 1245,
         "showTime": "19:39",
         "startTime": 1770118795,
         "title": "焦点访谈",
@@ -380,46 +380,46 @@
         "endTime": 1770120300,
         "eventId": "",
         "eventType": "",
-        "length": 245,
+        "length": 260,
         "showTime": "20:00",
-        "startTime": 1770120055,
-        "title": "前情提要-太平年-23/48",
+        "startTime": 1770120040,
+        "title": "前情提要-太平年-第23集",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1770123400,
+        "endTime": 1770123320,
         "eventId": "",
         "eventType": "",
-        "length": 3100,
+        "length": 3020,
         "showTime": "20:05",
         "startTime": 1770120300,
-        "title": "太平年23/48",
+        "title": "太平年第23集",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1770123545,
+        "endTime": 1770123600,
         "eventId": "",
         "eventType": "",
-        "length": 145,
-        "showTime": "20:56",
-        "startTime": 1770123400,
-        "title": "前情提要-太平年-24/48",
+        "length": 280,
+        "showTime": "20:55",
+        "startTime": 1770123320,
+        "title": "前情提要-太平年-第24集",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1770126575,
+        "endTime": 1770126625,
         "eventId": "",
         "eventType": "",
-        "length": 3030,
-        "showTime": "20:59",
-        "startTime": 1770123545,
-        "title": "太平年24/48",
+        "length": 3025,
+        "showTime": "21:00",
+        "startTime": 1770123600,
+        "title": "太平年第24集",
         "top": ""
       },
       {
@@ -428,9 +428,9 @@
         "endTime": 1770127200,
         "eventId": "",
         "eventType": "",
-        "length": 625,
-        "showTime": "21:49",
-        "startTime": 1770126575,
+        "length": 575,
+        "showTime": "21:50",
+        "startTime": 1770126625,
         "title": "三餐四季（第二季）-宣传片",
         "top": ""
       },
@@ -455,7 +455,7 @@
         "length": 3120,
         "showTime": "22:34",
         "startTime": 1770129265,
-        "title": "太平年25/48",
+        "title": "太平年第25集",
         "top": ""
       },
       {
@@ -2867,75 +2867,63 @@
     "channelName": "CCTV-2 财经",
     "list": [
       {
+        "columnBackvideourl": "https://tv.cctv.com/lm/jjbxs/videoset/",
+        "column_url": "https://tv.cctv.com/lm/jjbxs/index.shtml",
+        "endTime": 1770051870,
+        "eventId": "",
+        "eventType": "",
+        "length": 1990,
+        "showTime": "00:31",
+        "startTime": 1770049880,
+        "title": "经济半小时",
+        "top": ""
+      },
+      {
         "columnBackvideourl": "https://tv.cctv.com/lm/zgjjdjt/videoset/",
         "column_url": "https://tv.cctv.com/lm/zgjjdjt/index.shtml",
-        "endTime": 1770051390,
+        "endTime": 1770054510,
         "eventId": "",
         "eventType": "",
         "length": 2640,
-        "showTime": "00:12",
-        "startTime": 1770048750,
+        "showTime": "01:04",
+        "startTime": 1770051870,
         "title": "中国经济大讲堂-2026-5",
         "top": ""
       },
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/ycdy/videoset/",
         "column_url": "https://tv.cctv.com/lm/ycdy/index.shtml",
-        "endTime": 1770054930,
+        "endTime": 1770058050,
         "eventId": "",
         "eventType": "",
         "length": 3540,
-        "showTime": "00:56",
-        "startTime": 1770051390,
+        "showTime": "01:48",
+        "startTime": 1770054510,
         "title": "一槌定音-2026-4",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1770055690,
+        "endTime": 1770058810,
         "eventId": "",
         "eventType": "",
         "length": 760,
-        "showTime": "01:55",
-        "startTime": 1770054930,
+        "showTime": "02:47",
+        "startTime": 1770058050,
         "title": "周末特供2025-万物之生3-11分版",
         "top": ""
       },
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zcjkk/videoset/index.shtml",
         "column_url": "https://tv.cctv.com/lm/zcjkk/index.shtml",
-        "endTime": 1770059170,
-        "eventId": "",
-        "eventType": "",
-        "length": 3480,
-        "showTime": "02:08",
-        "startTime": 1770055690,
-        "title": "职场健康课-2026-5",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "",
-        "column_url": "",
-        "endTime": 1770060730,
-        "eventId": "",
-        "eventType": "",
-        "length": 1560,
-        "showTime": "03:06",
-        "startTime": 1770059170,
-        "title": "2024精品财经纪录-人类记忆中国的世界遗产-1",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "",
-        "column_url": "",
         "endTime": 1770062290,
         "eventId": "",
         "eventType": "",
-        "length": 1560,
-        "showTime": "03:32",
-        "startTime": 1770060730,
-        "title": "2024精品财经纪录-人类记忆中国的世界遗产-2",
+        "length": 3480,
+        "showTime": "03:00",
+        "startTime": 1770058810,
+        "title": "职场健康课-2026-5",
         "top": ""
       },
       {
@@ -3289,49 +3277,13 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1770129420,
-        "eventId": "",
-        "eventType": "",
-        "length": 2460,
-        "showTime": "21:56",
-        "startTime": 1770126960,
-        "title": "2023精品财经纪录-大泰山-2",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "https://tv.cctv.com/lm/zgjjdjt/videoset/",
-        "column_url": "https://tv.cctv.com/lm/zgjjdjt/index.shtml",
-        "endTime": 1770132300,
-        "eventId": "",
-        "eventType": "",
-        "length": 2880,
-        "showTime": "22:37",
-        "startTime": 1770129420,
-        "title": "中国经济大讲堂-2026-5",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "https://tv.cctv.com/lm/jjbxs/videoset/",
-        "column_url": "https://tv.cctv.com/lm/jjbxs/index.shtml",
-        "endTime": 1770134350,
-        "eventId": "",
-        "eventType": "",
-        "length": 2050,
-        "showTime": "23:25",
-        "startTime": 1770132300,
-        "title": "经济半小时",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "https://tv.cctv.com/lm/ycdy/videoset/",
-        "column_url": "https://tv.cctv.com/lm/ycdy/index.shtml",
         "endTime": 1770134340,
         "eventId": "",
         "eventType": "",
-        "length": -10,
-        "showTime": "23:59",
-        "startTime": 1770134350,
-        "title": "一槌定音-2026-4",
+        "length": 7380,
+        "showTime": "21:56",
+        "startTime": 1770126960,
+        "title": "直通未来·未来产业新力量-23",
         "top": ""
       }
     ],
@@ -3584,10 +3536,10 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1770129615,
+        "endTime": 1770129690,
         "eventId": "",
         "eventType": "",
-        "length": 5450,
+        "length": 5525,
         "showTime": "21:09",
         "startTime": 1770124165,
         "title": "2026年开门迎春晚-6",
@@ -3596,121 +3548,13 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1770129630,
-        "eventId": "",
-        "eventType": "",
-        "length": 15,
-        "showTime": "22:40",
-        "startTime": 1770129615,
-        "title": "国家宝藏-周游季-137",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "",
-        "column_url": "",
-        "endTime": 1770129650,
-        "eventId": "",
-        "eventType": "",
-        "length": 20,
-        "showTime": "22:40",
-        "startTime": 1770129630,
-        "title": "国家宝藏-周游季-138",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "",
-        "column_url": "",
-        "endTime": 1770129670,
-        "eventId": "",
-        "eventType": "",
-        "length": 20,
-        "showTime": "22:40",
-        "startTime": 1770129650,
-        "title": "国家宝藏-周游季-139",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "",
-        "column_url": "",
-        "endTime": 1770129690,
-        "eventId": "",
-        "eventType": "",
-        "length": 20,
-        "showTime": "22:41",
-        "startTime": 1770129670,
-        "title": "国家宝藏-周游季-140",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "",
-        "column_url": "",
-        "endTime": 1770132450,
-        "eventId": "",
-        "eventType": "",
-        "length": 2760,
-        "showTime": "22:41",
-        "startTime": 1770129690,
-        "title": "综艺喜乐汇-2026-86 什刹海26/37",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "",
-        "column_url": "",
-        "endTime": 1770132465,
-        "eventId": "",
-        "eventType": "",
-        "length": 15,
-        "showTime": "23:27",
-        "startTime": 1770132450,
-        "title": "国家宝藏-周游季-141",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "",
-        "column_url": "",
-        "endTime": 1770132480,
-        "eventId": "",
-        "eventType": "",
-        "length": 15,
-        "showTime": "23:27",
-        "startTime": 1770132465,
-        "title": "国家宝藏-周游季-142",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "",
-        "column_url": "",
-        "endTime": 1770132495,
-        "eventId": "",
-        "eventType": "",
-        "length": 15,
-        "showTime": "23:28",
-        "startTime": 1770132480,
-        "title": "国家宝藏-周游季-144",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "",
-        "column_url": "",
-        "endTime": 1770132510,
-        "eventId": "",
-        "eventType": "",
-        "length": 15,
-        "showTime": "23:28",
-        "startTime": 1770132495,
-        "title": "国家宝藏-周游季-145",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "",
-        "column_url": "",
         "endTime": 1770132525,
         "eventId": "",
         "eventType": "",
-        "length": 15,
-        "showTime": "23:28",
-        "startTime": 1770132510,
-        "title": "国家宝藏-周游季-146",
+        "length": 2835,
+        "showTime": "22:41",
+        "startTime": 1770129690,
+        "title": "综艺喜乐汇-2026-86 什刹海26/37",
         "top": ""
       },
       {
@@ -5888,7 +5732,7 @@
         "length": 180,
         "showTime": "19:27",
         "startTime": 1770118020,
-        "title": "本集提要-生命树-9/40",
+        "title": "本集提要-生命树-第9集",
         "top": ""
       },
       {
@@ -5900,7 +5744,7 @@
         "length": 3295,
         "showTime": "19:30",
         "startTime": 1770118200,
-        "title": "生命树9/40",
+        "title": "生命树第9集",
         "top": ""
       },
       {
@@ -5912,7 +5756,7 @@
         "length": 300,
         "showTime": "20:24",
         "startTime": 1770121495,
-        "title": "本集提要-生命树-10/40",
+        "title": "本集提要-生命树-第10集",
         "top": ""
       },
       {
@@ -5924,7 +5768,7 @@
         "length": 3150,
         "showTime": "20:29",
         "startTime": 1770121795,
-        "title": "生命树10/40",
+        "title": "生命树第10集",
         "top": ""
       },
       {
@@ -5936,7 +5780,7 @@
         "length": 300,
         "showTime": "21:22",
         "startTime": 1770124945,
-        "title": "本集提要-加油！小茉-27/32",
+        "title": "本集提要-加油！小茉-第27集",
         "top": ""
       },
       {
@@ -5948,7 +5792,7 @@
         "length": 2985,
         "showTime": "21:27",
         "startTime": 1770125245,
-        "title": "加油！小茉27/32",
+        "title": "加油！小茉第27集",
         "top": ""
       },
       {
@@ -5960,7 +5804,7 @@
         "length": 105,
         "showTime": "22:17",
         "startTime": 1770128230,
-        "title": "本集提要-加油！小茉-28/32",
+        "title": "本集提要-加油！小茉-第28集",
         "top": ""
       },
       {
@@ -5972,7 +5816,7 @@
         "length": 3000,
         "showTime": "22:18",
         "startTime": 1770128335,
-        "title": "加油！小茉28/32",
+        "title": "加油！小茉第28集",
         "top": ""
       },
       {
@@ -5984,7 +5828,7 @@
         "length": 2760,
         "showTime": "23:08",
         "startTime": 1770131335,
-        "title": "加油！小茉29/32",
+        "title": "加油！小茉第29集",
         "top": ""
       },
       {

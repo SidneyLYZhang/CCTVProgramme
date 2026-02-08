@@ -1,7 +1,6 @@
 {
   "cctv1": {
     "channelName": "CCTV-1 综合",
-    "isLive": "小城大事第32集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/shq/index.shtml",
@@ -36,7 +35,7 @@
         "length": 2220,
         "showTime": "02:13",
         "startTime": 1769969580,
-        "title": "寻味山海-泸县",
+        "title": "寻味山海",
         "top": ""
       },
       {
@@ -348,7 +347,7 @@
         "length": 265,
         "showTime": "20:00",
         "startTime": 1770033635,
-        "title": "前情提要-太平年-20/48",
+        "title": "前情提要-太平年-第20集",
         "top": ""
       },
       {
@@ -360,7 +359,7 @@
         "length": 3080,
         "showTime": "20:05",
         "startTime": 1770033900,
-        "title": "太平年20/48",
+        "title": "太平年第20集",
         "top": ""
       },
       {
@@ -372,7 +371,7 @@
         "length": 250,
         "showTime": "20:56",
         "startTime": 1770036980,
-        "title": "前情提要-太平年-21/48",
+        "title": "前情提要-太平年-第21集",
         "top": ""
       },
       {
@@ -384,7 +383,7 @@
         "length": 3080,
         "showTime": "21:00",
         "startTime": 1770037230,
-        "title": "太平年21/48",
+        "title": "太平年第21集",
         "top": ""
       },
       {
@@ -420,7 +419,7 @@
         "length": 3125,
         "showTime": "22:34",
         "startTime": 1770042850,
-        "title": "太平年22/48",
+        "title": "太平年第22集",
         "top": ""
       },
       {
@@ -436,13 +435,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1770011805,
     "lvUrl": "https://tv.cctv.com/live/cctv1",
     "vip_flag": 0
   },
   "cctv10": {
     "channelName": "CCTV-10 科教",
-    "isLive": "中国书法大会-1",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/weidao/index.shtml",
@@ -841,13 +838,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1770007770,
     "lvUrl": "https://tv.cctv.com/live/cctv10",
     "vip_flag": 0
   },
   "cctv11": {
     "channelName": "CCTV-11 戏曲",
-    "isLive": "雏凤新声——中央广播电视总台 首届少儿戏曲大会-10",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/dc/index.shtml",
@@ -1054,13 +1049,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1770009560,
     "lvUrl": "https://tv.cctv.com/live/cctv11",
     "vip_flag": 0
   },
   "cctv12": {
     "channelName": "CCTV-12 社会与法",
-    "isLive": "2026社会与法电视剧精选-姥姥的饺子馆-13/40",
     "list": [
       {
         "columnBackvideourl": "",
@@ -1447,13 +1440,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1770011880,
     "lvUrl": "https://tv.cctv.com/live/cctv12",
     "vip_flag": 0
   },
   "cctv13": {
     "channelName": "CCTV-13 新闻",
-    "isLive": "新闻直播间",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/wyxw/index.shtml",
@@ -1888,13 +1879,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1770012000,
     "lvUrl": "https://tv.cctv.com/live/cctv13",
     "vip_flag": 0
   },
   "cctv15": {
     "channelName": "CCTV-15 音乐",
-    "isLive": "中国唱将-第7期 2/2",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/fhgy/videoset/",
@@ -2125,13 +2114,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1770008760,
     "lvUrl": "https://tv.cctv.com/live/cctv15",
     "vip_flag": 0
   },
   "cctv16": {
     "channelName": "CCTV-16奥林匹克",
-    "isLive": "实况录像（奥林匹克）-第十五届全国运动会 乒乓球男单比赛",
     "list": [
       {
         "columnBackvideourl": "",
@@ -2446,13 +2433,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1770012300,
     "lvUrl": "https://tv.cctv.com/live/cctv16/index.shtml",
     "vip_flag": 0
   },
   "cctv17": {
     "channelName": "CCTV-17农业农村",
-    "isLive": "青年霍元甲之威震津门第31集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/xlxq/index.shtml",
@@ -2875,13 +2860,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1770010815,
     "lvUrl": "https://tv.cctv.com/live/cctv17",
     "vip_flag": 0
   },
   "cctv2": {
     "channelName": "CCTV-2 财经",
-    "isLive": "正点财经",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zcjkk/videoset/index.shtml",
@@ -3282,47 +3265,33 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1770043020,
+        "endTime": 1770046140,
         "eventId": "",
         "eventType": "",
-        "length": 2460,
+        "length": 5580,
         "showTime": "21:56",
         "startTime": 1770040560,
-        "title": "2023精品财经纪录-大泰山-1",
+        "title": "2025新质生产力中国行-2025新质生产力年度盛典",
         "top": ""
       },
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/duihua/videoset/",
         "column_url": "https://tv.cctv.com/lm/duihua/index.shtml",
-        "endTime": 1770046760,
-        "eventId": "",
-        "eventType": "",
-        "length": 3740,
-        "showTime": "22:37",
-        "startTime": 1770043020,
-        "title": "对话-2026-5",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "https://tv.cctv.com/lm/jjbxs/videoset/",
-        "column_url": "https://tv.cctv.com/lm/jjbxs/index.shtml",
         "endTime": 1770047940,
         "eventId": "",
         "eventType": "",
-        "length": 1180,
-        "showTime": "23:39",
-        "startTime": 1770046760,
-        "title": "经济半小时",
+        "length": 1800,
+        "showTime": "23:29",
+        "startTime": 1770046140,
+        "title": "对话-2026-5",
         "top": ""
       }
     ],
-    "liveSt": 1770012000,
     "lvUrl": "https://tv.cctv.com/live/cctv2",
     "vip_flag": 0
   },
   "cctv3": {
     "channelName": "CCTV-3 综艺",
-    "isLive": "2026年开门迎春晚-7",
     "list": [
       {
         "columnBackvideourl": "",
@@ -3577,13 +3546,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1770010420,
     "lvUrl": "https://tv.cctv.com/live/cctv3",
     "vip_flag": 0
   },
   "cctv4": {
     "channelName": "CCTV-4 (亚洲)",
-    "isLive": "铁道风云第9集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4078,13 +4045,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1770011480,
     "lvUrl": "https://tv.cctv.com/live/cctv4",
     "vip_flag": 0
   },
   "cctv5": {
     "channelName": "CCTV-5 体育",
-    "isLive": "实况录像-精品赛事记录-2025/2026赛季单板滑雪世界杯 女子U型场地中国队比赛",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4375,13 +4340,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1770011880,
     "lvUrl": "https://tv.cctv.com/live/cctv5/index.shtml",
     "vip_flag": 0
   },
   "cctv5plus": {
     "channelName": "CCTV-5+ 体育赛事",
-    "isLive": "实况录像-冲刺向米兰 2",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4624,13 +4587,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1770012000,
     "lvUrl": "https://tv.cctv.com/live/cctv5plus/index.shtml",
     "vip_flag": 0
   },
   "cctv6": {
     "channelName": "CCTV-6 电影",
-    "isLive": "幸福马上来",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4873,13 +4834,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1770006876,
     "lvUrl": "https://tv.cctv.com/live/cctv6",
     "vip_flag": 0
   },
   "cctv7": {
     "channelName": "CCTV-7 国防军事",
-    "isLive": "军事纪录-2026-22",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5314,13 +5273,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1770012480,
     "lvUrl": "https://tv.cctv.com/live/cctv7",
     "vip_flag": 0
   },
   "cctv8": {
     "channelName": "CCTV-8 电视剧",
-    "isLive": "今生有你第18集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/xtj/index.shtml",
@@ -5799,7 +5756,7 @@
         "length": 2760,
         "showTime": "23:08",
         "startTime": 1770044935,
-        "title": "加油！小茉26/32",
+        "title": "加油！小茉第26集",
         "top": ""
       },
       {
@@ -5815,13 +5772,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1770010925,
     "lvUrl": "https://tv.cctv.com/live/cctv8",
     "vip_flag": 0
   },
   "cctvamerica": {
     "channelName": "CCTV-4 (美洲)",
-    "isLive": "中国舆论场-2026-5",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6304,13 +6259,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1770010160,
     "lvUrl": "https://tv.cctv.com/live/cctvamerica",
     "vip_flag": 0
   },
   "cctvchild": {
     "channelName": "CCTV-14 少儿",
-    "isLive": "动漫世界-2026-33",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6565,13 +6518,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1770004800,
     "lvUrl": "https://tv.cctv.com/live/cctvchild",
     "vip_flag": 0
   },
   "cctveurope": {
     "channelName": "CCTV-4 (欧洲)",
-    "isLive": "青山是故乡第2集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -7018,13 +6969,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1770010080,
     "lvUrl": "https://tv.cctv.com/live/cctveurope",
     "vip_flag": 0
   },
   "cctvjilu": {
     "channelName": "CCTV-9 纪录",
-    "isLive": "全景自然2026-32",
     "list": [
       {
         "columnBackvideourl": "",
@@ -7363,7 +7312,6 @@
         "top": ""
       }
     ],
-    "liveSt": 1770010260,
     "lvUrl": "https://tv.cctv.com/live/cctvjilu",
     "vip_flag": 0
   }
