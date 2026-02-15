@@ -1,7 +1,6 @@
 {
   "cctv1": {
     "channelName": "CCTV-1 综合",
-    "isLive": "沉默的荣耀第9集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/shq/index.shtml",
@@ -408,17 +407,15 @@
         "length": 2025,
         "showTime": "23:25",
         "startTime": 1770650715,
-        "title": "非遗里的中国（第四季）-7",
+        "title": "山水间的家（第四季）-1",
         "top": ""
       }
     ],
-    "liveSt": 1770616710,
     "lvUrl": "https://tv.cctv.com/live/cctv1",
     "vip_flag": 0
   },
   "cctv10": {
     "channelName": "CCTV-10 科教",
-    "isLive": "地理·中国-2026-39",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/rwgs/index.shtml",
@@ -841,13 +838,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1770616830,
     "lvUrl": "https://tv.cctv.com/live/cctv10",
     "vip_flag": 0
   },
   "cctv11": {
     "channelName": "CCTV-11 戏曲",
-    "isLive": "雏凤新声——中央广播电视总台 首届少儿戏曲大会-11",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/dc/index.shtml",
@@ -1066,13 +1061,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1770614345,
     "lvUrl": "https://tv.cctv.com/live/cctv11",
     "vip_flag": 0
   },
   "cctv12": {
     "channelName": "CCTV-12 社会与法",
-    "isLive": "2026社会与法电视剧精选-姥姥的饺子馆-34/40",
     "list": [
       {
         "columnBackvideourl": "",
@@ -1459,13 +1452,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1770616680,
     "lvUrl": "https://tv.cctv.com/live/cctv12",
     "vip_flag": 0
   },
   "cctv13": {
     "channelName": "CCTV-13 新闻",
-    "isLive": "新闻直播间",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/wyxw/index.shtml",
@@ -1900,13 +1891,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1770616800,
     "lvUrl": "https://tv.cctv.com/live/cctv13",
     "vip_flag": 0
   },
   "cctv15": {
     "channelName": "CCTV-15 音乐",
-    "isLive": "中国唱将-第10期 2/2",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/fhgy/videoset/",
@@ -2113,13 +2102,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1770612030,
     "lvUrl": "https://tv.cctv.com/live/cctv15",
     "vip_flag": 0
   },
   "cctv16": {
     "channelName": "CCTV-16奥林匹克",
-    "isLive": "2025/2026西班牙足球甲级联赛-第22轮（皇家马德里—巴列卡诺）",
     "list": [
       {
         "columnBackvideourl": "",
@@ -2350,13 +2337,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1770613800,
     "lvUrl": "https://tv.cctv.com/live/cctv16/index.shtml",
     "vip_flag": 0
   },
   "cctv17": {
     "channelName": "CCTV-17农业农村",
-    "isLive": "六姊妹第20集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/xlxq/index.shtml",
@@ -2731,13 +2716,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1770615600,
     "lvUrl": "https://tv.cctv.com/live/cctv17",
     "vip_flag": 0
   },
   "cctv2": {
     "channelName": "CCTV-2 财经",
-    "isLive": "正点财经",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zcjkk/videoset/index.shtml",
@@ -3184,13 +3167,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1770616800,
     "lvUrl": "https://tv.cctv.com/live/cctv2",
     "vip_flag": 0
   },
   "cctv3": {
     "channelName": "CCTV-3 综艺",
-    "isLive": "中国乡村音乐大会-山水绿境篇",
     "list": [
       {
         "columnBackvideourl": "",
@@ -3433,13 +3414,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1770615145,
     "lvUrl": "https://tv.cctv.com/live/cctv3",
     "vip_flag": 0
   },
   "cctv4": {
     "channelName": "CCTV-4 (亚洲)",
-    "isLive": "我叫张思德第9集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -3958,13 +3937,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1770616160,
     "lvUrl": "https://tv.cctv.com/live/cctv4",
     "vip_flag": 0
   },
   "cctv5": {
     "channelName": "CCTV-5 体育",
-    "isLive": "2026年米兰-科尔蒂纳冬奥会 花样滑冰团体（录像）",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4239,7 +4216,7 @@
         "length": 3600,
         "showTime": "21:00",
         "startTime": 1770642000,
-        "title": "2026年米兰-科尔蒂纳冬奥会 自由式滑雪女子坡面障碍技巧决赛",
+        "title": "2026年米兰-科尔蒂纳冬奥会 高山滑雪男子集体全能之回转",
         "top": ""
       },
       {
@@ -4267,13 +4244,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1770613500,
     "lvUrl": "https://tv.cctv.com/live/cctv5/index.shtml",
     "vip_flag": 0
   },
   "cctv5plus": {
     "channelName": "CCTV-5+ 体育赛事",
-    "isLive": "实况录像（奥林匹克）-2026年米兰-科尔蒂纳冬奥会 冰壶混双循环赛1（4K）",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4504,13 +4479,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1770616800,
     "lvUrl": "https://tv.cctv.com/live/cctv5plus/index.shtml",
     "vip_flag": 0
   },
   "cctv6": {
     "channelName": "CCTV-6 电影",
-    "isLive": "浴火之路",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4777,13 +4750,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1770609946,
     "lvUrl": "https://tv.cctv.com/live/cctv6",
     "vip_flag": 0
   },
   "cctv7": {
     "channelName": "CCTV-7 国防军事",
-    "isLive": "军事纪录-2026-27",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5218,13 +5189,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1770617280,
     "lvUrl": "https://tv.cctv.com/live/cctv7",
     "vip_flag": 0
   },
   "cctv8": {
     "channelName": "CCTV-8 电视剧",
-    "isLive": "雪迷宫第16集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5731,13 +5700,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1770615725,
     "lvUrl": "https://tv.cctv.com/live/cctv8",
     "vip_flag": 0
   },
   "cctvamerica": {
     "channelName": "CCTV-4 (美洲)",
-    "isLive": "中国舆论场-2026-6",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zgwy/videoset/",
@@ -6232,13 +6199,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1770614960,
     "lvUrl": "https://tv.cctv.com/live/cctvamerica",
     "vip_flag": 0
   },
   "cctvchild": {
     "channelName": "CCTV-14 少儿",
-    "isLive": "动漫世界-2026-40",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6493,13 +6458,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1770609600,
     "lvUrl": "https://tv.cctv.com/live/cctvchild",
     "vip_flag": 0
   },
   "cctveurope": {
     "channelName": "CCTV-4 (欧洲)",
-    "isLive": "青山是故乡第16集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6982,13 +6945,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1770614880,
     "lvUrl": "https://tv.cctv.com/live/cctveurope",
     "vip_flag": 0
   },
   "cctvjilu": {
     "channelName": "CCTV-9 纪录",
-    "isLive": "全景自然2026-39",
     "list": [
       {
         "columnBackvideourl": "",
@@ -7327,7 +7288,6 @@
         "top": ""
       }
     ],
-    "liveSt": 1770615060,
     "lvUrl": "https://tv.cctv.com/live/cctvjilu",
     "vip_flag": 0
   }
