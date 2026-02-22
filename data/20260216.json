@@ -1,7 +1,6 @@
 {
   "cctv1": {
     "channelName": "CCTV-1 综合",
-    "isLive": "马到成功·中国年-2",
     "list": [
       {
         "columnBackvideourl": "",
@@ -268,13 +267,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1771216500,
     "lvUrl": "https://tv.cctv.com/live/cctv1",
     "vip_flag": 0
   },
   "cctv10": {
     "channelName": "CCTV-10 科教",
-    "isLive": "2025中国科技创新盛典-1",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/weidao/index.shtml",
@@ -673,13 +670,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1771217370,
     "lvUrl": "https://tv.cctv.com/live/cctv10",
     "vip_flag": 0
   },
   "cctv11": {
     "channelName": "CCTV-11 戏曲",
-    "isLive": "春晚等着你——2026春晚倒计时-直播",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/dc/index.shtml",
@@ -778,13 +773,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1771214400,
     "lvUrl": "https://tv.cctv.com/live/cctv11",
     "vip_flag": 0
   },
   "cctv12": {
     "channelName": "CCTV-12 社会与法",
-    "isLive": "2026社会与法电视剧精选-有你才有家-15/50",
     "list": [
       {
         "columnBackvideourl": "",
@@ -1159,13 +1152,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1771221480,
     "lvUrl": "https://tv.cctv.com/live/cctv12",
     "vip_flag": 0
   },
   "cctv13": {
     "channelName": "CCTV-13 新闻",
-    "isLive": "新闻直播间",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/wyxw/index.shtml",
@@ -1444,13 +1435,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1771216440,
     "lvUrl": "https://tv.cctv.com/live/cctv13",
     "vip_flag": 0
   },
   "cctv15": {
     "channelName": "CCTV-15 音乐",
-    "isLive": "春晚等着你——2026春晚倒计时-直播",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/jcyyh/index.shtml",
@@ -1585,13 +1574,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1771214400,
     "lvUrl": "https://tv.cctv.com/live/cctv15",
     "vip_flag": 0
   },
   "cctv16": {
     "channelName": "CCTV-16奥林匹克",
-    "isLive": "实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 越野滑雪男子10公里自由技术",
     "list": [
       {
         "columnBackvideourl": "",
@@ -1894,13 +1881,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1771221600,
     "lvUrl": "https://tv.cctv.com/live/cctv16/index.shtml",
     "vip_flag": 0
   },
   "cctv17": {
     "channelName": "CCTV-17农业农村",
-    "isLive": "春晚等着你——2026春晚倒计时-直播",
     "list": [
       {
         "columnBackvideourl": "",
@@ -2071,13 +2056,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1771214400,
     "lvUrl": "https://tv.cctv.com/live/cctv17",
     "vip_flag": 0
   },
   "cctv2": {
     "channelName": "CCTV-2 财经",
-    "isLive": "2023精品财经纪录-守望秦岭-2",
     "list": [
       {
         "columnBackvideourl": "",
@@ -2464,13 +2447,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1771221810,
     "lvUrl": "https://tv.cctv.com/live/cctv2",
     "vip_flag": 0
   },
   "cctv3": {
     "channelName": "CCTV-3 综艺",
-    "isLive": "春晚等着你——2026春晚倒计时-直播",
     "list": [
       {
         "columnBackvideourl": "",
@@ -2641,13 +2622,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1771214400,
     "lvUrl": "https://tv.cctv.com/live/cctv3",
     "vip_flag": 0
   },
   "cctv4": {
     "channelName": "CCTV-4 (亚洲)",
-    "isLive": "中国缘-2026-8",
     "list": [
       {
         "columnBackvideourl": "",
@@ -2986,13 +2965,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1771221890,
     "lvUrl": "https://tv.cctv.com/live/cctv4",
     "vip_flag": 0
   },
   "cctv5": {
     "channelName": "CCTV-5 体育",
-    "isLive": "录像：2026年米兰-科尔蒂纳冬奥会跳台滑雪 女子大跳台",
     "list": [
       {
         "columnBackvideourl": "",
@@ -3283,13 +3260,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1771221600,
     "lvUrl": "https://tv.cctv.com/live/cctv5/index.shtml",
     "vip_flag": 0
   },
   "cctv5plus": {
     "channelName": "CCTV-5+ 体育赛事",
-    "isLive": "实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 花样滑冰男子单人滑（4K）",
     "list": [
       {
         "columnBackvideourl": "",
@@ -3508,13 +3483,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1771219800,
     "lvUrl": "https://tv.cctv.com/live/cctv5plus/index.shtml",
     "vip_flag": 0
   },
   "cctv6": {
     "channelName": "CCTV-6 电影",
-    "isLive": "出水芙蓉（上）",
     "list": [
       {
         "columnBackvideourl": "",
@@ -3733,13 +3706,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1771220250,
     "lvUrl": "https://tv.cctv.com/live/cctv6",
     "vip_flag": 0
   },
   "cctv7": {
     "channelName": "CCTV-7 国防军事",
-    "isLive": "兵器面面观-2026-32",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4066,13 +4037,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1771220820,
     "lvUrl": "https://tv.cctv.com/live/cctv7",
     "vip_flag": 0
   },
   "cctv8": {
     "channelName": "CCTV-8 电视剧",
-    "isLive": "太平年第13集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4639,13 +4608,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1771220420,
     "lvUrl": "https://tv.cctv.com/live/cctv8",
     "vip_flag": 0
   },
   "cctvamerica": {
     "channelName": "CCTV-4 (美洲)",
-    "isLive": "中国舆论场-2026-7",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5020,13 +4987,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1771219680,
     "lvUrl": "https://tv.cctv.com/live/cctvamerica",
     "vip_flag": 0
   },
   "cctvchild": {
     "channelName": "CCTV-14 少儿",
-    "isLive": "动漫世界-2026-47",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5221,13 +5186,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1771214400,
     "lvUrl": "https://tv.cctv.com/live/cctvchild",
     "vip_flag": 0
   },
   "cctveurope": {
     "channelName": "CCTV-4 (欧洲)",
-    "isLive": "走遍中国-2026-27",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/jzxcmmzs/videoset/",
@@ -5578,13 +5541,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1771221480,
     "lvUrl": "https://tv.cctv.com/live/cctveurope",
     "vip_flag": 0
   },
   "cctvjilu": {
     "channelName": "CCTV-9 纪录",
-    "isLive": "故事中国2026-18",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5923,7 +5884,6 @@
         "top": ""
       }
     ],
-    "liveSt": 1771219860,
     "lvUrl": "https://tv.cctv.com/live/cctvjilu",
     "vip_flag": 0
   }
