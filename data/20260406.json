@@ -1,7 +1,6 @@
 {
   "cctv1": {
     "channelName": "CCTV-1 综合",
-    "isLive": "好好的时光第32集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/shq/index.shtml",
@@ -424,13 +423,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1775455725,
     "lvUrl": "https://tv.cctv.com/live/cctv1",
     "vip_flag": 0
   },
   "cctv10": {
     "channelName": "CCTV-10 科教",
-    "isLive": "欣赏-2023-1",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/rwgs/index.shtml",
@@ -865,13 +862,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1775457270,
     "lvUrl": "https://tv.cctv.com/live/cctv10",
     "vip_flag": 0
   },
   "cctv11": {
     "channelName": "CCTV-11 戏曲",
-    "isLive": "角儿来了-2025-14春启山河",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/dc/index.shtml",
@@ -1102,13 +1097,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1775453460,
     "lvUrl": "https://tv.cctv.com/live/cctv11",
     "vip_flag": 0
   },
   "cctv12": {
     "channelName": "CCTV-12 社会与法",
-    "isLive": "2026社会与法电视剧精选-六姊妹-23/38",
     "list": [
       {
         "columnBackvideourl": "",
@@ -1483,13 +1476,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1775455080,
     "lvUrl": "https://tv.cctv.com/live/cctv12",
     "vip_flag": 0
   },
   "cctv13": {
     "channelName": "CCTV-13 新闻",
-    "isLive": "面对面",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/wyxw/index.shtml",
@@ -1912,13 +1903,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1775455920,
     "lvUrl": "https://tv.cctv.com/live/cctv13",
     "vip_flag": 0
   },
   "cctv15": {
     "channelName": "CCTV-15 音乐",
-    "isLive": "影视留声机-2026-43-经典电影欣赏《董存瑞》",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/fhgy/videoset/",
@@ -2149,13 +2138,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1775452380,
     "lvUrl": "https://tv.cctv.com/live/cctv15",
     "vip_flag": 0
   },
   "cctv16": {
     "channelName": "CCTV-16奥林匹克",
-    "isLive": "2025/2026德国足球甲级联赛-第28轮（弗赖堡-拜仁慕尼黑）",
     "list": [
       {
         "columnBackvideourl": "",
@@ -2494,13 +2481,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1775457300,
     "lvUrl": "https://tv.cctv.com/live/cctv16/index.shtml",
     "vip_flag": 0
   },
   "cctv17": {
     "channelName": "CCTV-17农业农村",
-    "isLive": "姥姥的饺子馆第25集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/snqyh/index.shtml",
@@ -2935,13 +2920,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1775457120,
     "lvUrl": "https://tv.cctv.com/live/cctv17",
     "vip_flag": 0
   },
   "cctv2": {
     "channelName": "CCTV-2 财经",
-    "isLive": "2026精品财经纪录-崂山3",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zcjkk/videoset/index.shtml",
@@ -3460,13 +3443,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1775457040,
     "lvUrl": "https://tv.cctv.com/live/cctv2",
     "vip_flag": 0
   },
   "cctv3": {
     "channelName": "CCTV-3 综艺",
-    "isLive": "多情的土地2026-1",
     "list": [
       {
         "columnBackvideourl": "",
@@ -3745,13 +3726,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1775453000,
     "lvUrl": "https://tv.cctv.com/live/cctv3",
     "vip_flag": 0
   },
   "cctv4": {
     "channelName": "CCTV-4 (亚洲)",
-    "isLive": "浴血十四年第37集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4258,13 +4237,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1775454560,
     "lvUrl": "https://tv.cctv.com/live/cctv4",
     "vip_flag": 0
   },
   "cctv5": {
     "channelName": "CCTV-5 体育",
-    "isLive": "实况录像-2026年世界男子冰壶锦标赛 1",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4579,13 +4556,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1775453280,
     "lvUrl": "https://tv.cctv.com/live/cctv5/index.shtml",
     "vip_flag": 0
   },
   "cctv5plus": {
     "channelName": "CCTV-5+ 体育赛事",
-    "isLive": "实况录像-2025/2026赛季欧洲篮球联赛 第35轮 博洛尼亚—巴伦西亚",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4804,156 +4779,166 @@
         "top": ""
       }
     ],
-    "liveSt": 1775453400,
     "lvUrl": "https://tv.cctv.com/live/cctv5plus/index.shtml",
     "vip_flag": 0
   },
   "cctv6": {
     "channelName": "CCTV-6 电影",
-    "isLive": "战俘拳王",
     "list": [
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1775406060,
+        "endTime": 1775411803,
         "eventId": "",
         "eventType": "",
-        "length": 635,
-        "showTime": "00:10",
-        "startTime": 1775405425,
-        "title": "中国体育彩票阳光开奖2026-04-05",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "",
-        "column_url": "",
-        "endTime": 1775411659,
-        "eventId": "",
-        "eventType": "",
-        "length": 5599,
-        "showTime": "00:21",
-        "startTime": 1775406060,
+        "length": 5364,
+        "showTime": "00:27",
+        "startTime": 1775406439,
         "title": "寻龙夺宝",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1775417103,
+        "endTime": 1775417247,
         "eventId": "",
         "eventType": "",
         "length": 5444,
-        "showTime": "01:54",
-        "startTime": 1775411659,
+        "showTime": "01:56",
+        "startTime": 1775411803,
         "title": "摇滚英雄",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1775429640,
+        "endTime": 1775424232,
         "eventId": "",
         "eventType": "",
-        "length": 12537,
-        "showTime": "03:25",
-        "startTime": 1775417103,
+        "length": 6985,
+        "showTime": "03:27",
+        "startTime": 1775417247,
         "title": "快把我哥带走",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1775435434,
+        "endTime": 1775428078,
         "eventId": "",
         "eventType": "",
-        "length": 5794,
-        "showTime": "06:54",
-        "startTime": 1775429640,
+        "length": 3846,
+        "showTime": "05:23",
+        "startTime": 1775424232,
+        "title": "浴血护镖",
+        "top": ""
+      },
+      {
+        "columnBackvideourl": "",
+        "column_url": "",
+        "endTime": 1775433702,
+        "eventId": "",
+        "eventType": "",
+        "length": 5624,
+        "showTime": "06:27",
+        "startTime": 1775428078,
         "title": "冒险王",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1775441332,
+        "endTime": 1775439905,
         "eventId": "",
         "eventType": "",
-        "length": 5898,
-        "showTime": "08:30",
-        "startTime": 1775435434,
+        "length": 6203,
+        "showTime": "08:01",
+        "startTime": 1775433702,
         "title": "猎鹰追击",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1775447458,
+        "endTime": 1775446216,
         "eventId": "",
         "eventType": "",
-        "length": 6126,
-        "showTime": "10:08",
-        "startTime": 1775441332,
+        "length": 6311,
+        "showTime": "09:45",
+        "startTime": 1775439905,
         "title": "特警狙击手",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1775447833,
+        "endTime": 1775446516,
         "eventId": "",
         "eventType": "",
-        "length": 375,
-        "showTime": "11:50",
-        "startTime": 1775447458,
+        "length": 300,
+        "showTime": "11:30",
+        "startTime": 1775446216,
         "title": "音乐电影欣赏",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1775455414,
+        "endTime": 1775453867,
         "eventId": "",
         "eventType": "",
-        "length": 7581,
-        "showTime": "11:57",
-        "startTime": 1775447833,
+        "length": 7351,
+        "showTime": "11:35",
+        "startTime": 1775446516,
         "title": "无人区",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1775461529,
+        "endTime": 1775459604,
         "eventId": "",
         "eventType": "",
-        "length": 6115,
-        "showTime": "14:03",
-        "startTime": 1775455414,
+        "length": 5737,
+        "showTime": "13:37",
+        "startTime": 1775453867,
         "title": "战俘拳王",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1775468206,
+        "endTime": 1775465932,
         "eventId": "",
         "eventType": "",
-        "length": 6677,
-        "showTime": "15:45",
-        "startTime": 1775461529,
+        "length": 6328,
+        "showTime": "15:13",
+        "startTime": 1775459604,
         "title": "大侦探霍桑",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1775476369,
+        "endTime": 1775471561,
         "eventId": "",
         "eventType": "",
-        "length": 8163,
-        "showTime": "17:36",
-        "startTime": 1775468206,
-        "title": "赤狐书生",
+        "length": 5629,
+        "showTime": "16:58",
+        "startTime": 1775465932,
+        "title": "猫妖奇谭",
+        "top": ""
+      },
+      {
+        "columnBackvideourl": "",
+        "column_url": "",
+        "endTime": 1775478076,
+        "eventId": "",
+        "eventType": "",
+        "length": 6515,
+        "showTime": "18:32",
+        "startTime": 1775471561,
+        "title": "开心岭",
         "top": ""
       },
       {
@@ -4962,10 +4947,10 @@
         "endTime": 1775484000,
         "eventId": "",
         "eventType": "",
-        "length": 7631,
-        "showTime": "19:52",
-        "startTime": 1775476369,
-        "title": "我们永不言弃",
+        "length": 5924,
+        "showTime": "20:21",
+        "startTime": 1775478076,
+        "title": "举起手来！",
         "top": ""
       },
       {
@@ -4983,10 +4968,10 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1775485400,
+        "endTime": 1775485430,
         "eventId": "",
         "eventType": "",
-        "length": 320,
+        "length": 350,
         "showTime": "22:18",
         "startTime": 1775485080,
         "title": "中国福利彩票阳光开奖2026-04-06",
@@ -4995,25 +4980,37 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1775490000,
+        "endTime": 1775487608,
         "eventId": "",
         "eventType": "",
-        "length": 4600,
+        "length": 2178,
         "showTime": "22:23",
-        "startTime": 1775485400,
-        "title": "加菲猫 2",
+        "startTime": 1775485430,
+        "title": "加菲猫 2（上）",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1775490635,
+        "endTime": 1775487668,
         "eventId": "",
         "eventType": "",
-        "length": 635,
-        "showTime": "23:40",
-        "startTime": 1775490000,
+        "length": 60,
+        "showTime": "23:00",
+        "startTime": 1775487608,
         "title": "中国体育彩票阳光开奖2026-04-06",
+        "top": ""
+      },
+      {
+        "columnBackvideourl": "",
+        "column_url": "",
+        "endTime": 1775490412,
+        "eventId": "",
+        "eventType": "",
+        "length": 2744,
+        "showTime": "23:01",
+        "startTime": 1775487668,
+        "title": "加菲猫 2（下）",
         "top": ""
       },
       {
@@ -5022,20 +5019,18 @@
         "endTime": 1775491140,
         "eventId": "",
         "eventType": "",
-        "length": 505,
-        "showTime": "23:50",
-        "startTime": 1775490635,
+        "length": 728,
+        "showTime": "23:46",
+        "startTime": 1775490412,
         "title": "侠义金枪客",
         "top": ""
       }
     ],
-    "liveSt": 1775455414,
     "lvUrl": "https://tv.cctv.com/live/cctv6",
     "vip_flag": 0
   },
   "cctv7": {
     "channelName": "CCTV-7 国防军事",
-    "isLive": "军事纪录-2026-62",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5458,13 +5453,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1775455920,
     "lvUrl": "https://tv.cctv.com/live/cctv7",
     "vip_flag": 0
   },
   "cctv8": {
     "channelName": "CCTV-8 电视剧",
-    "isLive": "冬去春来第8集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5959,13 +5952,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1775457075,
     "lvUrl": "https://tv.cctv.com/live/cctv8",
     "vip_flag": 0
   },
   "cctvamerica": {
     "channelName": "CCTV-4 (美洲)",
-    "isLive": "武当一剑第28集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zgwy/videoset/",
@@ -6436,13 +6427,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1775456960,
     "lvUrl": "https://tv.cctv.com/live/cctvamerica",
     "vip_flag": 0
   },
   "cctvchild": {
     "channelName": "CCTV-14 少儿",
-    "isLive": "动画大放映（早间版）-2026-60",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6637,13 +6626,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1775457000,
     "lvUrl": "https://tv.cctv.com/live/cctvchild",
     "vip_flag": 0
   },
   "cctveurope": {
     "channelName": "CCTV-4 (欧洲)",
-    "isLive": "依依向北风第26集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -7126,13 +7113,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1775456040,
     "lvUrl": "https://tv.cctv.com/live/cctveurope",
     "vip_flag": 0
   },
   "cctvjilu": {
     "channelName": "CCTV-9 纪录",
-    "isLive": "寰宇视野2026-86",
     "list": [
       {
         "columnBackvideourl": "",
@@ -7471,7 +7456,6 @@
         "top": ""
       }
     ],
-    "liveSt": 1775457000,
     "lvUrl": "https://tv.cctv.com/live/cctvjilu",
     "vip_flag": 0
   }
