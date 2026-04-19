@@ -1,7 +1,6 @@
 {
   "cctv1": {
     "channelName": "CCTV-1 综合",
-    "isLive": "暗夜与黎明第28集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/shq/index.shtml",
@@ -424,13 +423,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1776062700,
     "lvUrl": "https://tv.cctv.com/live/cctv1",
     "vip_flag": 0
   },
   "cctv10": {
     "channelName": "CCTV-10 科教",
-    "isLive": "探索·发现-2026-102",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/rwgs/index.shtml",
@@ -865,13 +862,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1776062370,
     "lvUrl": "https://tv.cctv.com/live/cctv10",
     "vip_flag": 0
   },
   "cctv11": {
     "channelName": "CCTV-11 戏曲",
-    "isLive": "京剧电影工程 龙凤呈祥",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/qcxy/index.shtml",
@@ -1090,13 +1085,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1776063030,
     "lvUrl": "https://tv.cctv.com/live/cctv11",
     "vip_flag": 0
   },
   "cctv12": {
     "channelName": "CCTV-12 社会与法",
-    "isLive": "2025社会与法电视剧精选-绽放吧,百合-7/42",
     "list": [
       {
         "columnBackvideourl": "",
@@ -1471,13 +1464,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1776062880,
     "lvUrl": "https://tv.cctv.com/live/cctv12",
     "vip_flag": 0
   },
   "cctv13": {
     "channelName": "CCTV-13 新闻",
-    "isLive": "新闻直播间",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/wyxw/index.shtml",
@@ -1912,13 +1903,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1776063600,
     "lvUrl": "https://tv.cctv.com/live/cctv13",
     "vip_flag": 0
   },
   "cctv15": {
     "channelName": "CCTV-15 音乐",
-    "isLive": "风华国乐-2025-180-风华雅集1",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/cctvyyt/index.shtml",
@@ -2161,13 +2150,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1776061770,
     "lvUrl": "https://tv.cctv.com/live/cctv15",
     "vip_flag": 0
   },
   "cctv16": {
     "channelName": "CCTV-16奥林匹克",
-    "isLive": "2026年蹦床世界杯-阿尔克马尔站1",
     "list": [
       {
         "columnBackvideourl": "",
@@ -2494,13 +2481,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1776062100,
     "lvUrl": "https://tv.cctv.com/live/cctv16/index.shtml",
     "vip_flag": 0
   },
   "cctv17": {
     "channelName": "CCTV-17农业农村",
-    "isLive": "亲爱的孩子们第13集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/xlxq/index.shtml",
@@ -2935,13 +2920,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1776061920,
     "lvUrl": "https://tv.cctv.com/live/cctv17",
     "vip_flag": 0
   },
   "cctv2": {
     "channelName": "CCTV-2 财经",
-    "isLive": "正点财经",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zcjkk/videoset/index.shtml",
@@ -3400,13 +3383,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1776063600,
     "lvUrl": "https://tv.cctv.com/live/cctv2",
     "vip_flag": 0
   },
   "cctv3": {
     "channelName": "CCTV-3 综艺",
-    "isLive": "动物园里有什么-2",
     "list": [
       {
         "columnBackvideourl": "",
@@ -3685,13 +3666,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1776063630,
     "lvUrl": "https://tv.cctv.com/live/cctv3",
     "vip_flag": 0
   },
   "cctv4": {
     "channelName": "CCTV-4 (亚洲)",
-    "isLive": "誓盟第32集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4044,25 +4023,13 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/jryz/index.shtml",
         "column_url": "https://tv.cctv.com/lm/jryz/index.shtml",
-        "endTime": 1776081600,
-        "eventId": "",
-        "eventType": "",
-        "length": 1800,
-        "showTime": "19:30",
-        "startTime": 1776079800,
-        "title": "今日亚洲",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "https://tv.cctv.com/lm/jzxcmmzs/videoset/",
-        "column_url": "https://tv.cctv.com/lm/jzxcmmzs/",
         "endTime": 1776083400,
         "eventId": "",
         "eventType": "",
-        "length": 1800,
-        "showTime": "20:00",
-        "startTime": 1776081600,
-        "title": "记住乡愁2026-46",
+        "length": 3600,
+        "showTime": "19:30",
+        "startTime": 1776079800,
+        "title": "今日亚洲",
         "top": ""
       },
       {
@@ -4092,25 +4059,13 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/jrgz/index.shtml",
         "column_url": "https://tv.cctv.com/lm/jrgz/index.shtml",
-        "endTime": 1776088800,
-        "eventId": "",
-        "eventType": "",
-        "length": 1800,
-        "showTime": "21:30",
-        "startTime": 1776087000,
-        "title": "今日关注",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "https://tv.cctv.com/lm/zbzg/index.shtml",
-        "column_url": "https://tv.cctv.com/lm/zbzg/index.shtml",
         "endTime": 1776090600,
         "eventId": "",
         "eventType": "",
-        "length": 1800,
-        "showTime": "22:00",
-        "startTime": 1776088800,
-        "title": "走遍中国-2026-58",
+        "length": 3600,
+        "showTime": "21:30",
+        "startTime": 1776087000,
+        "title": "今日关注",
         "top": ""
       },
       {
@@ -4150,13 +4105,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1776062980,
     "lvUrl": "https://tv.cctv.com/live/cctv4",
     "vip_flag": 0
   },
   "cctv5": {
     "channelName": "CCTV-5 体育",
-    "isLive": "实况录像-2025/2026赛季欧洲篮球联赛 第36轮 奥林匹亚科斯—皇家马德里",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4471,13 +4424,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1776061800,
     "lvUrl": "https://tv.cctv.com/live/cctv5/index.shtml",
     "vip_flag": 0
   },
   "cctv5plus": {
     "channelName": "CCTV-5+ 体育赛事",
-    "isLive": "2025/2026西班牙足球甲级联赛-第31轮（巴塞罗那—西班牙人）（4K）",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4708,13 +4659,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1776063660,
     "lvUrl": "https://tv.cctv.com/live/cctv5plus/index.shtml",
     "vip_flag": 0
   },
   "cctv6": {
     "channelName": "CCTV-6 电影",
-    "isLive": "速度与爱情（下）",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4981,13 +4930,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1776064452,
     "lvUrl": "https://tv.cctv.com/live/cctv6",
     "vip_flag": 0
   },
   "cctv7": {
     "channelName": "CCTV-7 国防军事",
-    "isLive": "五星剧场-雪迷宫9/31",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5358,7 +5305,7 @@
         "length": 2040,
         "showTime": "20:09",
         "startTime": 1776082170,
-        "title": "防务新观察-2026-103",
+        "title": "防务新观察-2026-备播4",
         "top": ""
       },
       {
@@ -5422,13 +5369,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1776062130,
     "lvUrl": "https://tv.cctv.com/live/cctv7",
     "vip_flag": 0
   },
   "cctv8": {
     "channelName": "CCTV-8 电视剧",
-    "isLive": "我的山与海第4集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5923,13 +5868,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1776061875,
     "lvUrl": "https://tv.cctv.com/live/cctv8",
     "vip_flag": 0
   },
   "cctvamerica": {
     "channelName": "CCTV-4 (美洲)",
-    "isLive": "海峡两岸-2026-102",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zgwy/videoset/",
@@ -6306,13 +6249,25 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/jryz/index.shtml",
         "column_url": "https://tv.cctv.com/lm/jryz/index.shtml",
-        "endTime": 1776081600,
+        "endTime": 1776083400,
         "eventId": "",
         "eventType": "",
-        "length": 1800,
+        "length": 3600,
         "showTime": "19:30",
         "startTime": 1776079800,
         "title": "今日亚洲",
+        "top": ""
+      },
+      {
+        "columnBackvideourl": "https://tv.cctv.com/lm/zgy/videoset/",
+        "column_url": "https://tv.cctv.com/lm/zgy/index.shtml",
+        "endTime": 1776084960,
+        "eventId": "",
+        "eventType": "",
+        "length": 1560,
+        "showTime": "20:30",
+        "startTime": 1776083400,
+        "title": "中国缘-2026-15",
         "top": ""
       },
       {
@@ -6321,10 +6276,10 @@
         "endTime": 1776085200,
         "eventId": "",
         "eventType": "",
-        "length": 3600,
-        "showTime": "20:00",
-        "startTime": 1776081600,
-        "title": "环球综艺秀-2026-15",
+        "length": 240,
+        "showTime": "20:56",
+        "startTime": 1776084960,
+        "title": "记住乡愁-片段展播-2024-1",
         "top": ""
       },
       {
@@ -6342,10 +6297,10 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/jrgz/index.shtml",
         "column_url": "https://tv.cctv.com/lm/jrgz/index.shtml",
-        "endTime": 1776088800,
+        "endTime": 1776090600,
         "eventId": "",
         "eventType": "",
-        "length": 1800,
+        "length": 3600,
         "showTime": "21:30",
         "startTime": 1776087000,
         "title": "今日关注",
@@ -6354,59 +6309,33 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/jcyyh/index.shtml",
         "column_url": "https://tv.cctv.com/lm/jcyyh/index.shtml",
-        "endTime": 1776091500,
+        "endTime": 1776093300,
         "eventId": "",
         "eventType": "",
         "length": 2700,
-        "showTime": "22:00",
-        "startTime": 1776088800,
+        "showTime": "22:30",
+        "startTime": 1776090600,
         "title": "精彩音乐汇（海外版）-2026-97",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1776094200,
-        "eventId": "",
-        "eventType": "",
-        "length": 2700,
-        "showTime": "22:45",
-        "startTime": 1776091500,
-        "title": "动画城(四套)-2026-94",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "https://tv.cctv.com/lm/zgy/videoset/",
-        "column_url": "https://tv.cctv.com/lm/zgy/index.shtml",
-        "endTime": 1776095760,
-        "eventId": "",
-        "eventType": "",
-        "length": 1560,
-        "showTime": "23:30",
-        "startTime": 1776094200,
-        "title": "中国缘-2026-15",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "https://tv.cctv.com/lm/hxla/index.shtml",
-        "column_url": "https://tv.cctv.com/lm/hxla/index.shtml",
         "endTime": 1776095940,
         "eventId": "",
         "eventType": "",
-        "length": 180,
-        "showTime": "23:56",
-        "startTime": 1776095760,
-        "title": "海峡两岸-2026-102",
+        "length": 2640,
+        "showTime": "23:15",
+        "startTime": 1776093300,
+        "title": "动画城(四套)-2026-94",
         "top": ""
       }
     ],
-    "liveSt": 1776063600,
     "lvUrl": "https://tv.cctv.com/live/cctvamerica",
     "vip_flag": 0
   },
   "cctvchild": {
     "channelName": "CCTV-14 少儿",
-    "isLive": "动画大放映（上午版）-2026-76",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6601,13 +6530,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1776063900,
     "lvUrl": "https://tv.cctv.com/live/cctvchild",
     "vip_flag": 0
   },
   "cctveurope": {
     "channelName": "CCTV-4 (欧洲)",
-    "isLive": "中国舆论场-2026-15",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6984,49 +6911,25 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/jryz/index.shtml",
         "column_url": "https://tv.cctv.com/lm/jryz/index.shtml",
-        "endTime": 1776081600,
+        "endTime": 1776083400,
         "eventId": "",
         "eventType": "",
-        "length": 1800,
+        "length": 3600,
         "showTime": "19:30",
         "startTime": 1776079800,
         "title": "今日亚洲",
         "top": ""
       },
       {
-        "columnBackvideourl": "https://tv.cctv.com/lm/kjl/videoset/",
-        "column_url": "https://tv.cctv.com/lm/kjl/index.shtml",
-        "endTime": 1776084300,
-        "eventId": "",
-        "eventType": "",
-        "length": 2700,
-        "showTime": "20:00",
-        "startTime": 1776081600,
-        "title": "开讲啦（海外版）-2026-7",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "",
-        "column_url": "",
-        "endTime": 1776084600,
-        "eventId": "",
-        "eventType": "",
-        "length": 300,
-        "showTime": "20:45",
-        "startTime": 1776084300,
-        "title": "记住乡愁-片段展播-2025-28",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "",
-        "column_url": "",
+        "columnBackvideourl": "https://tv.cctv.com/lm/zgy/videoset/",
+        "column_url": "https://tv.cctv.com/lm/zgy/index.shtml",
         "endTime": 1776085200,
         "eventId": "",
         "eventType": "",
-        "length": 600,
-        "showTime": "20:50",
-        "startTime": 1776084600,
-        "title": "记住乡愁-片段展播-2025-11",
+        "length": 1800,
+        "showTime": "20:30",
+        "startTime": 1776083400,
+        "title": "中国缘-2026-15",
         "top": ""
       },
       {
@@ -7044,10 +6947,10 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/jrgz/index.shtml",
         "column_url": "https://tv.cctv.com/lm/jrgz/index.shtml",
-        "endTime": 1776088800,
+        "endTime": 1776090600,
         "eventId": "",
         "eventType": "",
-        "length": 1800,
+        "length": 3600,
         "showTime": "21:30",
         "startTime": 1776087000,
         "title": "今日关注",
@@ -7056,47 +6959,33 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1776091560,
+        "endTime": 1776093300,
         "eventId": "",
         "eventType": "",
-        "length": 2760,
-        "showTime": "22:00",
-        "startTime": 1776088800,
-        "title": "枫桥警事第3集",
+        "length": 2700,
+        "showTime": "22:30",
+        "startTime": 1776090600,
+        "title": "动画城(四套)-2026-94",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1776094320,
-        "eventId": "",
-        "eventType": "",
-        "length": 2760,
-        "showTime": "22:46",
-        "startTime": 1776091560,
-        "title": "枫桥警事第4集",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "https://tv.cctv.com/lm/zgy/videoset/",
-        "column_url": "https://tv.cctv.com/lm/zgy/index.shtml",
         "endTime": 1776095940,
         "eventId": "",
         "eventType": "",
-        "length": 1620,
-        "showTime": "23:32",
-        "startTime": 1776094320,
-        "title": "中国缘-2026-15",
+        "length": 2640,
+        "showTime": "23:15",
+        "startTime": 1776093300,
+        "title": "枫桥警事第3集",
         "top": ""
       }
     ],
-    "liveSt": 1776063600,
     "lvUrl": "https://tv.cctv.com/live/cctveurope",
     "vip_flag": 0
   },
   "cctvjilu": {
     "channelName": "CCTV-9 纪录",
-    "isLive": "魅力万象2026-102",
     "list": [
       {
         "columnBackvideourl": "",
@@ -7435,7 +7324,6 @@
         "top": ""
       }
     ],
-    "liveSt": 1776061800,
     "lvUrl": "https://tv.cctv.com/live/cctvjilu",
     "vip_flag": 0
   }
