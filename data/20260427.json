@@ -1,7 +1,6 @@
 {
   "cctv1": {
     "channelName": "CCTV-1 综合",
-    "isLive": "太平年第21集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/shq/index.shtml",
@@ -448,13 +447,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1777275060,
     "lvUrl": "https://tv.cctv.com/live/cctv1",
     "vip_flag": 0
   },
   "cctv10": {
     "channelName": "CCTV-10 科教",
-    "isLive": "2026科教纪录片精选-与恐龙同行-4",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/bjsgs/index.shtml",
@@ -937,13 +934,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1777274910,
     "lvUrl": "https://tv.cctv.com/live/cctv10",
     "vip_flag": 0
   },
   "cctv11": {
     "channelName": "CCTV-11 戏曲",
-    "isLive": "现代京剧电影  沙家浜",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/qcxy/index.shtml",
@@ -1138,13 +1133,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1777272375,
     "lvUrl": "https://tv.cctv.com/live/cctv11",
     "vip_flag": 0
   },
   "cctv12": {
     "channelName": "CCTV-12 社会与法",
-    "isLive": "剧懂人心-2026-20",
     "list": [
       {
         "columnBackvideourl": "",
@@ -1519,13 +1512,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1777275600,
     "lvUrl": "https://tv.cctv.com/live/cctv12",
     "vip_flag": 0
   },
   "cctv13": {
     "channelName": "CCTV-13 新闻",
-    "isLive": "新闻直播间",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/wyxw/index.shtml",
@@ -1960,13 +1951,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1777273200,
     "lvUrl": "https://tv.cctv.com/live/cctv13",
     "vip_flag": 0
   },
   "cctv15": {
     "channelName": "CCTV-15 音乐",
-    "isLive": "全球中文音乐榜上榜-2025-17",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/fhgy/videoset/",
@@ -2173,13 +2162,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1777271280,
     "lvUrl": "https://tv.cctv.com/live/cctv15",
     "vip_flag": 0
   },
   "cctv16": {
     "channelName": "CCTV-16奥林匹克",
-    "isLive": "实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 短道速滑比赛1",
     "list": [
       {
         "columnBackvideourl": "",
@@ -2494,13 +2481,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1777273500,
     "lvUrl": "https://tv.cctv.com/live/cctv16/index.shtml",
     "vip_flag": 0
   },
   "cctv17": {
     "channelName": "CCTV-17农业农村",
-    "isLive": "月是故乡明第30集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/xlxq/index.shtml",
@@ -2923,13 +2908,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1777274410,
     "lvUrl": "https://tv.cctv.com/live/cctv17",
     "vip_flag": 0
   },
   "cctv2": {
     "channelName": "CCTV-2 财经",
-    "isLive": "生财有道-2026-4-24",
     "list": [
       {
         "columnBackvideourl": "",
@@ -3412,13 +3395,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1777275000,
     "lvUrl": "https://tv.cctv.com/live/cctv2",
     "vip_flag": 0
   },
   "cctv3": {
     "channelName": "CCTV-3 综艺",
-    "isLive": "星光大道-2026-13",
     "list": [
       {
         "columnBackvideourl": "",
@@ -3709,13 +3690,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1777275395,
     "lvUrl": "https://tv.cctv.com/live/cctv3",
     "vip_flag": 0
   },
   "cctv4": {
     "channelName": "CCTV-4 (亚洲)",
-    "isLive": "浴血荣光第20集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4186,13 +4165,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1777275550,
     "lvUrl": "https://tv.cctv.com/live/cctv4",
     "vip_flag": 0
   },
   "cctv5": {
     "channelName": "CCTV-5 体育",
-    "isLive": "2026年汤姆斯杯羽毛球赛-小组赛（中国-加拿大）",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4365,25 +4342,13 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1777280100,
-        "eventId": "",
-        "eventType": "",
-        "length": 8700,
-        "showTime": "14:30",
-        "startTime": 1777271400,
-        "title": "2026年汤姆斯杯羽毛球赛-小组赛（中国-加拿大）",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "https://tv.cctv.com/lm/jsdql/index.shtml",
-        "column_url": "https://tv.cctv.com/lm/jsdql/index.shtml",
         "endTime": 1777280400,
         "eventId": "",
         "eventType": "",
-        "length": 300,
-        "showTime": "16:55",
-        "startTime": 1777280100,
-        "title": "健身动起来",
+        "length": 9000,
+        "showTime": "14:30",
+        "startTime": 1777271400,
+        "title": "2026年汤姆斯杯羽毛球赛-小组赛（中国-加拿大）",
         "top": ""
       },
       {
@@ -4471,13 +4436,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1777271400,
     "lvUrl": "https://tv.cctv.com/live/cctv5/index.shtml",
     "vip_flag": 0
   },
   "cctv5plus": {
     "channelName": "CCTV-5+ 体育赛事",
-    "isLive": "2025/2026西班牙足球甲级联赛-第32轮（皇家贝蒂斯—皇家马德里）（4K）",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4684,13 +4647,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1777273200,
     "lvUrl": "https://tv.cctv.com/live/cctv5plus/index.shtml",
     "vip_flag": 0
   },
   "cctv6": {
     "channelName": "CCTV-6 电影",
-    "isLive": "最初的梦想",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4897,13 +4858,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1777268846,
     "lvUrl": "https://tv.cctv.com/live/cctv6",
     "vip_flag": 0
   },
   "cctv7": {
     "channelName": "CCTV-7 国防军事",
-    "isLive": "浴血十四年21/40",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5338,13 +5297,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1777274730,
     "lvUrl": "https://tv.cctv.com/live/cctv7",
     "vip_flag": 0
   },
   "cctv8": {
     "channelName": "CCTV-8 电视剧",
-    "isLive": "隐身的名字第31集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5451,7 +5408,7 @@
         "length": 2760,
         "showTime": "04:49",
         "startTime": 1777236545,
-        "title": "初婚第35集",
+        "title": "初婚35/35",
         "top": ""
       },
       {
@@ -5463,7 +5420,7 @@
         "length": 2760,
         "showTime": "05:35",
         "startTime": 1777239305,
-        "title": "我最爱的家人第1集",
+        "title": "我最爱的家人1/39",
         "top": ""
       },
       {
@@ -5475,7 +5432,7 @@
         "length": 2850,
         "showTime": "06:21",
         "startTime": 1777242065,
-        "title": "我最爱的家人第2集",
+        "title": "我最爱的家人2/39",
         "top": ""
       },
       {
@@ -5487,7 +5444,7 @@
         "length": 2760,
         "showTime": "07:08",
         "startTime": 1777244915,
-        "title": "我最爱的家人第3集",
+        "title": "我最爱的家人3/39",
         "top": ""
       },
       {
@@ -5511,7 +5468,7 @@
         "length": 3165,
         "showTime": "08:00",
         "startTime": 1777248045,
-        "title": "大决战第25集",
+        "title": "大决战25/49",
         "top": ""
       },
       {
@@ -5523,7 +5480,7 @@
         "length": 2925,
         "showTime": "08:53",
         "startTime": 1777251210,
-        "title": "大决战第26集",
+        "title": "大决战26/49",
         "top": ""
       },
       {
@@ -5547,7 +5504,7 @@
         "length": 3325,
         "showTime": "09:51",
         "startTime": 1777254715,
-        "title": "大决战第27集",
+        "title": "大决战27/49",
         "top": ""
       },
       {
@@ -5559,7 +5516,7 @@
         "length": 3315,
         "showTime": "10:47",
         "startTime": 1777258040,
-        "title": "大决战第28集",
+        "title": "大决战28/49",
         "top": ""
       },
       {
@@ -5571,7 +5528,7 @@
         "length": 2760,
         "showTime": "11:42",
         "startTime": 1777261355,
-        "title": "大决战第29集",
+        "title": "大决战29/49",
         "top": ""
       },
       {
@@ -5595,7 +5552,7 @@
         "length": 3255,
         "showTime": "12:42",
         "startTime": 1777264935,
-        "title": "隐身的名字第28集",
+        "title": "隐身的名字28/31",
         "top": ""
       },
       {
@@ -5607,7 +5564,7 @@
         "length": 3285,
         "showTime": "13:36",
         "startTime": 1777268190,
-        "title": "隐身的名字第29集",
+        "title": "隐身的名字29/31",
         "top": ""
       },
       {
@@ -5619,7 +5576,7 @@
         "length": 3345,
         "showTime": "14:31",
         "startTime": 1777271475,
-        "title": "隐身的名字第30集",
+        "title": "隐身的名字30/31",
         "top": ""
       },
       {
@@ -5631,7 +5588,7 @@
         "length": 2760,
         "showTime": "15:27",
         "startTime": 1777274820,
-        "title": "隐身的名字第31集",
+        "title": "隐身的名字31/31",
         "top": ""
       },
       {
@@ -5667,7 +5624,7 @@
         "length": 3675,
         "showTime": "16:28",
         "startTime": 1777278505,
-        "title": "青山是故乡第24集",
+        "title": "青山是故乡24/29",
         "top": ""
       },
       {
@@ -5679,7 +5636,7 @@
         "length": 3150,
         "showTime": "17:29",
         "startTime": 1777282180,
-        "title": "青山是故乡第25集",
+        "title": "青山是故乡25/29",
         "top": ""
       },
       {
@@ -5703,7 +5660,7 @@
         "length": 3000,
         "showTime": "18:30",
         "startTime": 1777285805,
-        "title": "青山是故乡第26集",
+        "title": "青山是故乡26/29",
         "top": ""
       },
       {
@@ -5727,7 +5684,7 @@
         "length": 220,
         "showTime": "19:26",
         "startTime": 1777289180,
-        "title": "本集提要-八千里路云和月-第39集",
+        "title": "本集提要-八千里路云和月-39/40",
         "top": ""
       },
       {
@@ -5739,7 +5696,7 @@
         "length": 3340,
         "showTime": "19:30",
         "startTime": 1777289400,
-        "title": "八千里路云和月第39集",
+        "title": "八千里路云和月39/40",
         "top": ""
       },
       {
@@ -5751,7 +5708,7 @@
         "length": 300,
         "showTime": "20:25",
         "startTime": 1777292740,
-        "title": "本集提要-八千里路云和月-第40集",
+        "title": "本集提要-八千里路云和月-40/40",
         "top": ""
       },
       {
@@ -5763,7 +5720,7 @@
         "length": 3240,
         "showTime": "20:30",
         "startTime": 1777293040,
-        "title": "八千里路云和月第40集",
+        "title": "八千里路云和月40/40",
         "top": ""
       },
       {
@@ -5775,7 +5732,7 @@
         "length": 300,
         "showTime": "21:24",
         "startTime": 1777296280,
-        "title": "本集提要-风与潮-第19集",
+        "title": "本集提要-风与潮-19/31",
         "top": ""
       },
       {
@@ -5787,7 +5744,7 @@
         "length": 3000,
         "showTime": "21:29",
         "startTime": 1777296580,
-        "title": "风与潮第19集",
+        "title": "风与潮19/31",
         "top": ""
       },
       {
@@ -5799,7 +5756,7 @@
         "length": 120,
         "showTime": "22:19",
         "startTime": 1777299580,
-        "title": "本集提要-风与潮-第20集",
+        "title": "本集提要-风与潮-20/31",
         "top": ""
       },
       {
@@ -5811,7 +5768,7 @@
         "length": 3000,
         "showTime": "22:21",
         "startTime": 1777299700,
-        "title": "风与潮第20集",
+        "title": "风与潮20/31",
         "top": ""
       },
       {
@@ -5823,7 +5780,7 @@
         "length": 2760,
         "showTime": "23:11",
         "startTime": 1777302700,
-        "title": "大侠霍元甲第5集",
+        "title": "大侠霍元甲5/45",
         "top": ""
       },
       {
@@ -5839,13 +5796,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1777274820,
     "lvUrl": "https://tv.cctv.com/live/cctv8",
     "vip_flag": 0
   },
   "cctvamerica": {
     "channelName": "CCTV-4 (美洲)",
-    "isLive": "塞上风云记第32集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zgwy/videoset/",
@@ -6304,13 +6259,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1777274850,
     "lvUrl": "https://tv.cctv.com/live/cctvamerica",
     "vip_flag": 0
   },
   "cctvchild": {
     "channelName": "CCTV-14 少儿",
-    "isLive": "动画大放映（上午版）-2026-86",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6505,13 +6458,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1777273500,
     "lvUrl": "https://tv.cctv.com/live/cctvchild",
     "vip_flag": 0
   },
   "cctveurope": {
     "channelName": "CCTV-4 (欧洲)",
-    "isLive": "中国舆论场-2026-17",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6946,13 +6897,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1777273200,
     "lvUrl": "https://tv.cctv.com/live/cctveurope",
     "vip_flag": 0
   },
   "cctvjilu": {
     "channelName": "CCTV-9 纪录",
-    "isLive": "全景自然2026-66",
     "list": [
       {
         "columnBackvideourl": "",
@@ -7291,7 +7240,6 @@
         "top": ""
       }
     ],
-    "liveSt": 1777275000,
     "lvUrl": "https://tv.cctv.com/live/cctvjilu",
     "vip_flag": 0
   }
