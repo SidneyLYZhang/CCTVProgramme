@@ -1,7 +1,6 @@
 {
   "cctv1": {
     "channelName": "CCTV-1 综合",
-    "isLive": "淬火年代第1集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/shq/index.shtml",
@@ -448,13 +447,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1779092505,
     "lvUrl": "https://tv.cctv.com/live/cctv1",
     "vip_flag": 0
   },
   "cctv10": {
     "channelName": "CCTV-10 科教",
-    "isLive": "自然传奇-2026-137",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/rwgs/index.shtml",
@@ -889,13 +886,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1779092790,
     "lvUrl": "https://tv.cctv.com/live/cctv10",
     "vip_flag": 0
   },
   "cctv11": {
     "channelName": "CCTV-11 戏曲",
-    "isLive": "电影双凤奇缘",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/qcxy/index.shtml",
@@ -1102,13 +1097,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1779088155,
     "lvUrl": "https://tv.cctv.com/live/cctv11",
     "vip_flag": 0
   },
   "cctv12": {
     "channelName": "CCTV-12 社会与法",
-    "isLive": "剧懂法2025-118",
     "list": [
       {
         "columnBackvideourl": "",
@@ -1483,13 +1476,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1779091380,
     "lvUrl": "https://tv.cctv.com/live/cctv12",
     "vip_flag": 0
   },
   "cctv13": {
     "channelName": "CCTV-13 新闻",
-    "isLive": "新闻直播间",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/wyxw/index.shtml",
@@ -1746,25 +1737,13 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/xwzbj/index.shtml",
         "column_url": "https://tv.cctv.com/lm/xwzbj/index.shtml",
-        "endTime": 1779084720,
-        "eventId": "",
-        "eventType": "",
-        "length": 720,
-        "showTime": "14:00",
-        "startTime": 1779084000,
-        "title": "新闻直播间",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "https://tv.cctv.com/lm/mdm/index.shtml",
-        "column_url": "https://tv.cctv.com/lm/mdm/index.shtml",
         "endTime": 1779087600,
         "eventId": "",
         "eventType": "",
-        "length": 2880,
-        "showTime": "14:12",
-        "startTime": 1779084720,
-        "title": "面对面",
+        "length": 3600,
+        "showTime": "14:00",
+        "startTime": 1779084000,
+        "title": "新闻直播间",
         "top": ""
       },
       {
@@ -1924,13 +1903,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1779091200,
     "lvUrl": "https://tv.cctv.com/live/cctv13",
     "vip_flag": 0
   },
   "cctv15": {
     "channelName": "CCTV-15 音乐",
-    "isLive": "全球中文音乐榜上榜-2025-26",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/fhgy/videoset/",
@@ -2149,13 +2126,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1779090210,
     "lvUrl": "https://tv.cctv.com/live/cctv15",
     "vip_flag": 0
   },
   "cctv16": {
     "channelName": "CCTV-16奥林匹克",
-    "isLive": "实况录像（奥林匹克）-2026年ATP1000男子网球大师赛 马德里站 决赛",
     "list": [
       {
         "columnBackvideourl": "",
@@ -2446,13 +2421,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1779092700,
     "lvUrl": "https://tv.cctv.com/live/cctv16/index.shtml",
     "vip_flag": 0
   },
   "cctv17": {
     "channelName": "CCTV-17农业农村",
-    "isLive": "驻站第10集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/snqyh/index.shtml",
@@ -2827,13 +2800,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1779091935,
     "lvUrl": "https://tv.cctv.com/live/cctv17",
     "vip_flag": 0
   },
   "cctv2": {
     "channelName": "CCTV-2 财经",
-    "isLive": "正点财经",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zcjkk/videoset/index.shtml",
@@ -3292,13 +3263,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1779091200,
     "lvUrl": "https://tv.cctv.com/live/cctv2",
     "vip_flag": 0
   },
   "cctv3": {
     "channelName": "CCTV-3 综艺",
-    "isLive": "全民畅舞-3",
     "list": [
       {
         "columnBackvideourl": "",
@@ -3589,13 +3558,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1779089805,
     "lvUrl": "https://tv.cctv.com/live/cctv3",
     "vip_flag": 0
   },
   "cctv4": {
     "channelName": "CCTV-4 (亚洲)",
-    "isLive": "海天雄鹰第7集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4090,13 +4057,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1779092775,
     "lvUrl": "https://tv.cctv.com/live/cctv4",
     "vip_flag": 0
   },
   "cctv5": {
     "channelName": "CCTV-5 体育",
-    "isLive": "实况录像-2026年全国举重锦标赛 女子比赛1",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4387,13 +4352,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1779091200,
     "lvUrl": "https://tv.cctv.com/live/cctv5/index.shtml",
     "vip_flag": 0
   },
   "cctv5plus": {
     "channelName": "CCTV-5+ 体育赛事",
-    "isLive": "2025/2026德国足球甲级联赛-第34轮（拜仁慕尼黑-科隆）（4K）",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4600,13 +4563,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1779093240,
     "lvUrl": "https://tv.cctv.com/live/cctv5plus/index.shtml",
     "vip_flag": 0
   },
   "cctv6": {
     "channelName": "CCTV-6 电影",
-    "isLive": "杨门女将之军令如山",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4825,13 +4786,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1779090122,
     "lvUrl": "https://tv.cctv.com/live/cctv6",
     "vip_flag": 0
   },
   "cctv7": {
     "channelName": "CCTV-7 国防军事",
-    "isLive": "渗透6/34",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5266,13 +5225,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1779092250,
     "lvUrl": "https://tv.cctv.com/live/cctv7",
     "vip_flag": 0
   },
   "cctv8": {
     "channelName": "CCTV-8 电视剧",
-    "isLive": "有你才有家第20集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5755,13 +5712,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1779092890,
     "lvUrl": "https://tv.cctv.com/live/cctv8",
     "vip_flag": 0
   },
   "cctvamerica": {
     "channelName": "CCTV-4 (美洲)",
-    "isLive": "枫桥警事第16集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zgwy/videoset/",
@@ -6220,13 +6175,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1779092850,
     "lvUrl": "https://tv.cctv.com/live/cctvamerica",
     "vip_flag": 0
   },
   "cctvchild": {
     "channelName": "CCTV-14 少儿",
-    "isLive": "动画大放映（上午版）-2026-101",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6421,13 +6374,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1779087900,
     "lvUrl": "https://tv.cctv.com/live/cctvchild",
     "vip_flag": 0
   },
   "cctveurope": {
     "channelName": "CCTV-4 (欧洲)",
-    "isLive": "塞上风云记－第46集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6874,13 +6825,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1779092790,
     "lvUrl": "https://tv.cctv.com/live/cctveurope",
     "vip_flag": 0
   },
   "cctvjilu": {
     "channelName": "CCTV-9 纪录",
-    "isLive": "寰宇视野2026-137",
     "list": [
       {
         "columnBackvideourl": "",
@@ -7219,7 +7168,6 @@
         "top": ""
       }
     ],
-    "liveSt": 1779092940,
     "lvUrl": "https://tv.cctv.com/live/cctvjilu",
     "vip_flag": 0
   }
