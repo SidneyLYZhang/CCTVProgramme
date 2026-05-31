@@ -353,10 +353,10 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/jdft/index.shtml",
         "column_url": "https://tv.cctv.com/lm/jdft/index.shtml",
-        "endTime": 1779796815,
+        "endTime": 1779796720,
         "eventId": "",
         "eventType": "",
-        "length": 1265,
+        "length": 1170,
         "showTime": "19:39",
         "startTime": 1779795550,
         "title": "焦点访谈",
@@ -365,49 +365,49 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1779797040,
+        "endTime": 1779796920,
         "eventId": "",
         "eventType": "",
-        "length": 225,
-        "showTime": "20:00",
-        "startTime": 1779796815,
-        "title": "前情提要-主角-29/48",
+        "length": 200,
+        "showTime": "19:58",
+        "startTime": 1779796720,
+        "title": "前情提要-主角-第29集",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1779800045,
+        "endTime": 1779799975,
         "eventId": "",
         "eventType": "",
-        "length": 3005,
-        "showTime": "20:04",
-        "startTime": 1779797040,
-        "title": "主角29/48",
+        "length": 3055,
+        "showTime": "20:02",
+        "startTime": 1779796920,
+        "title": "主角第29集",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1779800195,
+        "endTime": 1779800120,
         "eventId": "",
         "eventType": "",
-        "length": 150,
-        "showTime": "20:54",
-        "startTime": 1779800045,
-        "title": "前情提要-主角-30/48",
+        "length": 145,
+        "showTime": "20:52",
+        "startTime": 1779799975,
+        "title": "前情提要-主角-第30集",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1779803120,
+        "endTime": 1779803090,
         "eventId": "",
         "eventType": "",
-        "length": 2925,
-        "showTime": "20:56",
-        "startTime": 1779800195,
-        "title": "主角30/48",
+        "length": 2970,
+        "showTime": "20:55",
+        "startTime": 1779800120,
+        "title": "主角第30集",
         "top": ""
       },
       {
@@ -416,9 +416,9 @@
         "endTime": 1779803740,
         "eventId": "",
         "eventType": "",
-        "length": 620,
-        "showTime": "21:45",
-        "startTime": 1779803120,
+        "length": 650,
+        "showTime": "21:44",
+        "startTime": 1779803090,
         "title": "非遗里的中国-MV",
         "top": ""
       },
@@ -437,10 +437,10 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/wjxw/index.shtml",
         "column_url": "https://tv.cctv.com/lm/wjxw/index.shtml",
-        "endTime": 1779806160,
+        "endTime": 1779806010,
         "eventId": "",
         "eventType": "",
-        "length": 2160,
+        "length": 2010,
         "showTime": "22:00",
         "startTime": 1779804000,
         "title": "晚间新闻",
@@ -449,12 +449,24 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
+        "endTime": 1779806620,
+        "eventId": "",
+        "eventType": "",
+        "length": 610,
+        "showTime": "22:33",
+        "startTime": 1779806010,
+        "title": "守护：警惕身边的泄密风险-暗处之眼",
+        "top": ""
+      },
+      {
+        "columnBackvideourl": "",
+        "column_url": "",
         "endTime": 1779811140,
         "eventId": "",
         "eventType": "",
-        "length": 4980,
-        "showTime": "22:36",
-        "startTime": 1779806160,
+        "length": 4520,
+        "showTime": "22:43",
+        "startTime": 1779806620,
         "title": "宗师列传·大唐诗人传-李白",
         "top": ""
       }
@@ -4300,7 +4312,7 @@
         "length": 3300,
         "showTime": "11:00",
         "startTime": 1779764400,
-        "title": "实况录像-2026年体操世界挑战杯系列赛 瓦尔纳站 1",
+        "title": "实况录像-2026年上海浪琴环球马术冠军赛 1.60米浪琴大奖赛",
         "top": ""
       },
       {
@@ -4378,13 +4390,25 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
+        "endTime": 1779784200,
+        "eventId": "",
+        "eventType": "",
+        "length": 1800,
+        "showTime": "16:00",
+        "startTime": 1779782400,
+        "title": "实况录像-2026年射箭世界杯 中国站 2",
+        "top": ""
+      },
+      {
+        "columnBackvideourl": "",
+        "column_url": "",
         "endTime": 1779789600,
         "eventId": "",
         "eventType": "",
-        "length": 7200,
-        "showTime": "16:00",
-        "startTime": 1779782400,
-        "title": "实况录像-2026年汤姆斯杯羽毛球赛  决赛",
+        "length": 5400,
+        "showTime": "16:30",
+        "startTime": 1779784200,
+        "title": "实况录像-绿茵经典-2014年巴西世界杯 1/8决赛 巴西队-智利队",
         "top": ""
       },
       {
@@ -4402,36 +4426,48 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1779795000,
+        "endTime": 1779792900,
         "eventId": "",
         "eventType": "",
-        "length": 3600,
+        "length": 1500,
         "showTime": "18:30",
         "startTime": 1779791400,
-        "title": "实况录像-2026年世界泳联跳水世界杯总决赛 1",
+        "title": "实况录像-2026年世界室内田径锦标赛  25分钟版",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1779802200,
+        "endTime": 1779794400,
         "eventId": "",
         "eventType": "",
-        "length": 7200,
-        "showTime": "19:30",
-        "startTime": 1779795000,
-        "title": "2025/2026赛季中国男子篮球职业联赛-总决赛 上海久事VS浙江浙商证券 第一场",
+        "length": 1500,
+        "showTime": "18:55",
+        "startTime": 1779792900,
+        "title": "实况录像-2026年长三角国际田径钻石赛（上海/绍兴柯桥）25分钟版",
+        "top": ""
+      },
+      {
+        "columnBackvideourl": "",
+        "column_url": "",
+        "endTime": 1779803100,
+        "eventId": "",
+        "eventType": "",
+        "length": 8700,
+        "showTime": "19:20",
+        "startTime": 1779794400,
+        "title": "2025/2026赛季中国男子篮球职业联赛-总决赛第一场（上海久事-浙江浙商证券）",
         "top": ""
       },
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/tysj/videoset/",
         "column_url": "https://tv.cctv.com/lm/tysj/index.shtml",
-        "endTime": 1779805800,
+        "endTime": 1779806700,
         "eventId": "",
         "eventType": "",
         "length": 3600,
-        "showTime": "21:30",
-        "startTime": 1779802200,
+        "showTime": "21:45",
+        "startTime": 1779803100,
         "title": "体育世界",
         "top": ""
       },
@@ -4441,9 +4477,9 @@
         "endTime": 1779811140,
         "eventId": "",
         "eventType": "",
-        "length": 5340,
-        "showTime": "22:30",
-        "startTime": 1779805800,
+        "length": 4440,
+        "showTime": "22:45",
+        "startTime": 1779806700,
         "title": "2026年法国网球公开赛-第1轮3",
         "top": ""
       }
@@ -5732,7 +5768,7 @@
         "length": 3340,
         "showTime": "19:30",
         "startTime": 1779795000,
-        "title": "家业19/42",
+        "title": "家业第19集",
         "top": ""
       },
       {
@@ -5756,7 +5792,7 @@
         "length": 3240,
         "showTime": "20:30",
         "startTime": 1779798640,
-        "title": "家业20/42",
+        "title": "家业第20集",
         "top": ""
       },
       {
@@ -5780,7 +5816,7 @@
         "length": 3000,
         "showTime": "21:29",
         "startTime": 1779802180,
-        "title": "雨霖铃26/37",
+        "title": "雨霖铃第26集",
         "top": ""
       },
       {
@@ -5792,7 +5828,7 @@
         "length": 120,
         "showTime": "22:19",
         "startTime": 1779805180,
-        "title": "本集提要-太行谣-1/24",
+        "title": "本集提要-太行谣-第1集",
         "top": ""
       },
       {
@@ -5804,7 +5840,7 @@
         "length": 3000,
         "showTime": "22:21",
         "startTime": 1779805300,
-        "title": "太行谣1/24",
+        "title": "太行谣第1集",
         "top": ""
       },
       {
