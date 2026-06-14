@@ -1,7 +1,6 @@
 {
   "cctv1": {
     "channelName": "CCTV-1 综合",
-    "isLive": "第一动画乐园-2026-149",
     "list": [
       {
         "columnBackvideourl": "",
@@ -436,13 +435,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1780909740,
     "lvUrl": "https://tv.cctv.com/live/cctv1",
     "vip_flag": 0
   },
   "cctv10": {
     "channelName": "CCTV-10 科教",
-    "isLive": "地理·中国-2026-159",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/rwgs/index.shtml",
@@ -877,13 +874,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1780910760,
     "lvUrl": "https://tv.cctv.com/live/cctv10",
     "vip_flag": 0
   },
   "cctv11": {
     "channelName": "CCTV-11 戏曲",
-    "isLive": "锦囊妙录第28集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -1102,13 +1097,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1780909980,
     "lvUrl": "https://tv.cctv.com/live/cctv11",
     "vip_flag": 0
   },
   "cctv12": {
     "channelName": "CCTV-12 社会与法",
-    "isLive": "高墙内外-2026-23",
     "list": [
       {
         "columnBackvideourl": "",
@@ -1483,13 +1476,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1780909260,
     "lvUrl": "https://tv.cctv.com/live/cctv12",
     "vip_flag": 0
   },
   "cctv13": {
     "channelName": "CCTV-13 新闻",
-    "isLive": "新闻直播间",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/wyxw/index.shtml",
@@ -1662,25 +1653,13 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/xwzbj/index.shtml",
         "column_url": "https://tv.cctv.com/lm/xwzbj/index.shtml",
-        "endTime": 1780881120,
-        "eventId": "",
-        "eventType": "",
-        "length": 720,
-        "showTime": "09:00",
-        "startTime": 1780880400,
-        "title": "新闻直播间",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "https://tv.cctv.com/lm/sjzk/index.shtml",
-        "column_url": "https://tv.cctv.com/lm/sjzk/index.shtml",
         "endTime": 1780884000,
         "eventId": "",
         "eventType": "",
-        "length": 2880,
-        "showTime": "09:12",
-        "startTime": 1780881120,
-        "title": "世界周刊",
+        "length": 3600,
+        "showTime": "09:00",
+        "startTime": 1780880400,
+        "title": "新闻直播间",
         "top": ""
       },
       {
@@ -1746,25 +1725,13 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/xwzbj/index.shtml",
         "column_url": "https://tv.cctv.com/lm/xwzbj/index.shtml",
-        "endTime": 1780899120,
-        "eventId": "",
-        "eventType": "",
-        "length": 720,
-        "showTime": "14:00",
-        "startTime": 1780898400,
-        "title": "新闻直播间",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "https://tv.cctv.com/lm/mdm/index.shtml",
-        "column_url": "https://tv.cctv.com/lm/mdm/index.shtml",
         "endTime": 1780902000,
         "eventId": "",
         "eventType": "",
-        "length": 2880,
-        "showTime": "14:12",
-        "startTime": 1780899120,
-        "title": "面对面",
+        "length": 3600,
+        "showTime": "14:00",
+        "startTime": 1780898400,
+        "title": "新闻直播间",
         "top": ""
       },
       {
@@ -1924,13 +1891,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1780909200,
     "lvUrl": "https://tv.cctv.com/live/cctv13",
     "vip_flag": 0
   },
   "cctv15": {
     "channelName": "CCTV-15 音乐",
-    "isLive": "民歌·中国-2026-58童谣沐乡音",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/fhgy/videoset/",
@@ -2149,13 +2114,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1780909140,
     "lvUrl": "https://tv.cctv.com/live/cctv15",
     "vip_flag": 0
   },
   "cctv16": {
     "channelName": "CCTV-16奥林匹克",
-    "isLive": "实况录像（奥林匹克）-2026年世界女排联赛 南京站 中国队—塞尔维亚队",
     "list": [
       {
         "columnBackvideourl": "",
@@ -2434,13 +2397,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1780909800,
     "lvUrl": "https://tv.cctv.com/live/cctv16/index.shtml",
     "vip_flag": 0
   },
   "cctv17": {
     "channelName": "CCTV-17农业农村",
-    "isLive": "超级农人秀-2026-109",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/xlxq/index.shtml",
@@ -2887,13 +2848,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1780909440,
     "lvUrl": "https://tv.cctv.com/live/cctv17",
     "vip_flag": 0
   },
   "cctv2": {
     "channelName": "CCTV-2 财经",
-    "isLive": "正点财经",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zcjkk/videoset/index.shtml",
@@ -3352,13 +3311,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1780909200,
     "lvUrl": "https://tv.cctv.com/live/cctv2",
     "vip_flag": 0
   },
   "cctv3": {
     "channelName": "CCTV-3 综艺",
-    "isLive": "综艺喜乐汇-2026-375",
     "list": [
       {
         "columnBackvideourl": "",
@@ -3661,13 +3618,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1780909295,
     "lvUrl": "https://tv.cctv.com/live/cctv3",
     "vip_flag": 0
   },
   "cctv4": {
     "channelName": "CCTV-4 (亚洲)",
-    "isLive": "中国新闻",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4248,10 +4203,10 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zgxw/index.shtml",
         "column_url": "https://tv.cctv.com/lm/zgxw/index.shtml",
-        "endTime": 1780932000,
+        "endTime": 1780932900,
         "eventId": "",
         "eventType": "",
-        "length": 1200,
+        "length": 2100,
         "showTime": "23:00",
         "startTime": 1780930800,
         "title": "中国新闻",
@@ -4260,35 +4215,21 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1780933440,
-        "eventId": "",
-        "eventType": "",
-        "length": 1440,
-        "showTime": "23:20",
-        "startTime": 1780932000,
-        "title": "传世古建-拙政园",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "",
-        "column_url": "",
         "endTime": 1780934340,
         "eventId": "",
         "eventType": "",
-        "length": 900,
-        "showTime": "23:44",
-        "startTime": 1780933440,
-        "title": "平凡匠心-2025-7",
+        "length": 1440,
+        "showTime": "23:35",
+        "startTime": 1780932900,
+        "title": "传世古建-拙政园",
         "top": ""
       }
     ],
-    "liveSt": 1780909200,
     "lvUrl": "https://tv.cctv.com/live/cctv4",
     "vip_flag": 0
   },
   "cctv5": {
     "channelName": "CCTV-5 体育",
-    "isLive": "运动一起赢",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4603,13 +4544,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1780909200,
     "lvUrl": "https://tv.cctv.com/live/cctv5/index.shtml",
     "vip_flag": 0
   },
   "cctv5plus": {
     "channelName": "CCTV-5+ 体育赛事",
-    "isLive": "实况录像-2025/2026赛季中国男子篮球职业联赛 总决赛 5",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4828,13 +4767,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1780905720,
     "lvUrl": "https://tv.cctv.com/live/cctv5plus/index.shtml",
     "vip_flag": 0
   },
   "cctv6": {
     "channelName": "CCTV-6 电影",
-    "isLive": "封神榜·妖灭",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5089,13 +5026,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1780908017,
     "lvUrl": "https://tv.cctv.com/live/cctv6",
     "vip_flag": 0
   },
   "cctv7": {
     "channelName": "CCTV-7 国防军事",
-    "isLive": "世界战史-2026-108",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5530,13 +5465,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1780909560,
     "lvUrl": "https://tv.cctv.com/live/cctv7",
     "vip_flag": 0
   },
   "cctv8": {
     "channelName": "CCTV-8 电视剧",
-    "isLive": "主角第32集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6007,13 +5940,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1780907230,
     "lvUrl": "https://tv.cctv.com/live/cctv8",
     "vip_flag": 0
   },
   "cctvamerica": {
     "channelName": "CCTV-4 (美洲)",
-    "isLive": "此心安处是吾乡-(四套)-19/32",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zgwy/videoset/",
@@ -6472,13 +6403,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1780910060,
     "lvUrl": "https://tv.cctv.com/live/cctvamerica",
     "vip_flag": 0
   },
   "cctvchild": {
     "channelName": "CCTV-14 少儿",
-    "isLive": "大手牵小手-2026-23",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6673,13 +6602,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1780910100,
     "lvUrl": "https://tv.cctv.com/live/cctvchild",
     "vip_flag": 0
   },
   "cctveurope": {
     "channelName": "CCTV-4 (欧洲)",
-    "isLive": "爱在青山绿水间第12集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -7114,13 +7041,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1780910040,
     "lvUrl": "https://tv.cctv.com/live/cctveurope",
     "vip_flag": 0
   },
   "cctvjilu": {
     "channelName": "CCTV-9 纪录",
-    "isLive": "全景自然2026-159",
     "list": [
       {
         "columnBackvideourl": "",
@@ -7459,7 +7384,6 @@
         "top": ""
       }
     ],
-    "liveSt": 1780910880,
     "lvUrl": "https://tv.cctv.com/live/cctvjilu",
     "vip_flag": 0
   }
