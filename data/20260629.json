@@ -1,7 +1,6 @@
 {
   "cctv1": {
     "channelName": "CCTV-1 综合",
-    "isLive": "第一动画乐园-2026-164",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/shq/index.shtml",
@@ -448,13 +447,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1782724135,
     "lvUrl": "https://tv.cctv.com/live/cctv1",
     "vip_flag": 0
   },
   "cctv10": {
     "channelName": "CCTV-10 科教",
-    "isLive": "地理·中国-2026-180",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/rwgs/index.shtml",
@@ -913,13 +910,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1782725160,
     "lvUrl": "https://tv.cctv.com/live/cctv10",
     "vip_flag": 0
   },
   "cctv11": {
     "channelName": "CCTV-11 戏曲",
-    "isLive": "绝代双骄第34集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -1126,13 +1121,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1782724380,
     "lvUrl": "https://tv.cctv.com/live/cctv11",
     "vip_flag": 0
   },
   "cctv12": {
     "channelName": "CCTV-12 社会与法",
-    "isLive": "高墙内外-2026-26",
     "list": [
       {
         "columnBackvideourl": "",
@@ -1519,13 +1512,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1782724080,
     "lvUrl": "https://tv.cctv.com/live/cctv12",
     "vip_flag": 0
   },
   "cctv13": {
     "channelName": "CCTV-13 新闻",
-    "isLive": "新闻直播间",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/wyxw/index.shtml",
@@ -1960,13 +1951,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1782723600,
     "lvUrl": "https://tv.cctv.com/live/cctv13",
     "vip_flag": 0
   },
   "cctv15": {
     "channelName": "CCTV-15 音乐",
-    "isLive": "民歌·中国-2026-75我的家乡我的歌30",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/jcyyh/index.shtml",
@@ -2197,13 +2186,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1782723540,
     "lvUrl": "https://tv.cctv.com/live/cctv15",
     "vip_flag": 0
   },
   "cctv16": {
     "channelName": "CCTV-16奥林匹克",
-    "isLive": "实况录像（奥林匹克）-2026年世界女排联赛 土耳其站 中国队—巴西队",
     "list": [
       {
         "columnBackvideourl": "",
@@ -2482,13 +2469,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1782724200,
     "lvUrl": "https://tv.cctv.com/live/cctv16/index.shtml",
     "vip_flag": 0
   },
   "cctv17": {
     "channelName": "CCTV-17农业农村",
-    "isLive": "谁知盘中餐-2026-119",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/xlxq/index.shtml",
@@ -2935,13 +2920,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1782725520,
     "lvUrl": "https://tv.cctv.com/live/cctv17",
     "vip_flag": 0
   },
   "cctv2": {
     "channelName": "CCTV-2 财经",
-    "isLive": "周末特供2025-八闽奇味2-8分版",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zcjkk/videoset/index.shtml",
@@ -3424,13 +3407,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1782725520,
     "lvUrl": "https://tv.cctv.com/live/cctv2",
     "vip_flag": 0
   },
   "cctv3": {
     "channelName": "CCTV-3 综艺",
-    "isLive": "综艺喜乐汇-2026-534",
     "list": [
       {
         "columnBackvideourl": "",
@@ -3733,13 +3714,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1782723945,
     "lvUrl": "https://tv.cctv.com/live/cctv3",
     "vip_flag": 0
   },
   "cctv4": {
     "channelName": "CCTV-4 (亚洲)",
-    "isLive": "远方的家2026-133",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4258,13 +4237,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1782724500,
     "lvUrl": "https://tv.cctv.com/live/cctv4",
     "vip_flag": 0
   },
   "cctv5": {
     "channelName": "CCTV-5 体育",
-    "isLive": "实况录像-2026世界杯 1/16决赛（录播）1",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4483,13 +4460,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1782721500,
     "lvUrl": "https://tv.cctv.com/live/cctv5/index.shtml",
     "vip_flag": 0
   },
   "cctv5plus": {
     "channelName": "CCTV-5+ 体育赛事",
-    "isLive": "2026年国际马联国家联赛-鹿特丹站",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4696,13 +4671,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1782723600,
     "lvUrl": "https://tv.cctv.com/live/cctv5plus/index.shtml",
     "vip_flag": 0
   },
   "cctv6": {
     "channelName": "CCTV-6 电影",
-    "isLive": "黑衣人：全球追缉",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4921,13 +4894,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1782720658,
     "lvUrl": "https://tv.cctv.com/live/cctv6",
     "vip_flag": 0
   },
   "cctv7": {
     "channelName": "CCTV-7 国防军事",
-    "isLive": "军事纪录-2026-123",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5362,13 +5333,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1782725490,
     "lvUrl": "https://tv.cctv.com/live/cctv7",
     "vip_flag": 0
   },
   "cctv8": {
     "channelName": "CCTV-8 电视剧",
-    "isLive": "我的山与海第8集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5839,13 +5808,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1782725350,
     "lvUrl": "https://tv.cctv.com/live/cctv8",
     "vip_flag": 0
   },
   "cctvamerica": {
     "channelName": "CCTV-4 (美洲)",
-    "isLive": "老闺蜜-(四套)-20/48",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zgwy/videoset/",
@@ -6352,13 +6319,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1782724460,
     "lvUrl": "https://tv.cctv.com/live/cctvamerica",
     "vip_flag": 0
   },
   "cctvchild": {
     "channelName": "CCTV-14 少儿",
-    "isLive": "大手牵小手-2026-26",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6553,13 +6518,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1782724500,
     "lvUrl": "https://tv.cctv.com/live/cctvchild",
     "vip_flag": 0
   },
   "cctveurope": {
     "channelName": "CCTV-4 (欧洲)",
-    "isLive": "远方的家第1集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -7006,13 +6969,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1782724440,
     "lvUrl": "https://tv.cctv.com/live/cctveurope",
     "vip_flag": 0
   },
   "cctvjilu": {
     "channelName": "CCTV-9 纪录",
-    "isLive": "全景自然2026-180",
     "list": [
       {
         "columnBackvideourl": "",
@@ -7363,7 +7324,6 @@
         "top": ""
       }
     ],
-    "liveSt": 1782725280,
     "lvUrl": "https://tv.cctv.com/live/cctvjilu",
     "vip_flag": 0
   }

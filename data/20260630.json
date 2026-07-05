@@ -341,10 +341,10 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/jdft/index.shtml",
         "column_url": "https://tv.cctv.com/lm/jdft/index.shtml",
-        "endTime": 1782820900,
+        "endTime": 1782820820,
         "eventId": "",
         "eventType": "",
-        "length": 1350,
+        "length": 1270,
         "showTime": "19:39",
         "startTime": 1782819550,
         "title": "焦点访谈",
@@ -353,49 +353,49 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1782821160,
+        "endTime": 1782820980,
         "eventId": "",
         "eventType": "",
-        "length": 260,
-        "showTime": "20:01",
-        "startTime": 1782820900,
-        "title": "前情提要-种墨园-9/34",
+        "length": 160,
+        "showTime": "20:00",
+        "startTime": 1782820820,
+        "title": "前情提要-种墨园-第9集",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1782824165,
+        "endTime": 1782824095,
         "eventId": "",
         "eventType": "",
-        "length": 3005,
-        "showTime": "20:06",
-        "startTime": 1782821160,
-        "title": "种墨园9/34",
+        "length": 3115,
+        "showTime": "20:03",
+        "startTime": 1782820980,
+        "title": "种墨园第9集",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1782824255,
+        "endTime": 1782824285,
         "eventId": "",
         "eventType": "",
-        "length": 90,
-        "showTime": "20:56",
-        "startTime": 1782824165,
-        "title": "前情提要-种墨园-10/34",
+        "length": 190,
+        "showTime": "20:54",
+        "startTime": 1782824095,
+        "title": "前情提要-种墨园-第10集",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1782827435,
+        "endTime": 1782827485,
         "eventId": "",
         "eventType": "",
-        "length": 3180,
-        "showTime": "20:57",
-        "startTime": 1782824255,
-        "title": "种墨园10/34",
+        "length": 3200,
+        "showTime": "20:58",
+        "startTime": 1782824285,
+        "title": "种墨园第10集",
         "top": ""
       },
       {
@@ -404,9 +404,9 @@
         "endTime": 1782828000,
         "eventId": "",
         "eventType": "",
-        "length": 565,
-        "showTime": "21:50",
-        "startTime": 1782827435,
+        "length": 515,
+        "showTime": "21:51",
+        "startTime": 1782827485,
         "title": "非遗里的中国-MV",
         "top": ""
       },
@@ -888,25 +888,49 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1782830400,
+        "endTime": 1782828180,
         "eventId": "",
         "eventType": "",
-        "length": 3120,
+        "length": 900,
         "showTime": "21:48",
         "startTime": 1782827280,
-        "title": "2026大千世界-66",
+        "title": "人民的珍藏2026-1",
+        "top": ""
+      },
+      {
+        "columnBackvideourl": "",
+        "column_url": "",
+        "endTime": 1782829200,
+        "eventId": "",
+        "eventType": "",
+        "length": 1020,
+        "showTime": "22:03",
+        "startTime": 1782828180,
+        "title": "人民的珍藏2026-2",
         "top": ""
       },
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/dlzg/index.shtml",
         "column_url": "https://tv.cctv.com/lm/dlzg/index.shtml",
-        "endTime": 1782832320,
+        "endTime": 1782831120,
         "eventId": "",
         "eventType": "",
         "length": 1920,
-        "showTime": "22:40",
-        "startTime": 1782830400,
+        "showTime": "22:20",
+        "startTime": 1782829200,
         "title": "地理·中国-2026-181",
+        "top": ""
+      },
+      {
+        "columnBackvideourl": "https://tv.cctv.com/lm/gzsbqlx/index.shtml",
+        "column_url": "https://tv.cctv.com/lm/gzsbqlx/index.shtml",
+        "endTime": 1782832320,
+        "eventId": "",
+        "eventType": "",
+        "length": 1200,
+        "showTime": "22:52",
+        "startTime": 1782831120,
+        "title": "跟着书本去旅行-2026-129",
         "top": ""
       },
       {
@@ -2062,7 +2086,7 @@
         "length": 4530,
         "showTime": "10:56",
         "startTime": 1782788160,
-        "title": "精彩音乐汇-我的爱对你说-2026-261",
+        "title": "精彩音乐汇-我的爱对你说-2026-279",
         "top": ""
       },
       {
@@ -2128,10 +2152,10 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1782824190,
+        "endTime": 1782823290,
         "eventId": "",
         "eventType": "",
-        "length": 5190,
+        "length": 4290,
         "showTime": "19:30",
         "startTime": 1782819000,
         "title": "心中的歌儿献给党-文艺专题",
@@ -2140,25 +2164,37 @@
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zgjp/index.shtml",
         "column_url": "https://tv.cctv.com/lm/zgjp/index.shtml",
-        "endTime": 1782830820,
+        "endTime": 1782829920,
         "eventId": "",
         "eventType": "",
         "length": 6630,
-        "showTime": "20:56",
-        "startTime": 1782824190,
+        "showTime": "20:41",
+        "startTime": 1782823290,
         "title": "中国节拍-品味古典17",
         "top": ""
       },
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/jcyyh/index.shtml",
         "column_url": "https://tv.cctv.com/lm/jcyyh/index.shtml",
+        "endTime": 1782834450,
+        "eventId": "",
+        "eventType": "",
+        "length": 4530,
+        "showTime": "22:32",
+        "startTime": 1782829920,
+        "title": "精彩音乐汇-我的爱对你说-2026-254",
+        "top": ""
+      },
+      {
+        "columnBackvideourl": "https://tv.cctv.com/lm/cctvyyt/index.shtml",
+        "column_url": "https://tv.cctv.com/lm/cctvyyt/index.shtml",
         "endTime": 1782835140,
         "eventId": "",
         "eventType": "",
-        "length": 4320,
-        "showTime": "22:47",
-        "startTime": 1782830820,
-        "title": "精彩音乐汇-我的爱对你说-2026-254",
+        "length": 690,
+        "showTime": "23:47",
+        "startTime": 1782834450,
+        "title": "CCTV音乐厅-2026-55-“世纪之舞”天津交响乐团音乐会（下）",
         "top": ""
       }
     ],
@@ -3644,24 +3680,24 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1782830880,
+        "endTime": 1782829980,
         "eventId": "",
         "eventType": "",
-        "length": 5130,
+        "length": 4230,
         "showTime": "21:22",
         "startTime": 1782825750,
-        "title": "心中的歌儿献给党-文艺专题",
+        "title": "中国乡村音乐大会-健康跃动篇",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1782833640,
+        "endTime": 1782832740,
         "eventId": "",
         "eventType": "",
         "length": 2760,
-        "showTime": "22:48",
-        "startTime": 1782830880,
+        "showTime": "22:33",
+        "startTime": 1782829980,
         "title": "综艺喜乐汇-2026-758 爱在青山绿水间 1/33",
         "top": ""
       },
@@ -3671,9 +3707,9 @@
         "endTime": 1782835140,
         "eventId": "",
         "eventType": "",
-        "length": 1500,
-        "showTime": "23:34",
-        "startTime": 1782833640,
+        "length": 2400,
+        "showTime": "23:19",
+        "startTime": 1782832740,
         "title": "综艺喜乐汇-2026-759 爱在青山绿水间 2/33",
         "top": ""
       }
@@ -4198,25 +4234,13 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1782774000,
-        "eventId": "",
-        "eventType": "",
-        "length": 12600,
-        "showTime": "03:30",
-        "startTime": 1782761400,
-        "title": "2026世界杯-1/16决赛（德国—巴拉圭）",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "",
-        "column_url": "",
         "endTime": 1782775800,
         "eventId": "",
         "eventType": "",
-        "length": 1800,
-        "showTime": "07:00",
-        "startTime": 1782774000,
-        "title": "燃动金杯-2026年世界杯小组赛第二轮进球集锦",
+        "length": 14400,
+        "showTime": "03:30",
+        "startTime": 1782761400,
+        "title": "2026世界杯-1/16决赛（德国—巴拉圭）",
         "top": ""
       },
       {
@@ -4348,7 +4372,7 @@
         "length": 1740,
         "showTime": "23:30",
         "startTime": 1782833400,
-        "title": "2026世界杯-1/16决赛（科特迪瓦—挪威）",
+        "title": "2026世界杯-1/16决赛（科特迪瓦-挪威）",
         "top": ""
       }
     ],
@@ -5504,7 +5528,7 @@
         "length": 3345,
         "showTime": "12:42",
         "startTime": 1782794545,
-        "title": "莫离36/40",
+        "title": "莫离第36集",
         "top": ""
       },
       {
@@ -5636,7 +5660,7 @@
         "length": 3340,
         "showTime": "19:30",
         "startTime": 1782819000,
-        "title": "问心225/40",
+        "title": "问心2第25集",
         "top": ""
       },
       {
@@ -5660,7 +5684,7 @@
         "length": 3240,
         "showTime": "20:30",
         "startTime": 1782822640,
-        "title": "问心226/40",
+        "title": "问心2第26集",
         "top": ""
       },
       {
@@ -5684,7 +5708,7 @@
         "length": 3000,
         "showTime": "21:29",
         "startTime": 1782826180,
-        "title": "爱情有烟火29/36",
+        "title": "爱情有烟火第29集",
         "top": ""
       },
       {
@@ -5708,7 +5732,7 @@
         "length": 3000,
         "showTime": "22:21",
         "startTime": 1782829300,
-        "title": "爱情有烟火30/36",
+        "title": "爱情有烟火第30集",
         "top": ""
       },
       {
