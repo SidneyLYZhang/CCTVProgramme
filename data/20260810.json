@@ -1,7 +1,6 @@
 {
   "cctv1": {
     "channelName": "CCTV-1 综合",
-    "isLive": "主角第29集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/shq/index.shtml",
@@ -436,13 +435,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1786341155,
     "lvUrl": "https://tv.cctv.com/live/cctv1",
     "vip_flag": 0
   },
   "cctv10": {
     "channelName": "CCTV-10 科教",
-    "isLive": "创新进行时-2026-156",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/weidao/index.shtml",
@@ -877,13 +874,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1786341630,
     "lvUrl": "https://tv.cctv.com/live/cctv10",
     "vip_flag": 0
   },
   "cctv11": {
     "channelName": "CCTV-11 戏曲",
-    "isLive": "宝贝亮相吧-2025-44",
     "list": [
       {
         "columnBackvideourl": "",
@@ -1138,13 +1133,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1786340190,
     "lvUrl": "https://tv.cctv.com/live/cctv11",
     "vip_flag": 0
   },
   "cctv12": {
     "channelName": "CCTV-12 社会与法",
-    "isLive": "2026社会与法电视剧精选-黑白禁区-7/42",
     "list": [
       {
         "columnBackvideourl": "",
@@ -1519,13 +1512,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1786341540,
     "lvUrl": "https://tv.cctv.com/live/cctv12",
     "vip_flag": 0
   },
   "cctv13": {
     "channelName": "CCTV-13 新闻",
-    "isLive": "面对面",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/wyxw/index.shtml",
@@ -1960,13 +1951,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1786342320,
     "lvUrl": "https://tv.cctv.com/live/cctv13",
     "vip_flag": 0
   },
   "cctv15": {
     "channelName": "CCTV-15 音乐",
-    "isLive": "影视留声机-2026-8-经典电影欣赏《刘三姐》",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/fhgy/videoset/",
@@ -2197,13 +2186,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1786338660,
     "lvUrl": "https://tv.cctv.com/live/cctv15",
     "vip_flag": 0
   },
   "cctv16": {
     "channelName": "CCTV-16奥林匹克",
-    "isLive": "2024年巴黎奥运会-荣耀之路 网球女子单打八分之一决赛",
     "list": [
       {
         "columnBackvideourl": "",
@@ -2518,13 +2505,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1786336500,
     "lvUrl": "https://tv.cctv.com/live/cctv16/index.shtml",
     "vip_flag": 0
   },
   "cctv17": {
     "channelName": "CCTV-17农业农村",
-    "isLive": "鲜花盛开的山村第1集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/snqyh/index.shtml",
@@ -2839,13 +2824,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1786340705,
     "lvUrl": "https://tv.cctv.com/live/cctv17",
     "vip_flag": 0
   },
   "cctv2": {
     "channelName": "CCTV-2 财经",
-    "isLive": "正点财经",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zcjkk/videoset/index.shtml",
@@ -3340,13 +3323,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1786341600,
     "lvUrl": "https://tv.cctv.com/live/cctv2",
     "vip_flag": 0
   },
   "cctv3": {
     "channelName": "CCTV-3 综艺",
-    "isLive": "跟着春晚游中国（义乌篇）-2",
     "list": [
       {
         "columnBackvideourl": "",
@@ -3721,13 +3702,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1786339540,
     "lvUrl": "https://tv.cctv.com/live/cctv3",
     "vip_flag": 0
   },
   "cctv4": {
     "channelName": "CCTV-4 (亚洲)",
-    "isLive": "特别行动第19集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4222,13 +4201,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1786341915,
     "lvUrl": "https://tv.cctv.com/live/cctv4",
     "vip_flag": 0
   },
   "cctv5": {
     "channelName": "CCTV-5 体育",
-    "isLive": "2026/2027赛季斯诺克中国公开赛-第1轮3",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4519,13 +4496,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1786341600,
     "lvUrl": "https://tv.cctv.com/live/cctv5/index.shtml",
     "vip_flag": 0
   },
   "cctv5plus": {
     "channelName": "CCTV-5+ 体育赛事",
-    "isLive": "实况录像-2026世界杯 1/4决赛 法国队-摩洛哥队",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4720,13 +4695,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1786341900,
     "lvUrl": "https://tv.cctv.com/live/cctv5plus/index.shtml",
     "vip_flag": 0
   },
   "cctv6": {
     "channelName": "CCTV-6 电影",
-    "isLive": "虎口脱险",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4875,10 +4848,10 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1786366210,
+        "endTime": 1786365997,
         "eventId": "",
         "eventType": "",
-        "length": 3610,
+        "length": 3397,
         "showTime": "19:50",
         "startTime": 1786362600,
         "title": "第38届大众电影百花奖闭幕式暨颁奖典礼01",
@@ -4887,34 +4860,22 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1786370400,
+        "endTime": 1786371480,
         "eventId": "",
         "eventType": "",
-        "length": 4190,
-        "showTime": "20:50",
-        "startTime": 1786366210,
+        "length": 5483,
+        "showTime": "20:46",
+        "startTime": 1786365997,
         "title": "第38届大众电影百花奖闭幕式暨颁奖典礼02",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1786371480,
+        "endTime": 1786371860,
         "eventId": "",
         "eventType": "",
-        "length": 1080,
-        "showTime": "22:00",
-        "startTime": 1786370400,
-        "title": "中国电影报道2026-222",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "",
-        "column_url": "",
-        "endTime": 1786371780,
-        "eventId": "",
-        "eventType": "",
-        "length": 300,
+        "length": 380,
         "showTime": "22:18",
         "startTime": 1786371480,
         "title": "中国福利彩票阳光开奖2026-08-10",
@@ -4923,24 +4884,36 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1786374007,
+        "endTime": 1786373090,
         "eventId": "",
         "eventType": "",
-        "length": 2227,
-        "showTime": "22:23",
-        "startTime": 1786371780,
+        "length": 1230,
+        "showTime": "22:24",
+        "startTime": 1786371860,
+        "title": "中国电影报道2026-222",
+        "top": ""
+      },
+      {
+        "columnBackvideourl": "",
+        "column_url": "",
+        "endTime": 1786375227,
+        "eventId": "",
+        "eventType": "",
+        "length": 2137,
+        "showTime": "22:44",
+        "startTime": 1786373090,
         "title": "西游记女儿国（上）",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1786374067,
+        "endTime": 1786375287,
         "eventId": "",
         "eventType": "",
         "length": 60,
-        "showTime": "23:00",
-        "startTime": 1786374007,
+        "showTime": "23:20",
+        "startTime": 1786375227,
         "title": "中国体育彩票阳光开奖2026-08-10",
         "top": ""
       },
@@ -4950,20 +4923,18 @@
         "endTime": 1786377540,
         "eventId": "",
         "eventType": "",
-        "length": 3473,
-        "showTime": "23:01",
-        "startTime": 1786374067,
+        "length": 2253,
+        "showTime": "23:21",
+        "startTime": 1786375287,
         "title": "西游记女儿国（下）",
         "top": ""
       }
     ],
-    "liveSt": 1786340666,
     "lvUrl": "https://tv.cctv.com/live/cctv6",
     "vip_flag": 0
   },
   "cctv7": {
     "channelName": "CCTV-7 国防军事",
-    "isLive": "军事纪录-2025-128",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5398,13 +5369,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1786342110,
     "lvUrl": "https://tv.cctv.com/live/cctv7",
     "vip_flag": 0
   },
   "cctv8": {
     "channelName": "CCTV-8 电视剧",
-    "isLive": "太平年第1集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5875,13 +5844,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1786340290,
     "lvUrl": "https://tv.cctv.com/live/cctv8",
     "vip_flag": 0
   },
   "cctvamerica": {
     "channelName": "CCTV-4 (美洲)",
-    "isLive": "中国舆论场-2026-32",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zgwy/videoset/",
@@ -6352,13 +6319,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1786340490,
     "lvUrl": "https://tv.cctv.com/live/cctvamerica",
     "vip_flag": 0
   },
   "cctvchild": {
     "channelName": "CCTV-14 少儿",
-    "isLive": "动画大放映（上午版）-2026-160",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6565,13 +6530,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1786341900,
     "lvUrl": "https://tv.cctv.com/live/cctvchild",
     "vip_flag": 0
   },
   "cctveurope": {
     "channelName": "CCTV-4 (欧洲)",
-    "isLive": "三泉溪暖第1集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -7042,13 +7005,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1786342440,
     "lvUrl": "https://tv.cctv.com/live/cctveurope",
     "vip_flag": 0
   },
   "cctvjilu": {
     "channelName": "CCTV-9 纪录",
-    "isLive": "全景自然2026-112",
     "list": [
       {
         "columnBackvideourl": "",
@@ -7387,7 +7348,6 @@
         "top": ""
       }
     ],
-    "liveSt": 1786339860,
     "lvUrl": "https://tv.cctv.com/live/cctvjilu",
     "vip_flag": 0
   }
