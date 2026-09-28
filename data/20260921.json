@@ -1,7 +1,6 @@
 {
   "cctv1": {
     "channelName": "CCTV-1 综合",
-    "isLive": "三餐四季2026特别节目-中秋-1",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/shq/index.shtml",
@@ -436,13 +435,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1789985110,
     "lvUrl": "https://tv.cctv.com/live/cctv1",
     "vip_flag": 0
   },
   "cctv10": {
     "channelName": "CCTV-10 科教",
-    "isLive": "健康之路-2026-265",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/rwgs/index.shtml",
@@ -877,13 +874,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1789985100,
     "lvUrl": "https://tv.cctv.com/live/cctv10",
     "vip_flag": 0
   },
   "cctv11": {
     "channelName": "CCTV-11 戏曲",
-    "isLive": "武当一剑第31集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/qcxy/index.shtml",
@@ -1102,13 +1097,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1789985010,
     "lvUrl": "https://tv.cctv.com/live/cctv11",
     "vip_flag": 0
   },
   "cctv12": {
     "channelName": "CCTV-12 社会与法",
-    "isLive": "热线12-2026-188",
     "list": [
       {
         "columnBackvideourl": "",
@@ -1495,13 +1488,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1789986300,
     "lvUrl": "https://tv.cctv.com/live/cctv12",
     "vip_flag": 0
   },
   "cctv13": {
     "channelName": "CCTV-13 新闻",
-    "isLive": "共同关注",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/wyxw/index.shtml",
@@ -1936,13 +1927,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1789984800,
     "lvUrl": "https://tv.cctv.com/live/cctv13",
     "vip_flag": 0
   },
   "cctv15": {
     "channelName": "CCTV-15 音乐",
-    "isLive": "精彩音乐汇-我的爱对你说-2026-424",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/fhgy/videoset/",
@@ -2149,13 +2138,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1789985670,
     "lvUrl": "https://tv.cctv.com/live/cctv15",
     "vip_flag": 0
   },
   "cctv16": {
     "channelName": "CCTV-16奥林匹克",
-    "isLive": "录像：2026年亚运会 女子曲棍球 中国-中国台北",
     "list": [
       {
         "columnBackvideourl": "",
@@ -2274,7 +2261,7 @@
         "length": 3600,
         "showTime": "13:00",
         "startTime": 1789966800,
-        "title": "录像：2026年亚运会 男篮铜牌赛 中国-伊朗",
+        "title": "直播：2026年亚运会 乒乓球男团小组赛",
         "top": ""
       },
       {
@@ -2286,7 +2273,7 @@
         "length": 3300,
         "showTime": "14:00",
         "startTime": 1789970400,
-        "title": "录像：2026年亚运会 游泳决赛",
+        "title": "录像：2026年亚运会 射击女子多项决赛",
         "top": ""
       },
       {
@@ -2310,7 +2297,7 @@
         "length": 5400,
         "showTime": "17:00",
         "startTime": 1789981200,
-        "title": "录像：2026年亚运会 女子曲棍球 中国-中国台北",
+        "title": "录像：2026年亚运会 男足小组赛",
         "top": ""
       },
       {
@@ -2374,13 +2361,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1789981200,
     "lvUrl": "https://tv.cctv.com/live/cctv16/index.shtml",
     "vip_flag": 0
   },
   "cctv17": {
     "channelName": "CCTV-17农业农村",
-    "isLive": "中国三农报道",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/snqyh/index.shtml",
@@ -2719,13 +2704,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1789984800,
     "lvUrl": "https://tv.cctv.com/live/cctv17",
     "vip_flag": 0
   },
   "cctv2": {
     "channelName": "CCTV-2 财经",
-    "isLive": "回家吃饭-2026-192",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zcjkk/videoset/index.shtml",
@@ -3196,13 +3179,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1789986600,
     "lvUrl": "https://tv.cctv.com/live/cctv2",
     "vip_flag": 0
   },
   "cctv3": {
     "channelName": "CCTV-3 综艺",
-    "isLive": "越战越勇-2026-26",
     "list": [
       {
         "columnBackvideourl": "",
@@ -3435,37 +3416,49 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1789999030,
+        "endTime": 1789997174,
         "eventId": "",
         "eventType": "",
-        "length": 3765,
+        "length": 1909,
         "showTime": "20:54",
         "startTime": 1789995265,
-        "title": "第十三届丝绸之路国际电影节-开幕式-完整版",
+        "title": "第十三届丝绸之路国际电影节-开幕式 1/3",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1790002350,
+        "endTime": 1789998855,
+        "eventId": "",
+        "eventType": "",
+        "length": 1681,
+        "showTime": "21:26",
+        "startTime": 1789997174,
+        "title": "第十三届丝绸之路国际电影节-开幕式 2/3",
+        "top": ""
+      },
+      {
+        "columnBackvideourl": "",
+        "column_url": "",
+        "endTime": 1790000890,
+        "eventId": "",
+        "eventType": "",
+        "length": 2035,
+        "showTime": "21:54",
+        "startTime": 1789998855,
+        "title": "第十三届丝绸之路国际电影节-开幕式-3/3",
+        "top": ""
+      },
+      {
+        "columnBackvideourl": "",
+        "column_url": "",
+        "endTime": 1790004210,
         "eventId": "",
         "eventType": "",
         "length": 3320,
-        "showTime": "21:57",
-        "startTime": 1789999030,
+        "showTime": "22:28",
+        "startTime": 1790000890,
         "title": "综艺喜乐汇-2026-623",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "",
-        "column_url": "",
-        "endTime": 1790005110,
-        "eventId": "",
-        "eventType": "",
-        "length": 2760,
-        "showTime": "22:52",
-        "startTime": 1790002350,
-        "title": "综艺喜乐汇-2026-964 护宝寻踪26/36",
         "top": ""
       },
       {
@@ -3474,20 +3467,18 @@
         "endTime": 1790006340,
         "eventId": "",
         "eventType": "",
-        "length": 1230,
-        "showTime": "23:38",
-        "startTime": 1790005110,
-        "title": "综艺喜乐汇-2026-965 护宝寻踪27/36",
+        "length": 2130,
+        "showTime": "23:23",
+        "startTime": 1790004210,
+        "title": "综艺喜乐汇-2026-964 护宝寻踪26/36",
         "top": ""
       }
     ],
-    "liveSt": 1789985170,
     "lvUrl": "https://tv.cctv.com/live/cctv3",
     "vip_flag": 0
   },
   "cctv4": {
     "channelName": "CCTV-4 (亚洲)",
-    "isLive": "中国新闻",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4018,13 +4009,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1789984800,
     "lvUrl": "https://tv.cctv.com/live/cctv4",
     "vip_flag": 0
   },
   "cctv5": {
     "channelName": "CCTV-5 体育",
-    "isLive": "直播：2026年亚运会 女篮小组赛 中国-印度尼西亚",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4291,13 +4280,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1789984500,
     "lvUrl": "https://tv.cctv.com/live/cctv5/index.shtml",
     "vip_flag": 0
   },
   "cctv5plus": {
     "channelName": "CCTV-5+ 体育赛事",
-    "isLive": "直播：2026年亚运会 女排半决赛（日本VS韩国）",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4446,12 +4433,24 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
+        "endTime": 1789989000,
+        "eventId": "",
+        "eventType": "",
+        "length": 3000,
+        "showTime": "18:20",
+        "startTime": 1789986000,
+        "title": "直播：2026年亚运会 女子空手道68公斤级决赛",
+        "top": ""
+      },
+      {
+        "columnBackvideourl": "",
+        "column_url": "",
         "endTime": 1789992000,
         "eventId": "",
         "eventType": "",
-        "length": 6000,
-        "showTime": "18:20",
-        "startTime": 1789986000,
+        "length": 3000,
+        "showTime": "19:10",
+        "startTime": 1789989000,
         "title": "直播：2026年亚运会 女排半决赛（日本VS韩国）",
         "top": ""
       },
@@ -4492,35 +4491,33 @@
         "top": ""
       }
     ],
-    "liveSt": 1789986000,
     "lvUrl": "https://tv.cctv.com/live/cctv5plus/index.shtml",
     "vip_flag": 0
   },
   "cctv6": {
     "channelName": "CCTV-6 电影",
-    "isLive": "命悬一枪",
     "list": [
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1789923562,
+        "endTime": 1789923695,
         "eventId": "",
         "eventType": "",
         "length": 2097,
-        "showTime": "00:24",
-        "startTime": 1789921465,
+        "showTime": "00:26",
+        "startTime": 1789921598,
         "title": "复仇者联盟（上）",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1789929323,
+        "endTime": 1789929456,
         "eventId": "",
         "eventType": "",
         "length": 5761,
-        "showTime": "00:59",
-        "startTime": 1789923562,
+        "showTime": "01:01",
+        "startTime": 1789923695,
         "title": "复仇者联盟（下）",
         "top": ""
       },
@@ -4530,19 +4527,19 @@
         "endTime": 1789935292,
         "eventId": "",
         "eventType": "",
-        "length": 5969,
-        "showTime": "02:35",
-        "startTime": 1789929323,
+        "length": 5836,
+        "showTime": "02:37",
+        "startTime": 1789929456,
         "title": "赤发鬼刘唐",
         "top": ""
       },
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1789941299,
+        "endTime": 1789935425,
         "eventId": "",
         "eventType": "",
-        "length": 6007,
+        "length": 133,
         "showTime": "04:14",
         "startTime": 1789935292,
         "title": "力量密码",
@@ -4551,12 +4548,36 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
+        "endTime": 1789941299,
+        "eventId": "",
+        "eventType": "",
+        "length": 5874,
+        "showTime": "04:17",
+        "startTime": 1789935425,
+        "title": "力量密码",
+        "top": ""
+      },
+      {
+        "columnBackvideourl": "",
+        "column_url": "",
+        "endTime": 1789941432,
+        "eventId": "",
+        "eventType": "",
+        "length": 133,
+        "showTime": "05:54",
+        "startTime": 1789941299,
+        "title": "女帅男兵",
+        "top": ""
+      },
+      {
+        "columnBackvideourl": "",
+        "column_url": "",
         "endTime": 1789945794,
         "eventId": "",
         "eventType": "",
-        "length": 4495,
-        "showTime": "05:54",
-        "startTime": 1789941299,
+        "length": 4362,
+        "showTime": "05:57",
+        "startTime": 1789941432,
         "title": "女帅男兵",
         "top": ""
       },
@@ -4729,13 +4750,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1789985804,
     "lvUrl": "https://tv.cctv.com/live/cctv6",
     "vip_flag": 0
   },
   "cctv7": {
     "channelName": "CCTV-7 国防军事",
-    "isLive": "国防故事-2026-147",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5158,13 +5177,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1789986510,
     "lvUrl": "https://tv.cctv.com/live/cctv7",
     "vip_flag": 0
   },
   "cctv8": {
     "channelName": "CCTV-8 电视剧",
-    "isLive": "星推荐-2026年9月-20",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5635,13 +5652,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1789986115,
     "lvUrl": "https://tv.cctv.com/live/cctv8",
     "vip_flag": 0
   },
   "cctvamerica": {
     "channelName": "CCTV-4 (美洲)",
-    "isLive": "中国新闻",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zgwy/videoset/",
@@ -6100,13 +6115,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1789984800,
     "lvUrl": "https://tv.cctv.com/live/cctvamerica",
     "vip_flag": 0
   },
   "cctvchild": {
     "channelName": "CCTV-14 少儿",
-    "isLive": "智慧树-2026-187",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6325,13 +6338,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1789984800,
     "lvUrl": "https://tv.cctv.com/live/cctvchild",
     "vip_flag": 0
   },
   "cctveurope": {
     "channelName": "CCTV-4 (欧洲)",
-    "isLive": "中国新闻",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6778,13 +6789,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1789984800,
     "lvUrl": "https://tv.cctv.com/live/cctveurope",
     "vip_flag": 0
   },
   "cctvjilu": {
     "channelName": "CCTV-9 纪录",
-    "isLive": "魅力万象2026-264",
     "list": [
       {
         "columnBackvideourl": "",
@@ -7123,7 +7132,6 @@
         "top": ""
       }
     ],
-    "liveSt": 1789986420,
     "lvUrl": "https://tv.cctv.com/live/cctvjilu",
     "vip_flag": 0
   }
