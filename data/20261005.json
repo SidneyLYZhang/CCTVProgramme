@@ -1,7 +1,6 @@
 {
   "cctv1": {
     "channelName": "CCTV-1 综合",
-    "isLive": "前情提要-爱在山海间-第10集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/shq/index.shtml",
@@ -400,13 +399,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1791201675,
     "lvUrl": "https://tv.cctv.com/live/cctv1",
     "vip_flag": 0
   },
   "cctv10": {
     "channelName": "CCTV-10 科教",
-    "isLive": "自然传奇-2026-278",
     "list": [
       {
         "columnBackvideourl": "",
@@ -805,13 +802,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1791201120,
     "lvUrl": "https://tv.cctv.com/live/cctv10",
     "vip_flag": 0
   },
   "cctv11": {
     "channelName": "CCTV-11 戏曲",
-    "isLive": "中国京剧音配像精粹-2026-32京剧《锁麟囊》（修复版）",
     "list": [
       {
         "columnBackvideourl": "",
@@ -1066,13 +1061,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1791199800,
     "lvUrl": "https://tv.cctv.com/live/cctv11",
     "vip_flag": 0
   },
   "cctv12": {
     "channelName": "CCTV-12 社会与法",
-    "isLive": "剧懂法2025-69",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/xzkt/videoset/index.shtml",
@@ -1447,13 +1440,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1791199920,
     "lvUrl": "https://tv.cctv.com/live/cctv12",
     "vip_flag": 0
   },
   "cctv13": {
     "channelName": "CCTV-13 新闻",
-    "isLive": "东方时空",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/wyxw/index.shtml",
@@ -1864,13 +1855,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1791201600,
     "lvUrl": "https://tv.cctv.com/live/cctv13",
     "vip_flag": 0
   },
   "cctv15": {
     "channelName": "CCTV-15 音乐",
-    "isLive": "中国音乐电视-2026-15-山河回响 声动音乐会（精编）",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/fhgy/videoset/",
@@ -2065,13 +2054,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1791199800,
     "lvUrl": "https://tv.cctv.com/live/cctv15",
     "vip_flag": 0
   },
   "cctv16": {
     "channelName": "CCTV-16奥林匹克",
-    "isLive": "2026年中国网球公开赛-女单第三轮/男单半决赛",
     "list": [
       {
         "columnBackvideourl": "",
@@ -2304,10 +2291,10 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1791209100,
+        "endTime": 1791215100,
         "eventId": "",
         "eventType": "",
-        "length": 11100,
+        "length": 17100,
         "showTime": "19:00",
         "startTime": 1791198000,
         "title": "2026年中国网球公开赛-女单第三轮/男单半决赛",
@@ -2316,35 +2303,21 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1791214500,
-        "eventId": "",
-        "eventType": "",
-        "length": 5400,
-        "showTime": "22:05",
-        "startTime": 1791209100,
-        "title": "实况录像（奥林匹克）-2026年亚运会 男篮1/4决赛（4K）",
-        "top": ""
-      },
-      {
-        "columnBackvideourl": "",
-        "column_url": "",
         "endTime": 1791215940,
         "eventId": "",
         "eventType": "",
-        "length": 1440,
-        "showTime": "23:35",
-        "startTime": 1791214500,
+        "length": 840,
+        "showTime": "23:45",
+        "startTime": 1791215100,
         "title": "实况录像（奥林匹克）-2026年亚运会 羽毛球比赛2",
         "top": ""
       }
     ],
-    "liveSt": 1791198000,
     "lvUrl": "https://tv.cctv.com/live/cctv16/index.shtml",
     "vip_flag": 0
   },
   "cctv17": {
     "channelName": "CCTV-17农业农村",
-    "isLive": "鲜花盛开的山村第27集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/snqyh/index.shtml",
@@ -2683,13 +2656,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1791201135,
     "lvUrl": "https://tv.cctv.com/live/cctv17",
     "vip_flag": 0
   },
   "cctv2": {
     "channelName": "CCTV-2 财经",
-    "isLive": "经济半小时",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zcjkk/videoset/index.shtml",
@@ -3172,13 +3143,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1791201600,
     "lvUrl": "https://tv.cctv.com/live/cctv2",
     "vip_flag": 0
   },
   "cctv3": {
     "channelName": "CCTV-3 综艺",
-    "isLive": "开门大吉-2026-40",
     "list": [
       {
         "columnBackvideourl": "",
@@ -3457,13 +3426,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1791199800,
     "lvUrl": "https://tv.cctv.com/live/cctv3",
     "vip_flag": 0
   },
   "cctv4": {
     "channelName": "CCTV-4 (亚洲)",
-    "isLive": "闽宁大道-1",
     "list": [
       {
         "columnBackvideourl": "",
@@ -3994,13 +3961,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1791201000,
     "lvUrl": "https://tv.cctv.com/live/cctv4",
     "vip_flag": 0
   },
   "cctv5": {
     "channelName": "CCTV-5 体育",
-    "isLive": "WTT中国大满贯2026-单打第1轮",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4221,10 +4186,10 @@
       {
         "columnBackvideourl": "",
         "column_url": "",
-        "endTime": 1791207000,
+        "endTime": 1791209220,
         "eventId": "",
         "eventType": "",
-        "length": 7200,
+        "length": 9420,
         "showTime": "19:30",
         "startTime": 1791199800,
         "title": "WTT中国大满贯2026-单打第1轮",
@@ -4236,9 +4201,9 @@
         "endTime": 1791210900,
         "eventId": "",
         "eventType": "",
-        "length": 3900,
-        "showTime": "21:30",
-        "startTime": 1791207000,
+        "length": 1680,
+        "showTime": "22:07",
+        "startTime": 1791209220,
         "title": "体育世界",
         "top": ""
       },
@@ -4255,13 +4220,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1791199800,
     "lvUrl": "https://tv.cctv.com/live/cctv5/index.shtml",
     "vip_flag": 0
   },
   "cctv5plus": {
     "channelName": "CCTV-5+ 体育赛事",
-    "isLive": "2026年东北地区城市足球联赛-决赛（大连-长春）",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4468,13 +4431,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1791199800,
     "lvUrl": "https://tv.cctv.com/live/cctv5plus/index.shtml",
     "vip_flag": 0
   },
   "cctv6": {
     "channelName": "CCTV-6 电影",
-    "isLive": "飞驰人生3",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4693,13 +4654,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1791200981,
     "lvUrl": "https://tv.cctv.com/live/cctv6",
     "vip_flag": 0
   },
   "cctv7": {
     "channelName": "CCTV-7 国防军事",
-    "isLive": "国防微视频-军歌嘹亮-战无不胜（2026国庆）",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5086,13 +5045,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1791201780,
     "lvUrl": "https://tv.cctv.com/live/cctv7",
     "vip_flag": 0
   },
   "cctv8": {
     "channelName": "CCTV-8 电视剧",
-    "isLive": "征途第19集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5563,13 +5520,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1791199800,
     "lvUrl": "https://tv.cctv.com/live/cctv8",
     "vip_flag": 0
   },
   "cctvamerica": {
     "channelName": "CCTV-4 (美洲)",
-    "isLive": "环球综艺秀-2026-40",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zgwy/videoset/",
@@ -6052,13 +6007,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1791201600,
     "lvUrl": "https://tv.cctv.com/live/cctvamerica",
     "vip_flag": 0
   },
   "cctvchild": {
     "channelName": "CCTV-14 少儿",
-    "isLive": "动画大放映（黄金版）-2026-157",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/dhdfy/videoset/",
@@ -6325,13 +6278,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1791196500,
     "lvUrl": "https://tv.cctv.com/live/cctvchild",
     "vip_flag": 0
   },
   "cctveurope": {
     "channelName": "CCTV-4 (欧洲)",
-    "isLive": "开讲啦（海外版）-2026-32",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6766,13 +6717,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1791201000,
     "lvUrl": "https://tv.cctv.com/live/cctveurope",
     "vip_flag": 0
   },
   "cctvjilu": {
     "channelName": "CCTV-9 纪录",
-    "isLive": "特别呈现2026-278",
     "list": [
       {
         "columnBackvideourl": "",
@@ -7111,7 +7060,6 @@
         "top": ""
       }
     ],
-    "liveSt": 1791201600,
     "lvUrl": "https://tv.cctv.com/live/cctvjilu",
     "vip_flag": 0
   }
