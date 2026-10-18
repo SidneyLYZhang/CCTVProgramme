@@ -1,7 +1,6 @@
 {
   "cctv1": {
     "channelName": "CCTV-1 综合",
-    "isLive": "伟大的长征第7集",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/shq/index.shtml",
@@ -472,13 +471,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1791806520,
     "lvUrl": "https://tv.cctv.com/live/cctv1",
     "vip_flag": 0
   },
   "cctv10": {
     "channelName": "CCTV-10 科教",
-    "isLive": "健康新时代-4",
     "list": [
       {
         "columnBackvideourl": "",
@@ -901,13 +898,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1791808320,
     "lvUrl": "https://tv.cctv.com/live/cctv10",
     "vip_flag": 0
   },
   "cctv11": {
     "channelName": "CCTV-11 戏曲",
-    "isLive": "中国京剧音配像精粹-2026-49京剧《四郎探母》（修复版）",
     "list": [
       {
         "columnBackvideourl": "",
@@ -1138,13 +1133,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1791804600,
     "lvUrl": "https://tv.cctv.com/live/cctv11",
     "vip_flag": 0
   },
   "cctv12": {
     "channelName": "CCTV-12 社会与法",
-    "isLive": "一线-2026-203",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/xzkt/videoset/index.shtml",
@@ -1531,13 +1524,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1791807900,
     "lvUrl": "https://tv.cctv.com/live/cctv12",
     "vip_flag": 0
   },
   "cctv13": {
     "channelName": "CCTV-13 新闻",
-    "isLive": "东方时空",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/wyxw/index.shtml",
@@ -1972,13 +1963,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1791806400,
     "lvUrl": "https://tv.cctv.com/live/cctv13",
     "vip_flag": 0
   },
   "cctv15": {
     "channelName": "CCTV-15 音乐",
-    "isLive": "中国音乐电视-2026-15-山河回响 声动音乐会（精编）",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/fhgy/videoset/",
@@ -2185,13 +2174,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1791809130,
     "lvUrl": "https://tv.cctv.com/live/cctv15",
     "vip_flag": 0
   },
   "cctv16": {
     "channelName": "CCTV-16奥林匹克",
-    "isLive": "实况录像（奥林匹克）-2026年亚运会 举重比赛1",
     "list": [
       {
         "columnBackvideourl": "",
@@ -2482,13 +2469,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1791807300,
     "lvUrl": "https://tv.cctv.com/live/cctv16/index.shtml",
     "vip_flag": 0
   },
   "cctv17": {
     "channelName": "CCTV-17农业农村",
-    "isLive": "三农群英汇-2026-326",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/snqyh/index.shtml",
@@ -2815,13 +2800,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1791809100,
     "lvUrl": "https://tv.cctv.com/live/cctv17",
     "vip_flag": 0
   },
   "cctv2": {
     "channelName": "CCTV-2 财经",
-    "isLive": "经济信息联播",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zcjkk/videoset/index.shtml",
@@ -3304,13 +3287,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1791808200,
     "lvUrl": "https://tv.cctv.com/live/cctv2",
     "vip_flag": 0
   },
   "cctv3": {
     "channelName": "CCTV-3 综艺",
-    "isLive": "开门大吉-2026-41",
     "list": [
       {
         "columnBackvideourl": "",
@@ -3577,13 +3558,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1791804600,
     "lvUrl": "https://tv.cctv.com/live/cctv3",
     "vip_flag": 0
   },
   "cctv4": {
     "channelName": "CCTV-4 (亚洲)",
-    "isLive": "海峡两岸-2026-285",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4102,13 +4081,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1791808200,
     "lvUrl": "https://tv.cctv.com/live/cctv4",
     "vip_flag": 0
   },
   "cctv5": {
     "channelName": "CCTV-5 体育",
-    "isLive": "2026年武汉网球公开赛-单打第一轮（王曦雨-王欣瑜）",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4387,13 +4364,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1791804600,
     "lvUrl": "https://tv.cctv.com/live/cctv5/index.shtml",
     "vip_flag": 0
   },
   "cctv5plus": {
     "channelName": "CCTV-5+ 体育赛事",
-    "isLive": "2026年ATP1000男子网球大师赛-上海站 第三轮",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4624,13 +4599,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1791799200,
     "lvUrl": "https://tv.cctv.com/live/cctv5plus/index.shtml",
     "vip_flag": 0
   },
   "cctv6": {
     "channelName": "CCTV-6 电影",
-    "isLive": "野王",
     "list": [
       {
         "columnBackvideourl": "",
@@ -4849,13 +4822,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1791807614,
     "lvUrl": "https://tv.cctv.com/live/cctv6",
     "vip_flag": 0
   },
   "cctv7": {
     "channelName": "CCTV-7 国防军事",
-    "isLive": "防务新观察-2026-285",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5314,13 +5285,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1791806970,
     "lvUrl": "https://tv.cctv.com/live/cctv7",
     "vip_flag": 0
   },
   "cctv8": {
     "channelName": "CCTV-8 电视剧",
-    "isLive": "蒸蒸日上第6集",
     "list": [
       {
         "columnBackvideourl": "",
@@ -5791,13 +5760,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1791808240,
     "lvUrl": "https://tv.cctv.com/live/cctv8",
     "vip_flag": 0
   },
   "cctvamerica": {
     "channelName": "CCTV-4 (美洲)",
-    "isLive": "环球综艺秀-2026-41",
     "list": [
       {
         "columnBackvideourl": "https://tv.cctv.com/lm/zgwy/videoset/",
@@ -6256,13 +6223,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1791806400,
     "lvUrl": "https://tv.cctv.com/live/cctvamerica",
     "vip_flag": 0
   },
   "cctvchild": {
     "channelName": "CCTV-14 少儿",
-    "isLive": "动画大放映（黄金版）-2026-161",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6481,13 +6446,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1791801300,
     "lvUrl": "https://tv.cctv.com/live/cctvchild",
     "vip_flag": 0
   },
   "cctveurope": {
     "channelName": "CCTV-4 (欧洲)",
-    "isLive": "记住乡愁-片段展播-2025-8",
     "list": [
       {
         "columnBackvideourl": "",
@@ -6934,13 +6897,11 @@
         "top": ""
       }
     ],
-    "liveSt": 1791809100,
     "lvUrl": "https://tv.cctv.com/live/cctveurope",
     "vip_flag": 0
   },
   "cctvjilu": {
     "channelName": "CCTV-9 纪录",
-    "isLive": "特别呈现2026-285",
     "list": [
       {
         "columnBackvideourl": "",
@@ -7279,7 +7240,6 @@
         "top": ""
       }
     ],
-    "liveSt": 1791806400,
     "lvUrl": "https://tv.cctv.com/live/cctvjilu",
     "vip_flag": 0
   }
